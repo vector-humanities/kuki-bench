@@ -1,0 +1,28 @@
+{
+ "note": "The translation as of this commit of its working repository, which is the master. Corrections go there, as change lists, not into these copies.",
+ "commit": "4885803",
+ "date": "2026-11-05",
+ "copied": "2026-11-05",
+ "files": [
+  "Kuki_Problem-of-Contingency_literal.md",
+  "Kuki_Problem-of-Contingency_translation.md",
+  "source/guzensei-ocr-raw.txt",
+  "working/ch2-parts/BRIEF.md",
+  "working/ch3-parts/BRIEF.md",
+  "working/readthrough/BRIEF.md",
+  "working/terms-pass/BRIEF.md",
+  "working/ch2-parts/ch2-editor-notes.md",
+  "working/ch3-parts/ch3-editor-notes.md",
+  "working/terms-pass/changes-1.md",
+  "working/terms-pass/changes-2a.md",
+  "working/terms-pass/changes-2b.md",
+  "working/readthrough/fixes-1.md",
+  "working/readthrough/fixes-2a.md",
+  "working/readthrough/fixes-2b.md",
+  "working/readthrough/fixes-2c.md",
+  "working/readthrough/fixes-3a.md",
+  "working/readthrough/fixes-3b.md",
+  "working/readthrough/fixes-3c.md",
+  "working/readthrough/fixes-poems.md"
+ ]
+}

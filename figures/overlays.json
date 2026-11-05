@@ -1,0 +1,923 @@
+{
+ "fig-01-p077.png": [
+  {
+   "jp": "因果的必然",
+   "en": "causal necessity",
+   "x": 0.0672,
+   "y": 0.0167,
+   "align": "left"
+  },
+  {
+   "jp": "目的々偶然",
+   "en": "teleological contingency",
+   "x": 0.9262,
+   "y": 0.0241,
+   "align": "right"
+  },
+  {
+   "jp": "目的々必然",
+   "en": "teleological necessity",
+   "x": 0.0689,
+   "y": 0.9202,
+   "align": "left"
+  },
+  {
+   "jp": "因果的偶然",
+   "en": "causal contingency",
+   "x": 0.9311,
+   "y": 0.9295,
+   "align": "right"
+  },
+  {
+   "jp": "必然性",
+   "en": "necessity",
+   "x": 0.0984,
+   "y": 0.4898,
+   "anchor": "center",
+   "angle": 90
+  },
+  {
+   "jp": "偶然性",
+   "en": "contingency",
+   "x": 0.9115,
+   "y": 0.4898,
+   "anchor": "center",
+   "angle": 90
+  },
+  {
+   "jp": "因果性",
+   "en": "causality",
+   "x": 0.3705,
+   "y": 0.2968,
+   "anchor": "center",
+   "angle": 45
+  },
+  {
+   "jp": "目的性",
+   "en": "purposiveness",
+   "x": 0.682,
+   "y": 0.334,
+   "anchor": "center",
+   "angle": -45
+  }
+ ],
+ "fig-02-p082.png": [
+  {
+   "jp": "假說的偶然",
+   "en": "hypothetical\ncontingency",
+   "x": 0.5355,
+   "y": 0.0449,
+   "align": "right"
+  },
+  {
+   "jp": "經驗的偶然",
+   "en": "empirical\ncontingency",
+   "x": 0.4313,
+   "y": 0.2989,
+   "align": "left"
+  },
+  {
+   "jp": "理由的偶然",
+   "en": "contingency\nof ground",
+   "x": 0.9953,
+   "y": 0.2067,
+   "align": "right"
+  },
+  {
+   "jp": "目的々偶然",
+   "en": "teleological\ncontingency",
+   "x": 0.0047,
+   "y": 0.4584,
+   "align": "left"
+  },
+  {
+   "jp": "因果的偶然",
+   "en": "causal\ncontingency",
+   "x": 0.4313,
+   "y": 0.4551,
+   "align": "left"
+  },
+  {
+   "jp": "積極的",
+   "en": "positive",
+   "x": 0.7014,
+   "y": 0.6876,
+   "align": "left"
+  },
+  {
+   "jp": "消極的",
+   "en": "negative",
+   "x": 0.9976,
+   "y": 0.7225,
+   "align": "right"
+  },
+  {
+   "jp": "積極的",
+   "en": "positive",
+   "x": 0.0711,
+   "y": 0.9416,
+   "align": "left"
+  },
+  {
+   "jp": "消極的",
+   "en": "negative",
+   "x": 0.2441,
+   "y": 0.9708,
+   "align": "left"
+  },
+  {
+   "jp": "積極的",
+   "en": "positive",
+   "x": 0.4076,
+   "y": 0.9416,
+   "align": "left"
+  },
+  {
+   "jp": "消極的",
+   "en": "negative",
+   "x": 0.5711,
+   "y": 0.9708,
+   "align": "left"
+  }
+ ],
+ "fig-03-p198.png": [
+  {
+   "jp": "現實",
+   "en": "actuality",
+   "x": 0.367,
+   "y": 0.0255,
+   "align": "left"
+  },
+  {
+   "jp": "必然",
+   "en": "necessary",
+   "x": 0.1046,
+   "y": 0.0693,
+   "align": "left"
+  },
+  {
+   "jp": "偶然",
+   "en": "contingent",
+   "x": 0.8679,
+   "y": 0.0821,
+   "align": "right"
+  },
+  {
+   "jp": "可能",
+   "en": "possible",
+   "x": 0.1101,
+   "y": 0.9197,
+   "align": "left"
+  },
+  {
+   "jp": "不可能",
+   "en": "impossible",
+   "x": 0.8,
+   "y": 0.8394,
+   "align": "right"
+  },
+  {
+   "jp": "非現實",
+   "en": "non-actuality",
+   "x": 0.1835,
+   "y": 0.8449,
+   "align": "left"
+  },
+  {
+   "jp": "確證性",
+   "en": "apodicticity",
+   "x": 0.1284,
+   "y": 0.4653,
+   "align": "left"
+  },
+  {
+   "jp": "言明性",
+   "en": "assertoricity",
+   "x": 0.5028,
+   "y": 0.1825,
+   "align": "left"
+  },
+  {
+   "jp": "問題性",
+   "en": "problematicity",
+   "x": 0.5339,
+   "y": 0.4927,
+   "align": "left"
+  }
+ ],
+ "fig-04-p203.png": [
+  {
+   "jp": "必然",
+   "en": "necessary",
+   "x": 0.1088,
+   "y": 0.0571,
+   "align": "left"
+  },
+  {
+   "jp": "不可能",
+   "en": "impossible",
+   "x": 0.8386,
+   "y": 0.0875,
+   "align": "right"
+  },
+  {
+   "jp": "可能",
+   "en": "possible",
+   "x": 0.1035,
+   "y": 0.9107,
+   "align": "left"
+  },
+  {
+   "jp": "偶然",
+   "en": "contingent",
+   "x": 0.8368,
+   "y": 0.9179,
+   "align": "right"
+  },
+  {
+   "jp": "反對",
+   "en": "contrary",
+   "x": 0.4333,
+   "y": 0.0268,
+   "align": "left"
+  },
+  {
+   "jp": "小反對",
+   "en": "subcontrary",
+   "x": 0.3526,
+   "y": 0.9536,
+   "align": "left"
+  },
+  {
+   "jp": "大小",
+   "en": "subalternation",
+   "x": 0.1105,
+   "y": 0.4839,
+   "align": "left"
+  },
+  {
+   "jp": "矛盾",
+   "en": "contradictory",
+   "x": 0.1105,
+   "y": 0.4393,
+   "align": "left"
+  },
+  {
+   "jp": "大小",
+   "en": "subalternation",
+   "x": 0.8246,
+   "y": 0.4929,
+   "align": "right"
+  },
+  {
+   "jp": "矛盾",
+   "en": "contradictory",
+   "x": 0.8246,
+   "y": 0.4429,
+   "align": "right"
+  },
+  {
+   "jp": "(現實)",
+   "en": "(actuality)",
+   "x": 0.2895,
+   "y": 0.2679,
+   "align": "left"
+  },
+  {
+   "jp": "(非現實)",
+   "en": "(non-actuality)",
+   "x": 0.693,
+   "y": 0.2143,
+   "align": "right"
+  }
+ ],
+ "fig-05-p207.png": [
+  {
+   "jp": "必然",
+   "en": "necessary",
+   "x": 0.4957,
+   "y": 0.0405,
+   "align": "left"
+  },
+  {
+   "jp": "可能",
+   "en": "possible",
+   "x": 0.0043,
+   "y": 0.557,
+   "align": "left"
+  },
+  {
+   "jp": "偶然",
+   "en": "contingent",
+   "x": 0.8143,
+   "y": 0.5532,
+   "align": "left"
+  },
+  {
+   "jp": "不可能",
+   "en": "impossible",
+   "x": 0.4986,
+   "y": 0.843,
+   "align": "left"
+  },
+  {
+   "jp": "現實",
+   "en": "actuality",
+   "x": 0.6457,
+   "y": 0.4304,
+   "align": "left"
+  },
+  {
+   "jp": "確證性",
+   "en": "apodicticity",
+   "x": 0.4571,
+   "y": 0.2987,
+   "align": "right"
+  },
+  {
+   "jp": "問題性",
+   "en": "problematicity",
+   "x": 0.2843,
+   "y": 0.5316,
+   "align": "left"
+  }
+ ],
+ "fig-06-p213.png": [
+  {
+   "jp": "可能",
+   "en": "possibility",
+   "x": 0.4152,
+   "y": 0.3659,
+   "align": "left"
+  },
+  {
+   "jp": "偶然",
+   "en": "contingency",
+   "x": 0.6444,
+   "y": 0.5383,
+   "align": "left"
+  },
+  {
+   "jp": "必然",
+   "en": "necessity",
+   "x": 0.565,
+   "y": 0.1707,
+   "align": "right"
+  },
+  {
+   "jp": "不可能",
+   "en": "impossibility",
+   "x": 0.4188,
+   "y": 0.8171,
+   "align": "left"
+  }
+ ],
+ "fig-07-p225.png": [
+  {
+   "jp": "現實性",
+   "en": "actuality",
+   "x": 0.569,
+   "y": 0.2162,
+   "align": "left"
+  },
+  {
+   "jp": "必然性",
+   "en": "necessity",
+   "x": 0.0961,
+   "y": 0.3848,
+   "align": "left"
+  },
+  {
+   "jp": "可能性",
+   "en": "possibility",
+   "x": 0.0985,
+   "y": 0.5463,
+   "align": "left"
+  },
+  {
+   "jp": "非現實性",
+   "en": "non-actuality",
+   "x": 0.5788,
+   "y": 0.7126,
+   "align": "left"
+  },
+  {
+   "jp": "不可能性",
+   "en": "impossibility",
+   "x": 0.4433,
+   "y": 0.8789,
+   "align": "right"
+  }
+ ],
+ "fig-08-p232.png": [],
+ "fig-09-p233.png": [],
+ "fig-10-p234.png": [
+  {
+   "jp": "必然性(可能性)",
+   "en": "necessity\n(possibility)",
+   "x": 0.3507,
+   "y": 0.2392,
+   "align": "right"
+  },
+  {
+   "jp": "偶然性",
+   "en": "contingency",
+   "x": 0.7253,
+   "y": 0.7594,
+   "align": "left"
+  },
+  {
+   "jp": "不可能性",
+   "en": "impossibility",
+   "x": 0.7547,
+   "y": 0.6484,
+   "align": "left"
+  }
+ ],
+ "fig-11-p236.png": [
+  {
+   "jp": "必然性",
+   "en": "necessity",
+   "x": 0.3106,
+   "y": 0.1122,
+   "align": "left"
+  },
+  {
+   "jp": "可能性",
+   "en": "possibility",
+   "x": 0.5455,
+   "y": 0.2585,
+   "align": "left"
+  },
+  {
+   "jp": "不可能性",
+   "en": "impossibility",
+   "x": 0.5833,
+   "y": 0.8179,
+   "align": "left"
+  },
+  {
+   "jp": "偶然性",
+   "en": "contingency",
+   "x": 0.5549,
+   "y": 0.8667,
+   "align": "left"
+  }
+ ],
+ "fig-12-p239.png": [],
+ "fig-13-p239.png": [],
+ "fig-14-p239.png": [],
+ "fig-15-p241.png": [
+  {
+   "jp": "偶然",
+   "en": "contingent",
+   "x": 0.8577,
+   "y": 0.0065,
+   "align": "right"
+  },
+  {
+   "jp": "必然(第一體系)",
+   "en": "necessary\n(first system)",
+   "x": 0.0427,
+   "y": 0.1645,
+   "align": "left"
+  },
+  {
+   "jp": "現實性(矛盾)",
+   "en": "actuality\n(contradictory)",
+   "x": 0.726,
+   "y": 0.1484,
+   "align": "right"
+  },
+  {
+   "jp": "問題性(小反對)",
+   "en": "problematicity\n(subcontrary)",
+   "x": 0.6014,
+   "y": 0.2677,
+   "align": "right"
+  },
+  {
+   "jp": "虛無性(大小)",
+   "en": "nihility\n(subalternation)",
+   "x": 0.8434,
+   "y": 0.4226,
+   "align": "right"
+  },
+  {
+   "jp": "可能(第二體系)",
+   "en": "possible\n(second system)",
+   "x": 0.4199,
+   "y": 0.5548,
+   "align": "left"
+  },
+  {
+   "jp": "不可能(第三體系)",
+   "en": "impossible\n(third system)",
+   "x": 0.8167,
+   "y": 0.7226,
+   "align": "right"
+  }
+ ],
+ "fig-16-p249.png": [
+  {
+   "jp": "必然",
+   "en": "necessary",
+   "x": 0.4528,
+   "y": 0.0646,
+   "align": "left"
+  },
+  {
+   "jp": "反對",
+   "en": "contrary",
+   "x": 0.1057,
+   "y": 0.4177,
+   "align": "left"
+  },
+  {
+   "jp": "(可能)",
+   "en": "(possible)",
+   "x": 0.4528,
+   "y": 0.3797,
+   "align": "left"
+  },
+  {
+   "jp": "不可能",
+   "en": "impossible",
+   "x": 0.334,
+   "y": 0.9633,
+   "align": "left"
+  },
+  {
+   "jp": "(狹義の)蓋然",
+   "en": "probable\n(in the\nnarrow\nsense)",
+   "x": 0.7302,
+   "y": 0.0013,
+   "align": "left"
+  },
+  {
+   "jp": "矛盾",
+   "en": "contradictory",
+   "x": 0.1075,
+   "y": 0.3278,
+   "align": "left"
+  },
+  {
+   "jp": "大小",
+   "en": "subalternation",
+   "x": 0.3094,
+   "y": 0.2608,
+   "align": "left",
+   "clear": false
+  },
+  {
+   "jp": "小反對",
+   "en": "subcontrary",
+   "x": 0.4453,
+   "y": 0.6835,
+   "align": "left"
+  },
+  {
+   "jp": "(偶然)",
+   "en": "(contingent)",
+   "x": 0.2358,
+   "y": 0.6848,
+   "align": "left"
+  },
+  {
+   "jp": "矛盾",
+   "en": "contradictory",
+   "x": 0.234,
+   "y": 0.7241,
+   "align": "left",
+   "clear": false
+  },
+  {
+   "jp": "大小",
+   "en": "subalternation",
+   "x": 0.2377,
+   "y": 0.8177,
+   "align": "left",
+   "clear": false
+  },
+  {
+   "jp": "非蓋然",
+   "en": "improbable",
+   "x": 0.7226,
+   "y": 0.5772,
+   "align": "left",
+   "clear": false
+  },
+  {
+   "jp": "蓋然",
+   "en": "probable",
+   "x": 0.9981,
+   "y": 0.5329,
+   "align": "right",
+   "clear": false
+  }
+ ],
+ "fig-17-p269.png": [
+  {
+   "jp": "過去",
+   "en": "past",
+   "x": 0.0783,
+   "y": 0.4034,
+   "align": "left"
+  },
+  {
+   "jp": "未來",
+   "en": "future",
+   "x": 0.9518,
+   "y": 0.4103,
+   "align": "right"
+  },
+  {
+   "jp": "現在",
+   "en": "present",
+   "x": 0.3819,
+   "y": 0.3741,
+   "align": "left"
+  },
+  {
+   "jp": "現實",
+   "en": "actuality",
+   "x": 0.547,
+   "y": 0.2759,
+   "align": "left"
+  },
+  {
+   "jp": "必然",
+   "en": "necessity",
+   "x": 0.2169,
+   "y": 0.4448,
+   "align": "left"
+  },
+  {
+   "jp": "可能",
+   "en": "possibility",
+   "x": 0.7458,
+   "y": 0.2224,
+   "align": "right"
+  },
+  {
+   "jp": "偶然(不可能)",
+   "en": "contingency\n(impossibility)",
+   "x": 0.7024,
+   "y": 0.5586,
+   "align": "left"
+  }
+ ],
+ "fig-18-p273.png": [
+  {
+   "jp": "弛緩",
+   "en": "relaxation",
+   "x": 0.4846,
+   "y": 0.06,
+   "align": "right"
+  },
+  {
+   "jp": "沈靜",
+   "en": "subsidence",
+   "x": 0.5749,
+   "y": 0.075,
+   "align": "left"
+  },
+  {
+   "jp": "平穩",
+   "en": "calm",
+   "x": 0.584,
+   "y": 0.2275,
+   "align": "left"
+  },
+  {
+   "jp": "必然",
+   "en": "necessary",
+   "x": 0.5417,
+   "y": 0.3088,
+   "align": "left"
+  },
+  {
+   "jp": "靜的",
+   "en": "static",
+   "x": 0.5623,
+   "y": 0.5437,
+   "align": "left"
+  },
+  {
+   "jp": "緊張",
+   "en": "tension",
+   "x": 0.0343,
+   "y": 0.62,
+   "align": "left"
+  },
+  {
+   "jp": "不安",
+   "en": "anxiety",
+   "x": 0.1554,
+   "y": 0.6625,
+   "align": "left"
+  },
+  {
+   "jp": "可能",
+   "en": "possible",
+   "x": 0.256,
+   "y": 0.64,
+   "align": "left"
+  },
+  {
+   "jp": "動的",
+   "en": "dynamic",
+   "x": 0.5691,
+   "y": 0.65,
+   "align": "left"
+  },
+  {
+   "jp": "偶然",
+   "en": "contingent",
+   "x": 0.6994,
+   "y": 0.6725,
+   "align": "left"
+  },
+  {
+   "jp": "驚異",
+   "en": "wonder",
+   "x": 0.8206,
+   "y": 0.6763,
+   "align": "left"
+  },
+  {
+   "jp": "興奮",
+   "en": "excitement",
+   "x": 0.9977,
+   "y": 0.6425,
+   "align": "right"
+  },
+  {
+   "jp": "不可能",
+   "en": "impossible",
+   "x": 0.5371,
+   "y": 0.8638,
+   "align": "left"
+  }
+ ],
+ "fig-19-p312.png": [
+  {
+   "jp": "絕對的(形而上的)必然",
+   "en": "absolute\n(metaphysical)\nnecessity",
+   "x": 0.1888,
+   "y": 0.0408,
+   "align": "left"
+  },
+  {
+   "jp": "原始偶然",
+   "en": "primal\ncontingency",
+   "x": 0.8624,
+   "y": 0.1361,
+   "align": "right"
+  },
+  {
+   "jp": "絕對者",
+   "en": "the absolute",
+   "x": 0.4,
+   "y": 0.1224,
+   "align": "left"
+  },
+  {
+   "jp": "有限者",
+   "en": "the finite",
+   "x": 0.4032,
+   "y": 0.8585,
+   "align": "left"
+  },
+  {
+   "jp": "經驗的(假說的)必然",
+   "en": "empirical\n(hypothetical)\nnecessity",
+   "x": 0.8704,
+   "y": 0.8571,
+   "align": "right"
+  },
+  {
+   "jp": "形而上的偶然",
+   "en": "metaphysical\ncontingency",
+   "x": 0.2,
+   "y": 0.8,
+   "align": "left"
+  },
+  {
+   "jp": "運命",
+   "en": "fate",
+   "x": 0.592,
+   "y": 0.3333,
+   "align": "left"
+  },
+  {
+   "jp": "必然性",
+   "en": "necessity",
+   "x": 0.2384,
+   "y": 0.4313,
+   "align": "left"
+  },
+  {
+   "jp": "偶然性",
+   "en": "contingency",
+   "x": 0.632,
+   "y": 0.4313,
+   "align": "left"
+  },
+  {
+   "jp": "形而上的離接的見地",
+   "en": "metaphysical-disjunctive\nstandpoint",
+   "x": 0.0016,
+   "y": 0.902,
+   "align": "left"
+  },
+  {
+   "jp": "經驗的假說的見地",
+   "en": "empirical-hypothetical\nstandpoint",
+   "x": 0.6544,
+   "y": 0.0531,
+   "align": "left"
+  }
+ ],
+ "fig-20-p315.png": [],
+ "fig-21-p316.png": [],
+ "fig-22-p317.png": [
+  {
+   "jp": "有",
+   "en": "being",
+   "x": 0.5395,
+   "y": 0.0132,
+   "align": "left"
+  },
+  {
+   "jp": "無",
+   "en": "nothingness",
+   "x": 0.5473,
+   "y": 0.8628,
+   "align": "left"
+  },
+  {
+   "jp": "必然",
+   "en": "necessity",
+   "x": 0.1023,
+   "y": 0.005,
+   "align": "left"
+  },
+  {
+   "jp": "可能",
+   "en": "possibility",
+   "x": 0.9116,
+   "y": 0.0215,
+   "align": "right"
+  },
+  {
+   "jp": "(言明性)",
+   "en": "(assertoricity)",
+   "x": 0.4047,
+   "y": 0.2099,
+   "align": "left"
+  },
+  {
+   "jp": "確證性",
+   "en": "apodicticity",
+   "x": 0.045,
+   "y": 0.3091,
+   "align": "left"
+  },
+  {
+   "jp": "問題性",
+   "en": "problematicity",
+   "x": 0.8047,
+   "y": 0.4149,
+   "align": "left"
+  },
+  {
+   "jp": "現實",
+   "en": "actuality",
+   "x": 0.3721,
+   "y": 0.3603,
+   "align": "left"
+  },
+  {
+   "jp": "非現實",
+   "en": "non-actuality",
+   "x": 0.4915,
+   "y": 0.3091,
+   "align": "left"
+  },
+  {
+   "jp": "不可能",
+   "en": "impossibility",
+   "x": 0.3907,
+   "y": 0.7273,
+   "align": "right"
+  },
+  {
+   "jp": "偶然",
+   "en": "contingency",
+   "x": 0.6279,
+   "y": 0.7107,
+   "align": "left"
+  }
+ ]
+}
