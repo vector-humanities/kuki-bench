@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.12 (2026-11-06)
+
+- The Library's labels: Held and Linked.
+
 ## 0.1.11 (2026-11-06)
 
 - **The Library** holds twelve more free-to-read texts as published, and shows covers: its 63 records of scholarship are now articles, chapters and books. The bench is on bench-kit 0.99.0, off its proposal branch.
