@@ -100,7 +100,8 @@
    "pages": "390 p. (NDL); 400 pp. (Iwanami page)",
    "url": "https://www.iwanami.co.jp/book/b476475.html",
    "note": "Standard critical text, set from Kuki's own annotated copy of the 1935 edition; the volume also contains the 1932 dissertation 「偶然性」 and the Ōtani University lectures.",
-   "verified": "Iwanami Shoten book page b476475 (dated 1980-11-19, editors, 品切れ); NDL OpenSearch records"
+   "verified": "Iwanami Shoten book page b476475 (dated 1980-11-19, editors, 品切れ); NDL OpenSearch records",
+   "zotero": "F6U53DPD"
   },
   {
    "id": "SAKABE-2000",
@@ -167,7 +168,8 @@
    "pages": "364 pp. in the 2017 issue (index ends p. 364)",
    "doi": "10.1515/9780824842345",
    "note": "Translates Kuki's poems, \"Rhyme in Japanese poetry\" appendix poems, \"The Genealogy of Feelings\" and selected essays, with Marra's essay \"Worlds in Tension\"; Maraldo 2008 cites its poems on chance and the dice.",
-   "verified": "Crossref records for the book and its chapters (Introduction 1–5; Worlds in Tension 6–44; Free Verse 45–65; Short Poems 66–99; Rhyming Poems 100–124; Genealogy of Feelings 125–214; Selected Essays 215–286)"
+   "verified": "Crossref records for the book and its chapters (Introduction 1–5; Worlds in Tension 6–44; Free Verse 45–65; Short Poems 66–99; Rhyming Poems 100–124; Genealogy of Feelings 125–214; Selected Essays 215–286)",
+   "zotero": "ZB7QIGCW"
   },
   {
    "id": "SOURCEBOOK-2011",
@@ -237,7 +239,8 @@
    "publisher": "Routledge, London and New York",
    "doi": "10.4324/9780203979792",
    "note": "On Heidegger's Japanese contacts; Kuki appears in that context. Not about contingency.",
-   "verified": "Crossref record; Maraldo 2008 footnote 1 (Routledge 1996, trans. Parkes)"
+   "verified": "Crossref record; Maraldo 2008 footnote 1 (Routledge 1996, trans. Parkes)",
+   "zotero": "L98DY7RG"
   },
   {
    "id": "PINCUS-1996",
@@ -292,7 +295,8 @@
    "in": "(monograph)",
    "publisher": "Princeton University Press, Princeton",
    "note": "Discusses Kuki within interwar debates on culture and modernity; whether it treats the 1935 book was not checked.",
-   "verified": "Crossref records (2011 ebook DOIs); library catalogue listing (©2000)"
+   "verified": "Crossref records (2011 ebook DOIs); library catalogue listing (©2000)",
+   "zotero": "XQAN7GBF"
   },
   {
    "id": "SAKABE-FUJITA-WASHIDA-2002",
@@ -319,7 +323,8 @@
    "pages": "x, 185 p.; 24 cm",
    "doi": "10.1515/9780824865054",
    "note": "Translation and study of The Structure of Iki (1930); Nara's essay on Kuki's philosophy of life is in the book (pp. 95–129 in the 2017 issue, DOI 10.1515/9780824865054-005). Context for the 1935 book rather than a study of it.",
-   "verified": "CiNii Books BA67653252; Crossref record for the 2017 DOI"
+   "verified": "CiNii Books BA67653252; Crossref record for the 2017 DOI",
+   "zotero": "V6E4PEH5"
   },
   {
    "id": "MAYEDA-2006",
@@ -404,7 +409,8 @@
    "licence": "Free to read; no licence stated",
    "url": "https://www.chisokudo.org/wp-content/uploads/FJP2-Maraldo.pdf",
    "note": "Keynote lecture on the book's three forms of contingency (categorical, empirical, disjunctive) and primal contingency, read against evolutionary theory and theology, ending with the ethical question of the encounter (KSZ 2).",
-   "verified": "the chapter PDF (title page, running heads 36–55, references)"
+   "verified": "the chapter PDF (title page, running heads 36–55, references)",
+   "zotero": "SJ7ZRSHC"
   },
   {
    "id": "MARRA-2008",
@@ -419,7 +425,8 @@
    "licence": "Free to read; no licence stated",
    "url": "https://www.chisokudo.org/wp-content/uploads/FJP2-Marra.pdf",
    "note": "On Kuki and Heidegger's \"Dialogue on Language\"; not on the 1935 book.",
-   "verified": "chisokudo.org downloads page; search listing of the PDF"
+   "verified": "chisokudo.org downloads page; search listing of the PDF",
+   "zotero": "3ETY74RB"
   },
   {
    "id": "MAYEDA-2008",
@@ -1055,7 +1062,7 @@
    "id": "MAYEDA-2001",
    "title": "Ethics and Difference: Time, Space and Ethics in the Philosophy of Watsuji Tetsurō, Kuki Shūzō and Martin Heidegger",
    "author": "Graham Mayeda",
-   "date": "2001 (copyright page, per search listing); PhilPapers gives 2003",
+   "date": "2001",
    "kind": "thesis",
    "lang": "en",
    "in": "PhD thesis, Graduate Department of Philosophy, University of Toronto",
@@ -1063,7 +1070,8 @@
    "licence": "Free to read; no licence stated",
    "url": "https://utoronto.scholaris.ca/server/api/core/bitstreams/bdc55021-eda7-452c-85b5-746c81e0be15/content",
    "note": "Reads Kuki's ethics of difference through his theory of contingency and time, against Watsuji and Heidegger.",
-   "verified": "search listing of the U of T Scholaris PDF; University of Ottawa faculty page (PhD 2001, Toronto)"
+   "verified": "The thesis’s title and copyright pages",
+   "zotero": "SXMNFFSK"
   },
   {
    "id": "EBERSOLT-2017",
@@ -1110,15 +1118,17 @@
   },
   {
    "id": "SCALIGERO-1967",
-   "title": "Review of Kuki Shūzō, Le problème de la contingence (Tokyo: Éditions de l'Université de Tokyo, 1966)",
+   "title": "Review of Le problème de la contingence, by Kuki Shūzō",
    "author": "Massimo Scaligero",
-   "date": "1967 (September–December)",
+   "date": "1967",
    "kind": "review",
-   "lang": "it",
-   "in": "East and West 17(3/4)",
-   "url": "https://www.larchetipo.com/2023/08/recensioni/kuki-woods-jayatilleke-agrawala/",
+   "lang": "en",
+   "in": "East and West 17(3/4), September–December 1967",
+   "url": "https://www.jstor.org/stable/29755202",
    "note": "Review of Omodaka's French translation.",
-   "verified": "L'Archetipo reprint page (source line: East & West, vol. 17, no. 3/4, Sept.–Dec. 1967)"
+   "verified": "JSTOR cover page of the review",
+   "pages": "340–341",
+   "zotero": "KIW2DMGM"
   },
   {
    "id": "MORISATO-2016",

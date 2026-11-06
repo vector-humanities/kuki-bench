@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.3 (2026-11-06)
+
+- **The Library**: Scaligero's review of Omodaka's French translation corrected from the JSTOR record (English, pp. 340–341); Mayeda's thesis dated from its copyright page.
+
 ## 0.1.2 (2026-11-05)
 
 - **The Library**: 84 records of the book's editions and translations and the scholarship on it, each checked against the catalogue, publisher or repository it names, with a link to where it is published; eight from the reference manager.
