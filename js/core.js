@@ -31,6 +31,14 @@
     }
   });
 
+  // The bench's own themes (css/bench.css): its default, the kit's first theme, is light (Iki), and Kon is
+  // its dark one, for ◐ to switch to
+  SW.THEMES[0].dark = false;
+  SW.THEMES.splice(1, 0, { id: 'night', label: 'Kon', dark: true, note: 'the same colours at night, on 紺' });
+  var dark = SW.themeInfo(SW.store.get('theme.dark', '')), light = SW.themeInfo(SW.store.get('theme.light', ''));
+  if (!dark || !dark.dark || dark.id !== SW.store.get('theme.dark', '')) SW.store.set('theme.dark', 'night');
+  if (!light || light.dark || light.id !== SW.store.get('theme.light', '')) SW.store.set('theme.light', 'phosphor');
+
   // ghosts: lines as keys, spacing and case set aside
   SW.lineKey = function (t) { return String(t || '').replace(/\[(p\.|コマ) [^\]]*\]/g, '').replace(/\s+/g, ' ').trim().toLowerCase(); };
 })(this);

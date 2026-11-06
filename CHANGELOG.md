@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.4 (2026-11-06)
+
+- **Page images held in the bench**: all 174 of the National Diet Library's images, at full resolution, with quick copies of each page, since the library's image service answers 429 when asked for many. **Colours**: Iki, the default and light, after Kuki's own colours of iki in 「いき」の構造; Kon, its dark counterpart.
+
 ## 0.1.3 (2026-11-06)
 
 - **The Library**: Scaligero's review of Omodaka's French translation corrected from the JSTOR record (English, pp. 340–341); Mayeda's thesis dated from its copyright page.

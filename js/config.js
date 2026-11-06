@@ -47,22 +47,22 @@
       imageSide: 'left',
       imagesFirst: true,                                   // the page's image once, beside the first text
       words: { page: 'page' },
-      // a page's image from the library's IIIF service (js/images.js, made by kit/tools/iiif-map.js), the
-      // half the page is on; null until the bench has its image map
+      // a page's image from the bench's own copies (tools/page-images.js, tools/ndl-copies.js): the library's
+      // image service answers 429 when asked for many, so nothing here depends on it
       image: function (pb) {
-        var map = root.SWImages, x = map && pb.img != null && map.images[String(pb.img)];
-        if (!x) return null;
-        var side = SW.BENCH.translation.side;
-        return SW.iiifImage(x, { region: side ? side(+pb.facs) : null });
+        var p = +pb.facs; if (!p) return null;
+        var k = String(p).padStart(3, '0');
+        return { src: 'img/pages/' + k + '.webp', large: 'img/pages/' + k + '-large.webp', sharp: 'img/pages/' + k + '-full.webp' };
       },
       imageCreditShort: '国立国会図書館 National Diet Library, JAPAN',
-      imageCredit: '九鬼周造『偶然性の問題』岩波書店, 1948 printing. 国立国会図書館 National Diet Library, JAPAN, Digital Collections <a href="https://dl.ndl.go.jp/pid/1037966" target="_blank" rel="noopener">pid 1037966 ↗</a> (public domain), from the library’s IIIF image service.'
+      imageCredit: '九鬼周造『偶然性の問題』岩波書店, 1948 printing. 国立国会図書館 National Diet Library, JAPAN, Digital Collections <a href="https://dl.ndl.go.jp/pid/1037966" target="_blank" rel="noopener">pid 1037966 ↗</a> (public domain). The bench holds its own copies of the 174 images; img/provenance.csv gives each one’s source.'
     },
 
     folder: true,                                          // File ▾ ▸ Open a folder…: a working copy, read in place of the published files
     // the Images tab (kit/images.js): the 174 page images, and Kuki's 22 figures in print and archival form, with
     // the English labels the book draws (figures/, made by tools/figures.js)
     images: { figures: { url: 'figures/figures.json', overlays: 'figures/overlays.json' }, credit: '国立国会図書館 National Diet Library, JAPAN',
+      held: { thumb: 'img/spreads/{key3}.webp', full: 'img/full/{key3}.webp' },   // the bench's own copies: no request to the library
       labelsNote: 'The English labels are the ones the printed book sets over Kuki’s figures. Each term is translated once: a word Kuki writes one character at a time along a line has a single label, set along that line, so its characters have no label each; a word set vertically beside a figure has its label beside it, reading downwards. The key under the caption lists every term.' },
     library: true,                                         // the Library tab, from library/library.json
     // dictionaries in the source's language (kit/dictionary.js; kit/tools/dict-build.js jmdict … --lang ja)
@@ -78,8 +78,8 @@
       code: 'https://github.com/vector-humanities/kuki-bench',
       catalogue: { skip: [], held: 'held' }
     },
-    theme: { label: 'Bench', note: 'light text on a dark ground (the default)' },
-    accent: { dark: '#e58be0', light: '#a3317a' },
+    theme: { label: 'Iki', note: 'grey, brown and blue on paper, the colours Kuki names in The Structure of Iki (the default)' },
+    accent: { dark: '#c4aa7d', light: '#233764' },
     group: '',                                             // EDIT: the Hypothesis group's ID, once you have made one
     relation: 'Kuki, The Problem of Contingency, ',
     settings: {
