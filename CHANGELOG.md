@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.5 (2026-11-06)
+
+- **The Images tab**: closing a figure no longer saves a file; its labels are in kintsugi gold, exported in gold or black; the tab opens on Figures and reads the bench's own copies of the page images, not the library's service. The version picker is off. Kit at `proposal/kuki-now` (d2b097d), ahead of its release.
+
 ## 0.1.4 (2026-11-06)
 
 - **Page images held in the bench**: all 174 of the National Diet Library's images, at full resolution, with quick copies of each page, since the library's image service answers 429 when asked for many. **Colours**: Iki, the default and light, after Kuki's own colours of iki in 「いき」の構造; Kon, its dark counterpart.
