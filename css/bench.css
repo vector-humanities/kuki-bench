@@ -118,3 +118,6 @@ button.badge.err { cursor: pointer; font: inherit; }
 .vlang { font: 10px var(--mono); letter-spacing: 0.5px; color: var(--text-faint); margin-left: 8px; white-space: nowrap; }
 @media (max-width: 900px) { .vlang { display: none; } }
 
+
+/* the name on one line (asked of the kit as its default) */
+.brand-name { flex-direction: row; align-items: baseline; gap: 0.6em; white-space: nowrap; }

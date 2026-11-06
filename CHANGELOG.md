@@ -2,6 +2,12 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.7 (2026-11-06)
+
+- **Images and Library back**: both had lost their sections when Read's was taken out in 0.1.6; they now add theirs beside the bench's own views.
+- **Edit scrolls through the whole text**: pages are added as the text nears an end of the box, and the image and the page list follow the page in view. A long page also scrolls inside its box.
+- The bench's name on one line.
+
 ## 0.1.6 (2026-11-06)
 
 - **Edit, in Read's place**: the page's image beside the text as the file has it, the other version one switch away, with undo and redo kept across reloads. A save writes a change list for `vt_apply` into the working copy's `working/edits/`, or downloads it where there is no folder or the browser cannot write to one. Pages is now the first view. Links to lines open Edit.
