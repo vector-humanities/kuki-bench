@@ -1,6 +1,6 @@
 {
  "title": "Library",
- "intro": "Kuki’s book in its editions and translations, and the scholarship on it: a record of each, with a link to where it is published. Records were checked against the catalogue, publisher or repository named in each (November 2026). A copy is held here only where its licence allows; none is yet.",
+ "intro": "Kuki’s book in its editions and translations, and the scholarship on it: a record of each, with a link to where it is published. Records were checked against the catalogue, publisher or repository named in each (November 2026). Open-access texts are held here as published, each with its licence as stated and a link to where it is published; the rest are links out.",
  "items": [
   {
    "id": "OMODAKA-1966",
@@ -734,7 +734,9 @@
    "licence": "Open access (no licence named)",
    "url": "https://ejjpenojp.wordpress.com/wp-content/uploads/2021/05/ejjp-2-6-peters.pdf",
    "note": "On the logical structure of modality in the book and its relation to time, eternal return and the contingency of existence.",
-   "verified": "the article PDF (title, abstract, footer \"European Journal of Japanese Philosophy 2 • 2017, pp. 145–157\")"
+   "verified": "the article PDF (title, abstract, footer \"European Journal of Japanese Philosophy 2 • 2017, pp. 145–157\")",
+   "file": "library/files/PEETERS-2017.pdf",
+   "source": "The PDF as published, at the link given, fetched 6 November 2026; unchanged."
   },
   {
    "id": "FUJI-2018",
@@ -890,7 +892,9 @@
    "licence": "Open access (no licence named)",
    "url": "https://ejjpenojp.wordpress.com/wp-content/uploads/2021/05/ejjp-5-2-oda.pdf",
    "note": "Traces the theory of primal contingency (原始偶然) Kuki developed 1932–1935 and its change under Oskar Becker's notions of carriedness and fragility.",
-   "verified": "the article PDF (title, abstract, footer \"European Journal of Japanese Philosophy 5 • 2020, pp. 33–49\"); EJJP cumulative list"
+   "verified": "the article PDF (title, abstract, footer \"European Journal of Japanese Philosophy 5 • 2020, pp. 33–49\"); EJJP cumulative list",
+   "file": "library/files/ODA-2020.pdf",
+   "source": "The PDF as published, at the link given, fetched 6 November 2026; unchanged."
   },
   {
    "id": "ODA-2020-JA",
@@ -1099,7 +1103,9 @@
    "licence": "CC BY-NC-ND 3.0",
    "url": "https://repositorio.ufmg.br/bitstreams/0a2edd95-fd34-434a-babc-77c4df487b96/download",
    "note": "Thesis whose central texts are O Problema da Contingência (1935) and Bungeiron (1941), linking contingency to method and to literature.",
-   "verified": "UFMG DSpace REST item metadata (title, creator, advisor, date, type, publisher, rights, handle)"
+   "verified": "UFMG DSpace REST item metadata (title, creator, advisor, date, type, publisher, rights, handle)",
+   "file": "library/files/PORTODASILVA-2020.pdf",
+   "source": "The PDF as published, at the link given, fetched 6 November 2026; unchanged."
   },
   {
    "id": "DEKANT-2026",
@@ -1143,7 +1149,9 @@
    "licence": "Open access (no licence named)",
    "url": "https://ejjpenojp.wordpress.com/wp-content/uploads/2021/05/ejjp-1-15-review-morisato-on-furukawa.pdf",
    "note": "Review of Furukawa 2015.",
-   "verified": "EJJP cumulative list; PhilPapers listing"
+   "verified": "EJJP cumulative list; PhilPapers listing",
+   "file": "library/files/MORISATO-2016.pdf",
+   "source": "The PDF as published, at the link given, fetched 6 November 2026; unchanged."
   },
   {
    "id": "STEVENS-2022",
@@ -1158,7 +1166,9 @@
    "licence": "Open access (no licence named)",
    "url": "https://ejjp-journal.org/wp-content/uploads/2022/10/ejjp-7-stevens-review-of-ebersolt-1.pdf",
    "note": "Review of Ebersolt 2021, a study centred on contingency.",
-   "verified": "the review PDF (header, running heads 469–472, signature)"
+   "verified": "the review PDF (header, running heads 469–472, signature)",
+   "file": "library/files/STEVENS-2022.pdf",
+   "source": "The PDF as published, at the link given, fetched 6 November 2026; unchanged."
   },
   {
    "id": "PINCUS-1991",

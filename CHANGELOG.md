@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.10 (2026-11-06)
+
+- **The Library holds open-access texts**: Peeters 2017, Oda 2020, Morisato 2016, Stevens 2022 and Porto da Silva 2020, each the PDF as published, with its licence as stated and a link to where it is published.
+
 ## 0.1.9 (2026-11-06)
 
 - **A padlock on Edit**: Edit opens locked, on each load and each time the tab is opened, and the text cannot change until the padlock is clicked.
