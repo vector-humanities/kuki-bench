@@ -35,6 +35,13 @@
   // its dark one, for ◐ to switch to
   SW.THEMES[0].dark = false;
   SW.THEMES.splice(1, 0, { id: 'night', label: 'Kon', dark: true, note: 'the same colours at night, on 紺' });
+  // once: a browser that saw the bench before these colours may have kept the kit's light theme as its choice,
+  // which the ◐ button then goes back to; it starts again on Iki. A theme chosen in Settings after this stays.
+  if (SW.store.get('theme.v', 0) < 1) {
+    if (['phosphor', 'night'].indexOf(SW.store.get('theme', 'phosphor')) < 0) SW.store.remove('theme');
+    SW.store.remove('theme.light');
+    SW.store.set('theme.v', 1);
+  }
   var dark = SW.themeInfo(SW.store.get('theme.dark', '')), light = SW.themeInfo(SW.store.get('theme.light', ''));
   if (!dark || !dark.dark || dark.id !== SW.store.get('theme.dark', '')) SW.store.set('theme.dark', 'night');
   if (!light || light.dark || light.id !== SW.store.get('theme.light', '')) SW.store.set('theme.light', 'phosphor');
