@@ -29,6 +29,8 @@
                 'readthrough/fixes-3a.md', 'readthrough/fixes-3b.md', 'readthrough/fixes-3c.md', 'readthrough/fixes-poems.md']
         .map(function (f) { return 'translation/working/' + f; }),
       ocr: { path: 'translation/source/guzensei-ocr-raw.txt', split: '^=== PAGE (\\d+)' },
+      // where Edit saves its change lists (kit/vt-edit.js), and the method's tool, beside the working copy
+      edit: { dir: 'translation/working/edits/', tool: '../vector-humanities/vector-translation/tools/vt_apply.py' },
       // each NDL image is a spread of the 1948 printing: an odd page is the left half of image
       // (p + 13) / 2, an even page the right half of image (p + 14) / 2
       side: function (page) { return page % 2 ? 'left' : 'right'; }

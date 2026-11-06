@@ -142,7 +142,7 @@
    "image": "126",
    "region": "757,502,525,560",
    "overlays": false,
-   "caption": "(I)[^c3s7-4] The first system of modality (1948, p. 239).",
+   "caption": "(I) The first system of modality (1948, p. 239).",
    "key": "Key: Letters and signs, no Japanese: R actuality; R′ non-actuality; N necessity; C contingency; P possibility; I impossibility; + reality = being; - nihility = nothingness."
   },
   {
@@ -154,7 +154,7 @@
    "image": "126",
    "region": "757,1064,525,499",
    "overlays": false,
-   "caption": "(II)[^c3s7-5] The second system of modality (1948, p. 239).",
+   "caption": "(II) The second system of modality (1948, p. 239).",
    "key": "Key: Letters and signs as in Figure 12."
   },
   {
@@ -166,7 +166,7 @@
    "image": "126",
    "region": "737,1595,550,500",
    "overlays": false,
-   "caption": "(III)[^c3s7-6] The third system of modality (1948, p. 239).",
+   "caption": "(III) The third system of modality (1948, p. 239).",
    "key": "Key: Letters and signs as in Figure 12."
   },
   {
@@ -191,7 +191,7 @@
    "region": "545,530,530,790",
    "overlays": false,
    "caption": "Probability between necessity (1) and impossibility (0), with the relations of opposition (1948, p. 249).",
-   "key": "Labels: 必然 necessary; 不可能 impossible; (可能) (possible); (偶然) (contingent); 矛盾 contradictory; 反對 contrary; 小反對 subcontrary; 大小 subalternation; (狹義の)蓋然 probable (in the narrow sense); 非蓋然 improbable; 蓋然 probable. Horizontal labels are set right to left.[^c3s8-6]"
+   "key": "Labels: 必然 necessary; 不可能 impossible; (可能) (possible); (偶然) (contingent); 矛盾 contradictory; 反對 contrary; 小反對 subcontrary; 大小 subalternation; (狹義の)蓋然 probable (in the narrow sense); 非蓋然 improbable; 蓋然 probable. Horizontal labels are set right to left."
   },
   {
    "id": "fig-17",

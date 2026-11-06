@@ -2,6 +2,11 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.6 (2026-11-06)
+
+- **Edit, in Read's place**: the page's image beside the text as the file has it, the other version one switch away, with undo and redo kept across reloads. A save writes a change list for `vt_apply` into the working copy's `working/edits/`, or downloads it where there is no folder or the browser cannot write to one. Pages is now the first view. Links to lines open Edit.
+- **Figures**: the labels' gold darkened to #7a5c00; footnote markers taken out of the captions and keys (Figure 16 and three others).
+
 ## 0.1.5 (2026-11-06)
 
 - **The Images tab**: closing a figure no longer saves a file; its labels are in kintsugi gold, exported in gold or black; the tab opens on Figures and reads the bench's own copies of the page images, not the library's service. The version picker is off. Kit at `proposal/kuki-now` (d2b097d), ahead of its release.

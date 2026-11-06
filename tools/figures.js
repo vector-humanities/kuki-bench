@@ -27,7 +27,7 @@ text.forEach((s, i) => {
   const cap = /^\*\*Figure \d+\.\*\*/.test(text[j]) ? text[j] : '';
   const k = /\s(Key|Labels):\s/.exec(cap);
   inText[+m[1]] = { file: path.basename(m[2]), noOverlays: /overlays="no"/.test(m[3] || ''),
-    caption: (k ? cap.slice(0, k.index) : cap).replace(/^\*\*Figure \d+\.\*\*\s*/, '').trim(), key: k ? cap.slice(k.index + 1).trim() : '' };
+    caption: (k ? cap.slice(0, k.index) : cap).replace(/^\*\*Figure \d+\.\*\*\s*/, '').replace(/\[\^[^\]]+\]/g, '').trim(), key: k ? cap.slice(k.index + 1).replace(/\[\^[^\]]+\]/g, '').trim() : '' };
 });
 
 // a figure's own note on its labels (the Images tab's "About the labels"), the bench's, by figure number

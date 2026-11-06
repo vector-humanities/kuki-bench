@@ -10,12 +10,12 @@
        of the release; the About box (kit/about.js) shows both. -->
   <meta name="bench-date" content="2026-11-06">
   <link rel="icon" type="image/svg+xml" href="img/icon.svg">
-  <link rel="stylesheet" href="kit/bench.css?v=0.1.5">
-  <link rel="stylesheet" href="kit/themes.css?v=0.1.5">
-  <link rel="stylesheet" href="css/bench.css?v=0.1.5">
-  <link rel="stylesheet" href="kit/paratexts.css?v=0.1.5">
-  <link rel="stylesheet" href="kit/kit.css?v=0.1.5">
-  <link rel="stylesheet" href="kit/book.css?v=0.1.5">
+  <link rel="stylesheet" href="kit/bench.css?v=0.1.6">
+  <link rel="stylesheet" href="kit/themes.css?v=0.1.6">
+  <link rel="stylesheet" href="css/bench.css?v=0.1.6">
+  <link rel="stylesheet" href="kit/paratexts.css?v=0.1.6">
+  <link rel="stylesheet" href="kit/kit.css?v=0.1.6">
+  <link rel="stylesheet" href="kit/book.css?v=0.1.6">
 </head>
 <body>
   <header class="bar">
@@ -41,8 +41,8 @@
   </header>
 
   <nav class="tabs" id="tabs" aria-label="Views">
-    <button data-tab="read" class="on" title="Read a text line by line">Read</button>
-    <button data-tab="book" title="The pages: the source’s image beside the translation, and the literal one switch away">Pages</button>
+    <button data-tab="book" class="on" title="The pages: the source’s image beside the translation, and the literal one switch away">Pages</button>
+    <button data-tab="edit" title="Edit the text beside the page’s image, with undo and redo; a save writes a change list">Edit</button>
     <button data-tab="glossary" title="Each source term, its renderings, and where they fall">Glossary</button>
     <button data-tab="changes" title="The change lists: every change, its origin, and whether it is in the text now">Changes</button>
     <button data-tab="search" title="A source word in the source’s OCR and in the translations">Search</button>
@@ -56,8 +56,8 @@
   <noscript><div class="noscript">The research bench runs in JavaScript, which is turned off in this browser.</div></noscript>
 
   <main id="main">
-    <section class="view on" id="view-read"></section>
-    <section class="view" id="view-book"></section>
+    <section class="view on" id="view-book"></section>
+    <section class="view" id="view-edit"></section>
     <section class="view" id="view-glossary"></section>
     <section class="view" id="view-changes"></section>
     <section class="view" id="view-search"></section>
@@ -70,49 +70,50 @@
   </main>
 
   <!-- the bench's texts, the kit's foundation and this bench's settings, then the rest -->
-  <script src="kit/versionlist.js?v=0.1.5"></script>
-  <script src="js/versions.js?v=0.1.5"></script>
-  <script src="kit/export.js?v=0.1.5"></script>
-  <script src="kit/lang-plain.js?v=0.1.5"></script>
-  <script src="kit/genealogy.js?v=0.1.5"></script>
-  <script src="kit/base.js?v=0.1.5"></script>
-  <script src="js/config.js?v=0.1.5"></script>
-  <script src="js/images.js?v=0.1.5"></script>
-  <script src="kit/md.js?v=0.1.5"></script>
-  <script src="kit/themes.js?v=0.1.5"></script>
-  <script src="kit/refs.js?v=0.1.5"></script>
-  <script src="kit/builds.js?v=0.1.5"></script>
-  <script src="kit/folder.js?v=0.1.5"></script>
-  <script src="kit/vt-reader.js?v=0.1.5"></script>
-  <script src="js/core.js?v=0.1.5"></script>
-  <script src="kit/initials.js?v=0.1.5"></script>
-  <script src="kit/settings.js?v=0.1.5"></script>
-  <script src="kit/notes.js?v=0.1.5"></script>
-  <script src="kit/tray.js?v=0.1.5"></script>
-  <script src="kit/figures.js?v=0.1.5"></script>
-  <script src="kit/readnotes.js?v=0.1.5"></script>
-  <script src="kit/read.js?v=0.1.5"></script>
-  <script src="js/read.js?v=0.1.5"></script>
-  <script src="kit/book.js?v=0.1.5"></script>
-  <script src="kit/menus.js?v=0.1.5"></script>
-  <script src="kit/dictionary.js?v=0.1.5"></script>
-  <script src="kit/textstats.js?v=0.1.5"></script>
-  <script src="kit/lenses.js?v=0.1.5"></script>
-  <script src="kit/compare.js?v=0.1.5"></script>
-  <script src="kit/stemma.js?v=0.1.5"></script>
-  <script src="kit/version.js?v=0.1.5"></script>
-  <script src="kit/edition.js?v=0.1.5"></script>
-  <script src="kit/findings.js?v=0.1.5"></script>
-  <script src="js/tour.js?v=0.1.5"></script>
-  <script src="kit/tours.js?v=0.1.5"></script>
-  <script src="kit/paratexts.js?v=0.1.5"></script>
-  <script src="kit/library.js?v=0.1.5"></script>
-  <script src="kit/images.js?v=0.1.5"></script>
-  <script src="kit/vt-views.js?v=0.1.5"></script>
-  <script src="kit/guides.js?v=0.1.5"></script>
-  <script src="kit/helppages.js?v=0.1.5"></script>
-  <script src="kit/about.js?v=0.1.5"></script>
-  <script src="js/main.js?v=0.1.5"></script>
-  <script src="kit/shell.js?v=0.1.5"></script>
+  <script src="kit/versionlist.js?v=0.1.6"></script>
+  <script src="js/versions.js?v=0.1.6"></script>
+  <script src="kit/export.js?v=0.1.6"></script>
+  <script src="kit/lang-plain.js?v=0.1.6"></script>
+  <script src="kit/genealogy.js?v=0.1.6"></script>
+  <script src="kit/base.js?v=0.1.6"></script>
+  <script src="js/config.js?v=0.1.6"></script>
+  <script src="js/images.js?v=0.1.6"></script>
+  <script src="kit/md.js?v=0.1.6"></script>
+  <script src="kit/themes.js?v=0.1.6"></script>
+  <script src="kit/refs.js?v=0.1.6"></script>
+  <script src="kit/builds.js?v=0.1.6"></script>
+  <script src="kit/folder.js?v=0.1.6"></script>
+  <script src="kit/vt-reader.js?v=0.1.6"></script>
+  <script src="js/core.js?v=0.1.6"></script>
+  <script src="kit/initials.js?v=0.1.6"></script>
+  <script src="kit/settings.js?v=0.1.6"></script>
+  <script src="kit/notes.js?v=0.1.6"></script>
+  <script src="kit/tray.js?v=0.1.6"></script>
+  <script src="kit/figures.js?v=0.1.6"></script>
+  <script src="kit/readnotes.js?v=0.1.6"></script>
+  <script src="kit/read.js?v=0.1.6"></script>
+  <script src="js/read.js?v=0.1.6"></script>
+  <script src="kit/book.js?v=0.1.6"></script>
+  <script src="kit/menus.js?v=0.1.6"></script>
+  <script src="kit/dictionary.js?v=0.1.6"></script>
+  <script src="kit/textstats.js?v=0.1.6"></script>
+  <script src="kit/lenses.js?v=0.1.6"></script>
+  <script src="kit/compare.js?v=0.1.6"></script>
+  <script src="kit/stemma.js?v=0.1.6"></script>
+  <script src="kit/version.js?v=0.1.6"></script>
+  <script src="kit/edition.js?v=0.1.6"></script>
+  <script src="kit/findings.js?v=0.1.6"></script>
+  <script src="js/tour.js?v=0.1.6"></script>
+  <script src="kit/tours.js?v=0.1.6"></script>
+  <script src="kit/paratexts.js?v=0.1.6"></script>
+  <script src="kit/library.js?v=0.1.6"></script>
+  <script src="kit/images.js?v=0.1.6"></script>
+  <script src="kit/vt-views.js?v=0.1.6"></script>
+  <script src="kit/vt-edit.js?v=0.1.6"></script>
+  <script src="kit/guides.js?v=0.1.6"></script>
+  <script src="kit/helppages.js?v=0.1.6"></script>
+  <script src="kit/about.js?v=0.1.6"></script>
+  <script src="js/main.js?v=0.1.6"></script>
+  <script src="kit/shell.js?v=0.1.6"></script>
 </body>
 </html>
