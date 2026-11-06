@@ -41,7 +41,7 @@ const items = SET.map(([n, page, what]) => {
 if (missing.length) { console.error('missing: ' + missing.join(', ')); process.exit(1); }
 fs.writeFileSync(path.join(ROOT, 'images/annotated-copy.json'), JSON.stringify({
   id: 'annotated', label: 'Annotated copy',
-  intro: 'Pages of Kuki’s own copy of the 1935 first edition with his notes, insertions and pasted newspaper cuttings: a selection of 35 of Konan University Library’s images, in reduced copies. Zooming in fetches the full-size image from the library.',
+  intro: 'Pages of Kuki’s own copy, printed on one side and without a colophon, with his notes and insertions and loose newspaper cuttings: a selection of 35 of Konan University Library’s images, in reduced copies. Zooming in fetches the full-size image from the library.',
   credit: '九鬼周造文庫, 原資料 A02, 甲南大学図書館 Konan University Library, digitised 29 May 2024.',
   items
 }, null, 1) + '\n');

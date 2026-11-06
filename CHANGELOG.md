@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.20 (2026-11-06)
+
+- The annotated copy described from Konan University Library's record: printed on one side, without a colophon, its newspaper cuttings loose.
+
 ## 0.1.19 (2026-11-06)
 
 - bench-kit 1.1.0: a linked film or talk plays in the Library's box.
@@ -20,7 +24,7 @@ Changes to the Kuki Research Bench. The bench keeps its own version numbers, rai
 
 ## 0.1.15 (2026-11-06)
 
-- **The annotated copy in Images**: 35 reduced images of Kuki's own copy, with his notes and pasted cuttings, as a set of their own beside Pages and Figures; the full size comes from Konan University Library only on zooming.
+- **The annotated copy in Images**: 35 reduced images of Kuki's own copy, with his notes and loose cuttings, as a set of their own beside Pages and Figures; the full size comes from Konan University Library only on zooming.
 - **The Library**: a citation with Copy in each box; a DOI is a link; Copy link says what the button does; Open where it is published for a record with no copy held.
 - The old picker no longer flashes on a reload.
 
