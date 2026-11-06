@@ -1,0 +1,358 @@
+{
+ "id": "annotated",
+ "label": "Annotated copy",
+ "intro": "Pages of Kuki’s own copy of the 1935 first edition with his notes, insertions and pasted newspaper cuttings: a selection of 35 of Konan University Library’s images, in reduced copies. Zooming in fetches the full-size image from the library.",
+ "credit": "九鬼周造文庫, 原資料 A02, 甲南大学図書館 Konan University Library, digitised 29 May 2024. Konan states no licence; these images are not covered by the translation’s CC BY 4.0.",
+ "items": [
+  {
+   "key": "A2_047",
+   "n": 47,
+   "page": 37,
+   "what": "pencil note, cutting",
+   "thumb": "img/annotated/thumbs/A2_047.webp",
+   "file": "img/annotated/A2_047.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066377.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400"
+  },
+  {
+   "key": "A2_048",
+   "n": 48,
+   "page": 37,
+   "what": "pencil note, cutting",
+   "thumb": "img/annotated/thumbs/A2_048.webp",
+   "file": "img/annotated/A2_048.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066378.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400"
+  },
+  {
+   "key": "A2_049",
+   "n": 49,
+   "page": 37,
+   "what": "cutting, front",
+   "thumb": "img/annotated/thumbs/A2_049.webp",
+   "file": "img/annotated/A2_049.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066379.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400"
+  },
+  {
+   "key": "A2_050",
+   "n": 50,
+   "page": 37,
+   "what": "cutting, back",
+   "thumb": "img/annotated/thumbs/A2_050.webp",
+   "file": "img/annotated/A2_050.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066380.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400"
+  },
+  {
+   "key": "A2_053",
+   "n": 53,
+   "page": 40,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_053.webp",
+   "file": "img/annotated/A2_053.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066383.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400"
+  },
+  {
+   "key": "A2_057",
+   "n": 57,
+   "page": 44,
+   "what": "cutting on the spread",
+   "thumb": "img/annotated/thumbs/A2_057.webp",
+   "file": "img/annotated/A2_057.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066387.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400"
+  },
+  {
+   "key": "A2_058",
+   "n": 58,
+   "page": 44,
+   "what": "cutting on the spread",
+   "thumb": "img/annotated/thumbs/A2_058.webp",
+   "file": "img/annotated/A2_058.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066388.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400"
+  },
+  {
+   "key": "A2_059",
+   "n": 59,
+   "page": 44,
+   "what": "cutting, front",
+   "thumb": "img/annotated/thumbs/A2_059.webp",
+   "file": "img/annotated/A2_059.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066389.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400"
+  },
+  {
+   "key": "A2_060",
+   "n": 60,
+   "page": 44,
+   "what": "cutting, back",
+   "thumb": "img/annotated/thumbs/A2_060.webp",
+   "file": "img/annotated/A2_060.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066390.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400"
+  },
+  {
+   "key": "A2_088",
+   "n": 88,
+   "page": 72,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_088.webp",
+   "file": "img/annotated/A2_088.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066418.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_089",
+   "n": 89,
+   "page": 73,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_089.webp",
+   "file": "img/annotated/A2_089.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066419.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_115",
+   "n": 115,
+   "page": 99,
+   "what": "cuttings on the spread and lifted",
+   "thumb": "img/annotated/thumbs/A2_115.webp",
+   "file": "img/annotated/A2_115.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066445.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_116",
+   "n": 116,
+   "page": 99,
+   "what": "cuttings on the spread and lifted",
+   "thumb": "img/annotated/thumbs/A2_116.webp",
+   "file": "img/annotated/A2_116.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066446.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_117",
+   "n": 117,
+   "page": 99,
+   "what": "cuttings, front",
+   "thumb": "img/annotated/thumbs/A2_117.webp",
+   "file": "img/annotated/A2_117.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066447.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_118",
+   "n": 118,
+   "page": 99,
+   "what": "cuttings, back",
+   "thumb": "img/annotated/thumbs/A2_118.webp",
+   "file": "img/annotated/A2_118.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066448.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_119",
+   "n": 119,
+   "page": 99,
+   "what": "second cutting, front",
+   "thumb": "img/annotated/thumbs/A2_119.webp",
+   "file": "img/annotated/A2_119.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066449.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_120",
+   "n": 120,
+   "page": 99,
+   "what": "second cutting, back",
+   "thumb": "img/annotated/thumbs/A2_120.webp",
+   "file": "img/annotated/A2_120.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066450.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_169",
+   "n": 169,
+   "page": 148,
+   "what": "insertion in a printed sentence",
+   "thumb": "img/annotated/thumbs/A2_169.webp",
+   "file": "img/annotated/A2_169.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066499.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_171",
+   "n": 171,
+   "page": 150,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_171.webp",
+   "file": "img/annotated/A2_171.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066501.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_177",
+   "n": 177,
+   "page": 156,
+   "what": "cutting on the spread and note beneath",
+   "thumb": "img/annotated/thumbs/A2_177.webp",
+   "file": "img/annotated/A2_177.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066507.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_178",
+   "n": 178,
+   "page": 156,
+   "what": "cutting on the spread and note beneath",
+   "thumb": "img/annotated/thumbs/A2_178.webp",
+   "file": "img/annotated/A2_178.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066508.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_179",
+   "n": 179,
+   "page": 156,
+   "what": "cutting of 21 October 1936, front",
+   "thumb": "img/annotated/thumbs/A2_179.webp",
+   "file": "img/annotated/A2_179.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066509.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_180",
+   "n": 180,
+   "page": 156,
+   "what": "cutting of 21 October 1936, back",
+   "thumb": "img/annotated/thumbs/A2_180.webp",
+   "file": "img/annotated/A2_180.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066510.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_181",
+   "n": 181,
+   "page": 156,
+   "what": "cutting of 13 December 1938, front",
+   "thumb": "img/annotated/thumbs/A2_181.webp",
+   "file": "img/annotated/A2_181.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066511.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_182",
+   "n": 182,
+   "page": 156,
+   "what": "cutting of 13 December 1938, back",
+   "thumb": "img/annotated/thumbs/A2_182.webp",
+   "file": "img/annotated/A2_182.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066512.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_187",
+   "n": 187,
+   "page": 161,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_187.webp",
+   "file": "img/annotated/A2_187.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066517.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_188",
+   "n": 188,
+   "page": 162,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_188.webp",
+   "file": "img/annotated/A2_188.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066518.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_189",
+   "n": 189,
+   "page": 163,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_189.webp",
+   "file": "img/annotated/A2_189.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066519.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_209",
+   "n": 209,
+   "page": 183,
+   "what": "diagram",
+   "thumb": "img/annotated/thumbs/A2_209.webp",
+   "file": "img/annotated/A2_209.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066539.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00401"
+  },
+  {
+   "key": "A2_238",
+   "n": 238,
+   "page": 212,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_238.webp",
+   "file": "img/annotated/A2_238.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066568.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00402"
+  },
+  {
+   "key": "A2_286",
+   "n": 286,
+   "page": 260,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_286.webp",
+   "file": "img/annotated/A2_286.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066616.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00402"
+  },
+  {
+   "key": "A2_289",
+   "n": 289,
+   "page": 263,
+   "what": "faint pencil note",
+   "thumb": "img/annotated/thumbs/A2_289.webp",
+   "file": "img/annotated/A2_289.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066619.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00402"
+  },
+  {
+   "key": "A2_294",
+   "n": 294,
+   "page": 268,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_294.webp",
+   "file": "img/annotated/A2_294.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066624.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00402"
+  },
+  {
+   "key": "A2_316",
+   "n": 316,
+   "page": 290,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_316.webp",
+   "file": "img/annotated/A2_316.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066646.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00402"
+  },
+  {
+   "key": "A2_356",
+   "n": 356,
+   "page": 330,
+   "what": "note",
+   "thumb": "img/annotated/thumbs/A2_356.webp",
+   "file": "img/annotated/A2_356.jpg",
+   "zoom": "https://archive.konan-u.ac.jp/il/cont/01/G0000861konanu/001/066/001066686.jpg",
+   "record": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00402"
+  }
+ ]
+}
