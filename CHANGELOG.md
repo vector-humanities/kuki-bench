@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.22 (2026-11-06)
+
+- The Library's books have their covers; bench-kit 1.2.0.
+
 ## 0.1.21 (2026-11-06)
 
 - **The Library**: the Collected Works, vol. 2 names its base text again, the annotated copy of the first edition, with its source: CiNii's note on the 2012 Bunko.

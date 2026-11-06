@@ -57,7 +57,8 @@
    "pages": "three files, e.g. [2] 第2章",
    "url": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400",
    "note": "Page images of Kuki's annotated copy, printed on one side and without a colophon, with his corrections and loose newspaper cuttings (L00401 notes six cuttings at pp. 37, 44, 99, 156).",
-   "verified": "Konan University Library blog post 6692; archive item page L00401"
+   "verified": "Konan University Library blog post 6692; archive item page L00401",
+   "thumb": "library/thumbs/KONAN-TESHUBON.webp"
   },
   {
    "id": "KUKI-1935",
@@ -86,7 +87,8 @@
    "licence": "Public domain",
    "url": "https://dl.ndl.go.jp/pid/1037966",
    "note": "Page images of the whole book, 1948 printing of the 1935 text.",
-   "verified": "IIIF manifest for pid 1037966 (label, creator, publisher, date 昭和23, PDM); NDL OpenSearch"
+   "verified": "IIIF manifest for pid 1037966 (label, creator, publisher, date 昭和23, PDM); NDL OpenSearch",
+   "thumb": "library/thumbs/KUKI-1948-NDL.webp"
   },
   {
    "id": "KSZ-2",
@@ -101,7 +103,8 @@
    "url": "https://www.iwanami.co.jp/book/b476475.html",
    "note": "Standard critical text; base text the annotated copy of the first edition, according to CiNii's note on the 2012 Bunko (BB10768284); the volume also contains the 1932 dissertation 「偶然性」 and the Ōtani University lectures.",
    "verified": "Iwanami Shoten book page b476475 (dated 1980-11-19, editors, 品切れ); NDL OpenSearch records",
-   "zotero": "F6U53DPD"
+   "zotero": "F6U53DPD",
+   "thumb": "library/thumbs/KSZ-2.webp"
   },
   {
    "id": "SAKABE-2000",
@@ -127,7 +130,8 @@
    "publisher": "書肆心水 Shoshi Shinsui, Tokyo",
    "pages": "188 p. / 249 p.",
    "note": "Collects Kuki's shorter writings on contingency after the book: 偶然と運命, 偶然の諸相, 驚きの情と偶然性, 偶然性 (2011 contents), 偶然化の論理, 哲学私見, 人間学とは何か.",
-   "verified": "CiNii Books BB07680731 (contents of the 2011 edition); NDL OpenSearch (2007)"
+   "verified": "CiNii Books BB07680731 (contents of the 2011 edition); NDL OpenSearch (2007)",
+   "thumb": "library/thumbs/KUKI-GUZEN-ODOROKI-2007.webp"
   },
   {
    "id": "BUNKO-2012",
@@ -141,7 +145,8 @@
    "pages": "459 p. (CiNii; 460 per Iwanami); 15 cm",
    "url": "https://www.iwanami.co.jp/book/b246136.html",
    "note": "Annotated paperback; text follows Kuki Shūzō zenshū vol. 2, itself based on the author's annotated copy of the first edition; contents 序説, 定言的偶然, 仮説的偶然, 離接的偶然, 結論; chronology pp. 443–459.",
-   "verified": "Iwanami book page; the base text from the note in CiNii Books BB10768284"
+   "verified": "Iwanami book page; the base text from the note in CiNii Books BB10768284",
+   "thumb": "library/thumbs/BUNKO-2012.webp"
   },
   {
    "id": "TANAKA-ED-2020",
@@ -154,7 +159,8 @@
    "publisher": "筑摩書房 Chikuma Shobō, Tokyo",
    "pages": "649 p.",
    "note": "Anthology of Kuki's writings; whether it includes excerpts of the 1935 book was not checked.",
-   "verified": "NDL OpenSearch record"
+   "verified": "NDL OpenSearch record",
+   "thumb": "library/thumbs/TANAKA-ED-2020.webp"
   },
   {
    "id": "MARRA-2004",
@@ -169,7 +175,8 @@
    "doi": "10.1515/9780824842345",
    "note": "Translates Kuki's poems, \"Rhyme in Japanese poetry\" appendix poems, \"The Genealogy of Feelings\" and selected essays, with Marra's essay \"Worlds in Tension\"; Maraldo 2008 cites its poems on chance and the dice.",
    "verified": "Crossref records for the book and its chapters (Introduction 1–5; Worlds in Tension 6–44; Free Verse 45–65; Short Poems 66–99; Rhyming Poems 100–124; Genealogy of Feelings 125–214; Selected Essays 215–286)",
-   "zotero": "ZB7QIGCW"
+   "zotero": "ZB7QIGCW",
+   "thumb": "library/thumbs/MARRA-2004.webp"
   },
   {
    "id": "SOURCEBOOK-2011",
@@ -185,7 +192,8 @@
    "url": "https://muse.jhu.edu/book/14356",
    "note": "Translates passages of the 1932 dissertation 偶然性, the first statement of the theory the 1935 book expands (definition of contingency as the negation of necessity; the existential, personal side of contingency).",
    "verified": "Project MUSE book page (editors, year, ISBN, Kuki section 829–849, not OA); Porto da Silva 2019 cites the Sourcebook at p. 832 for Kuki on contingency",
-   "zotero": "534XJ7J5"
+   "zotero": "534XJ7J5",
+   "thumb": "library/thumbs/SOURCEBOOK-2011.webp"
   },
   {
    "id": "LIGHT-1987",
@@ -226,7 +234,8 @@
    "publisher": "ぺりかん社 Perikansha, Tokyo (新装版 2001); 講談社学術文庫 2738, Kōdansha, Tokyo, 2022",
    "pages": "247 p. (2001); 294 p. (2022)",
    "note": "Chapters 4 「偶然性の哲学」 and 5 「偶然から自然へ」 treat the book and Kuki's move from contingency to nature.",
-   "verified": "CiNii Books BA51948927 and BC17144896"
+   "verified": "CiNii Books BA51948927 and BC17144896",
+   "thumb": "library/thumbs/TANAKA-1992.webp"
   },
   {
    "id": "MAY-1996",
@@ -240,7 +249,8 @@
    "doi": "10.4324/9780203979792",
    "note": "On Heidegger's Japanese contacts; Kuki appears in that context. Not about contingency.",
    "verified": "Crossref record; Maraldo 2008 footnote 1 (Routledge 1996, trans. Parkes)",
-   "zotero": "L98DY7RG"
+   "zotero": "L98DY7RG",
+   "thumb": "library/thumbs/MAY-1996.webp"
   },
   {
    "id": "PINCUS-1996",
@@ -296,7 +306,8 @@
    "publisher": "Princeton University Press, Princeton",
    "note": "Discusses Kuki within interwar debates on culture and modernity; whether it treats the 1935 book was not checked.",
    "verified": "Crossref records (2011 ebook DOIs); library catalogue listing (©2000)",
-   "zotero": "XQAN7GBF"
+   "zotero": "XQAN7GBF",
+   "thumb": "library/thumbs/HAROOTUNIAN-2000.webp"
   },
   {
    "id": "SAKABE-FUJITA-WASHIDA-2002",
@@ -309,7 +320,8 @@
    "publisher": "ミネルヴァ書房 Minerva Shobō, Kyoto",
    "pages": "3, 281 p., [2] plates",
    "note": "Contains chapters 「偶然性と言語」, 「『偶然性の問題』：もう一つの可能性」, 「テクストとしての偶然性」, 「シェリングと九鬼周造」 and 「時間と永遠」, and a bibliography of Kuki studies (pp. 265–274).",
-   "verified": "CiNii Books BA59059507 (chapter titles; chapter authors not listed there)"
+   "verified": "CiNii Books BA59059507 (chapter titles; chapter authors not listed there)",
+   "thumb": "library/thumbs/SAKABE-FUJITA-WASHIDA-2002.webp"
   },
   {
    "id": "NARA-2004",
@@ -324,7 +336,8 @@
    "doi": "10.1515/9780824865054",
    "note": "Translation and study of The Structure of Iki (1930); Nara's essay on Kuki's philosophy of life is in the book (pp. 95–129 in the 2017 issue, DOI 10.1515/9780824865054-005). Context for the 1935 book rather than a study of it.",
    "verified": "CiNii Books BA67653252; Crossref record for the 2017 DOI",
-   "zotero": "V6E4PEH5"
+   "zotero": "V6E4PEH5",
+   "thumb": "library/thumbs/NARA-2004.webp"
   },
   {
    "id": "MAYEDA-2006",
@@ -368,7 +381,8 @@
    "publisher": "教育報道社 Kyōiku Hōdōsha, Tokyo",
    "pages": "364 p.; 21 cm",
    "note": "Chapter-by-chapter study of themes from the book (contingency and necessity, possibility, eternal recurrence, encounter with others).",
-   "verified": "CiNii Books BA80648574"
+   "verified": "CiNii Books BA80648574",
+   "thumb": "library/thumbs/MURAKAMI-2006.webp"
   },
   {
    "id": "OBAMA-2006",
@@ -381,7 +395,8 @@
    "publisher": "昭和堂 Shōwadō, Kyoto",
    "pages": "viii, 275, vi p.; 20 cm",
    "note": "Chapter 5 「遊戯する神：『偶然性の問題』」 treats the book; chapter 6 treats the later essays 驚きの情と偶然性 and 偶然化の論理.",
-   "verified": "CiNii Books BA76585980"
+   "verified": "CiNii Books BA76585980",
+   "thumb": "library/thumbs/OBAMA-2006.webp"
   },
   {
    "id": "SAITO-2006",
@@ -476,7 +491,8 @@
    "publisher": "東京大学出版会 University of Tokyo Press, Tokyo",
    "pages": "xii, 353, 9 p.",
    "note": "Part 1 (被投性・偶然性・出生性) includes 「偶然のいたずら：九鬼」 and a chapter on occurrence, encounter and beginning in Heidegger, Kuki and Arendt.",
-   "verified": "CiNii Books BA84642285"
+   "verified": "CiNii Books BA84642285",
+   "thumb": "library/thumbs/MORI-2008.webp"
   },
   {
    "id": "SAITO-2008",
@@ -650,7 +666,8 @@
    "publisher": "ぷねうま舎 Pneumasha, Tokyo",
    "pages": "240 p.; 20 cm",
    "note": "On Kuki's theory of recurrent time and transmigration, including the Milindapañha (cited in the book's Conclusion) and causality.",
-   "verified": "CiNii Books BB16278040"
+   "verified": "CiNii Books BB16278040",
+   "thumb": "library/thumbs/ITO-2014.webp"
   },
   {
    "id": "FURUKAWA-2015",
@@ -677,7 +694,8 @@
    "publisher": "講談社 Kōdansha, Tokyo",
    "pages": "237 p.; 19 cm",
    "note": "Chapter 3 「偶然性の哲学」 treats the book.",
-   "verified": "CiNii Books BB21621914"
+   "verified": "CiNii Books BB21621914",
+   "thumb": "library/thumbs/FUJITA-2016.webp"
   },
   {
    "id": "GENDAISHISO-2016",
@@ -852,7 +870,8 @@
    "publisher": "堀之内出版 Horinouchi Shuppan, Hachiōji",
    "pages": "324 p.; 20 cm",
    "note": "Part 2 reads the book's modal logic as \"ontological logic\" (with Hartmann and Heidegger); Part 3 treats the metaphysics of contingency, individuality, chance and fate, and an ethics of contingency.",
-   "verified": "CiNii Books BB29023009"
+   "verified": "CiNii Books BB29023009",
+   "thumb": "library/thumbs/MIYANO-2019-BOOK.webp"
   },
   {
    "id": "PORTODASILVA-2019",
@@ -942,7 +961,8 @@
    "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I031371062",
    "note": "Monograph on the whole Kuki corpus centred on contingency, from the 1932 dissertation and the 1935 book to the encounter, rhyme, and the political writings on community and nation.",
    "verified": "Stevens's review in EJJP 7 (ISBN, Vrin, 2021, 304 pp.); NDL Search record (304 p., 22 cm, nouvelle série)",
-   "zotero": "5JK2F2N8"
+   "zotero": "5JK2F2N8",
+   "thumb": "library/thumbs/EBERSOLT-2021.webp"
   },
   {
    "id": "HUANG-2022",
@@ -1055,7 +1075,8 @@
    "publisher": "大阪大学出版会 Osaka University Press, Suita",
    "pages": "284 p.; 22 cm",
    "note": "Two chapters treat the book directly: 「現実」を求めて：『偶然性の問題』の論理学 and 世界を創る：『偶然性の問題』の行為論.",
-   "verified": "CiNii Books BD10614773"
+   "verified": "CiNii Books BD10614773",
+   "thumb": "library/thumbs/ODA-2025.webp"
   },
   {
    "id": "OKADA-2025",
