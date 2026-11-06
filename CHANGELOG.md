@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.19 (2026-11-06)
+
+- bench-kit 1.1.0: a linked film or talk plays in the Library's box.
+
 ## 0.1.18 (2026-11-06)
 
 - bench-kit 1.0.0, released: the bench off its proposal branch.
