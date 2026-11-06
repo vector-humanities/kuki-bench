@@ -56,6 +56,9 @@
         var k = String(p).padStart(3, '0');
         return { src: 'img/pages/' + k + '.webp', large: 'img/pages/' + k + '-large.webp', sharp: 'img/pages/' + k + '-full.webp' };
       },
+      // each page trimmed to its paper: the scanner's white and the binding's black (tools/page-trim.js, js/page-trim.js);
+      // Settings ▸ Book ▸ The pages' edges overrides it
+      trim: function (pb) { var t = root.SWPageTrim; return t ? t[+pb.facs] || null : null; },
       imageCreditShort: '国立国会図書館 National Diet Library, JAPAN',
       imageCredit: '九鬼周造『偶然性の問題』岩波書店, 1948 printing. 国立国会図書館 National Diet Library, JAPAN, Digital Collections <a href="https://dl.ndl.go.jp/pid/1037966" target="_blank" rel="noopener">pid 1037966 ↗</a> (public domain). The bench holds its own copies of the 174 images; img/provenance.csv gives each one’s source.'
     },

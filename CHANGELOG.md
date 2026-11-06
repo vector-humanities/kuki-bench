@@ -2,6 +2,12 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.8 (2026-11-06)
+
+- **The page images cropped to the paper**, in Pages and Edit: the scanner's white and the binding's black trimmed, measured page by page (`tools/page-trim.js`, `js/page-trim.js`, `doc.trim`), the image files unchanged. In Edit the whole page fits the pane's height, and a click enlarges it.
+- Edit goes to the page asked for, where its marker falls inside a long paragraph.
+- **The Library**: the note on Kuki's annotated copy no longer says it has an errata list or that the Collected Works is based on it.
+
 ## 0.1.7 (2026-11-06)
 
 - **Images and Library back**: both had lost their sections when Read's was taken out in 0.1.6; they now add theirs beside the bench's own views.
