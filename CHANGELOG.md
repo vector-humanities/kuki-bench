@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.14 (2026-11-06)
+
+- **Pages**: the images button is an eye, crossed when they are hidden, and the images show whenever a page opens.
+
 ## 0.1.13 (2026-11-06)
 
 - **The colours, in a browser that saw the bench before Iki**: a browser may have kept the kit's Listing paper as its light theme, which ◐ went back to. It starts again on Iki, once; a theme chosen in Settings after that stays.
