@@ -2,6 +2,12 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.9 (2026-11-06)
+
+- **A padlock on Edit**: Edit opens locked, on each load and each time the tab is opened, and the text cannot change until the padlock is clicked.
+- The bench's name on one line, now the kit's own setting.
+- **The Library**: the note on the Collected Works, vol. 2 no longer says it was set from the annotated copy, which is unconfirmed for this book.
+
 ## 0.1.8 (2026-11-06)
 
 - **The page images cropped to the paper**, in Pages and Edit: the scanner's white and the binding's black trimmed, measured page by page (`tools/page-trim.js`, `js/page-trim.js`, `doc.trim`), the image files unchanged. In Edit the whole page fits the pane's height, and a click enlarges it.
