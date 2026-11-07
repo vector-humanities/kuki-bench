@@ -71,7 +71,7 @@
       held: { thumb: 'img/spreads/{key3}.webp', full: 'img/full/{key3}.webp' },   // the bench's own copies: no request to the library
       collections: [{ url: 'images/annotated-copy.json' }],   // Kuki's annotated copy (tools/konan-images.js): reduced copies held, the full size from Konan only on zooming
       labelsNote: 'The English labels are the ones the printed book sets over Kuki’s figures. Each term is translated once: a word Kuki writes one character at a time along a line has a single label, set along that line, so its characters have no label each; a word set vertically beside a figure has its label beside it, reading downwards. The key under the caption lists every term.' },
-    library: true,                                         // the Library tab, from library/library.json
+    library: { snapshot: true },                           // the Library tab, from library/library.json; the group's ratings, marks and tags from library/group.json (.github/workflows/library-snapshot.yml)
     // dictionaries in the source's language (kit/dictionary.js; kit/tools/dict-build.js jmdict … --lang ja)
     dictionaries: [],                                      // to come: e.g. [{ id: 'jmdict', name: 'JMdict', base: 'data/jmdict/', lang: 'ja', credit: 'JMdict, EDRDG, CC BY-SA 4.0' }]
     menusOff: ['topics', 'paratexts'],                     // EDIT: take 'topics' out once a model is made (kit/docs/topics-guide.md); 'paratexts' once the group has documents about the work
