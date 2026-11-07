@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.39 (2026-11-07)
+
+- bench-kit 1.8.4: Library badges clear of titles, and a failed read of the group's notes says so.
+
 ## 0.1.38 (2026-11-07)
 
 - bench-kit 1.8.3: group members can set a Library entry's relevance in its box.
