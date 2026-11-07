@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.2 (2026-11-07)
+
+- bench-kit 1.8.8: star ratings on covers, and a To read shelf where a reader checks a work out.
+
 ## 0.2.1 (2026-11-07)
 
 - bench-kit 1.8.7: a failed read of the group's notes in a Library entry says NOTES NOT UPDATED, with Try again.
