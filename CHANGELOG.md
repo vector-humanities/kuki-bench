@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.28 (2026-11-07)
+
+- Two Library titles in full.
+
 ## 0.1.27 (2026-11-07)
 
 - Ten more Library articles, found by reading the J-STAGE results for what they say about Kuki and the book.
