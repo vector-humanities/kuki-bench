@@ -87,11 +87,12 @@
     },
     theme: { label: 'Iki', note: 'grey, brown and blue on paper, the colours Kuki names in The Structure of Iki (the default)' },
     accent: { dark: '#c4aa7d', light: '#233764' },
-    group: '',                                             // EDIT: the Hypothesis group's ID, once you have made one
+    group: '84keLdpm',                                     // the bench's Hypothesis group
     relation: 'Kuki, The Problem of Contingency, ',
     settings: {
       tour: 'A few stops through the pages, the glossary and the changes; about a minute.',
-      groupPlaceholder: 'https://hypothes.is/groups/…',
+      groupHint: 'Annotations, ratings and tags are shared through the project’s private Hypothesis group, <b>84keLdpm</b> (set for you). Help ▸ Getting set up takes you through joining it and your token. The group box below is only for using a different group.',
+      groupPlaceholder: 'https://hypothes.is/groups/84keLdpm',
       themeHint: 'The colours of the whole bench. The ◐ button in the top bar switches between your last light and dark themes.'
     },
     tag: 'vt:',
