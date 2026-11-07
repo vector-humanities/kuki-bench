@@ -20,6 +20,7 @@
       versions: { translation: 'translation', literal: 'literal', ocr: 'ocr' },   // the ids in js/versions.js
       page: '\\[p\\. (\\d+)\\]',                           // the page marker
       image: '\\[コマ (\\d+)\\]',                          // the image marker (the library's image number), or null
+      figures: { list: 'front-and-back-matter/figures/figures.csv' },   // the figure list (kit/tools/vt-figures.js)
       body: { from: '^## Author', until: '^#+ (Appendix|Glossary)' },   // Kuki's text: from his own preface; the translator's Preface and Note before it          // where the apparatus begins
       // Kuki's glossary is the table at the end of the translation (the literal keeps a copy)
       glossary: { path: 'translation/Kuki_Problem-of-Contingency_translation.md', kind: 'md', heading: 'Glossary' },
@@ -65,7 +66,7 @@
 
     folder: true,                                          // File ▾ ▸ Open a folder…: a working copy, read in place of the published files
     // the Images tab (kit/images.js): the 174 page images, and Kuki's 22 figures in print and archival form, with
-    // the English labels the book draws (figures/, made by tools/figures.js)
+    // the English labels the book draws (figures/, made by kit/tools/vt-figures.js)
     images: { figures: { url: 'figures/figures.json', overlays: 'figures/overlays.json' }, credit: '国立国会図書館 National Diet Library, JAPAN',
       held: { thumb: 'img/spreads/{key3}.webp', full: 'img/full/{key3}.webp' },   // the bench's own copies: no request to the library
       collections: [{ url: 'images/annotated-copy.json' }],   // Kuki's annotated copy (tools/konan-images.js): reduced copies held, the full size from Konan only on zooming

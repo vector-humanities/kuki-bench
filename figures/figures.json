@@ -11,6 +11,7 @@
    "overlays": true,
    "caption": "Causal and teleological necessity and contingency: homogeneous combination runs vertically, heterogeneous combination horizontally (1948, p. 77).",
    "key": "Labels: 因果的必然 causal necessity; 目的々偶然 teleological contingency; 目的々必然 teleological necessity; 因果的偶然 causal contingency; 必然性 necessity; 偶然性 contingency; 因果性 causality; 目的性 purposiveness. Corner labels are set right to left.",
+   "placement": "after \"This way of combining can be called \"homogeneous combination\".\" (Ch. 2, s. 5)",
    "labelsNote": "因果性 (causality) and 目的性 (purposiveness) are written one character at a time along the two diagonals, 因…果…性 and 目…的…性, and their English runs along the same lines. 必然性 (necessity) and 偶然性 (contingency) are set vertically beside the square, their English beside them, reading downwards. The corner labels read right to left: 然必的果因 is 因果的必然, causal necessity."
   },
   {
@@ -23,7 +24,8 @@
    "region": "2040,471,422,890",
    "overlays": true,
    "caption": "The six kinds of hypothetical contingency (1948, p. 82).",
-   "key": "Labels: 假說的偶然 hypothetical contingency; 理由的偶然 contingency of ground; 經驗的偶然 empirical contingency; 目的々偶然 teleological contingency; 因果的偶然 causal contingency; 積極的 positive; 消極的 negative."
+   "key": "Labels: 假說的偶然 hypothetical contingency; 理由的偶然 contingency of ground; 經驗的偶然 empirical contingency; 目的々偶然 teleological contingency; 因果的偶然 causal contingency; 積極的 positive; 消極的 negative.",
+   "placement": "after \"six kinds of contingency are to be considered within hypothetical contingency.\" (Ch. 2, s. 5)"
   },
   {
    "id": "fig-03",
@@ -35,7 +37,8 @@
    "region": "2330,426,545,548",
    "overlays": true,
    "caption": "The first system: the modalities on the horizons of actuality and non-actuality, with apodicticity, problematicity and assertoricity (1948, p. 198).",
-   "key": "Labels: 必然 necessary; 偶然 contingent; 可能 possible; 不可能 impossible; 現實 actuality; 非現實 non-actuality; 確證性 apodicticity; 問題性 problematicity; 言明性 assertoricity. Horizontal labels are set right to left."
+   "key": "Labels: 必然 necessary; 偶然 contingent; 可能 possible; 不可能 impossible; 現實 actuality; 非現實 non-actuality; 確證性 apodicticity; 問題性 problematicity; 言明性 assertoricity. Horizontal labels are set right to left.",
+   "placement": "after \"Represented as a figure, the foregoing appears as above.\" (Ch. 3, s. 2, end of paragraph)"
   },
   {
    "id": "fig-04",
@@ -47,7 +50,8 @@
    "region": "895,461,570,560",
    "overlays": true,
    "caption": "The square of opposition of the four modalities (1948, p. 203).",
-   "key": "Labels: 必然 necessary; 不可能 impossible; 可能 possible; 偶然 contingent; 反對 contrary; 小反對 subcontrary; 大小 subalternation; 矛盾 contradictory; (現實) (actuality); (非現實) (non-actuality). Horizontal labels are set right to left."
+   "key": "Labels: 必然 necessary; 不可能 impossible; 可能 possible; 偶然 contingent; 反對 contrary; 小反對 subcontrary; 大小 subalternation; 矛盾 contradictory; (現實) (actuality); (非現實) (non-actuality). Horizontal labels are set right to left.",
+   "placement": "after \"Let us represent these relations in the figure on the left.\" (Ch. 3, s. 3)"
   },
   {
    "id": "fig-05",
@@ -59,7 +63,8 @@
    "region": "505,445,700,790",
    "overlays": true,
    "caption": "The second system: the square of Figure 3 turned through forty-five degrees on the line of problematicity (1948, p. 207).",
-   "key": "Labels: 必然 necessary; 可能 possible; 偶然 contingent; 不可能 impossible; 現實 actuality; 確證性 apodicticity; 問題性 problematicity. Horizontal labels are set right to left."
+   "key": "Labels: 必然 necessary; 可能 possible; 偶然 contingent; 不可能 impossible; 現實 actuality; 確證性 apodicticity; 問題性 problematicity. Horizontal labels are set right to left.",
+   "placement": "after \"the figure on p. 198 should probably be altered as shown on the left.\" (Ch. 3, s. 3; the quoted text is the end of the sentence \"From the standpoint that views actuality dynamically ... as shown on the left.\")"
   },
   {
    "id": "fig-06",
@@ -71,7 +76,8 @@
    "region": "795,450,554,574",
    "overlays": true,
    "caption": "The increase and decrease of possibility and contingency between necessity and impossibility (1948, p. 213).",
-   "key": "Labels: 必然 necessity; 不可能 impossibility; 可能 possibility; 偶然 contingency."
+   "key": "Labels: 必然 necessity; 不可能 impossibility; 可能 possibility; 偶然 contingency.",
+   "placement": "after \"What has just been said can be represented by the following figure.\" (Ch. 3, s. 5)"
   },
   {
    "id": "fig-07",
@@ -83,7 +89,8 @@
    "region": "512,457,406,421",
    "overlays": true,
    "caption": "Hartmann's ascending order of the modalities (1948, p. 225).",
-   "key": "Labels: 現實性 actuality; 非現實性 non-actuality; 必然性 necessity; 可能性 possibility; 不可能性 impossibility. The labels are set right to left."
+   "key": "Labels: 現實性 actuality; 非現實性 non-actuality; 必然性 necessity; 可能性 possibility; 不可能性 impossibility. The labels are set right to left.",
+   "placement": "after \"the modalities stand in the ascending order of rank shown here.\" (Ch. 3, s. 6; the sentence begins \"According to Hartmann, then,\")"
   },
   {
    "id": "fig-08",
@@ -95,7 +102,8 @@
    "region": "2100,506,798,280",
    "overlays": false,
    "caption": "Becker's six modalities on a single line between + and - (1948, p. 232).",
-   "key": "Key: Becker's letters, no Japanese: N notwendig (necessary); W wahr (true); M möglich (possible); M′ möglicherweise falsch (possibly false); F falsch (false); U unmöglich (impossible)."
+   "key": "Key: Becker's letters, no Japanese: N notwendig (necessary); W wahr (true); M möglich (possible); M′ möglicherweise falsch (possibly false); F falsch (false); U unmöglich (impossible).",
+   "placement": "after \"The relation is also shown clearly in the following figure.\" (Ch. 3, s. 6)"
   },
   {
    "id": "fig-09",
@@ -107,7 +115,8 @@
    "region": "935,481,745,418",
    "overlays": false,
    "caption": "Becker's figure of the positive and negative modalities (1948, p. 233).",
-   "key": "Key: Letters as in Figure 8."
+   "key": "Key: Letters as in Figure 8.",
+   "placement": "after \"he sees the series of the modalities as follows:\" and the displayed series \"+NWM M′FU-\" (Ch. 3, s. 6)"
   },
   {
    "id": "fig-10",
@@ -119,7 +128,8 @@
    "region": "1943,471,750,694",
    "overlays": true,
    "caption": "The third system: necessity as circumference, impossibility as tangent, contingency at the point of tangency S (1948, p. 234).",
-   "key": "Labels: 必然性(可能性) necessity (possibility); 偶然性 contingency; 不可能性 impossibility, its characters split along the tangent, 不可 towards T and 能性 beyond S."
+   "key": "Labels: 必然性(可能性) necessity (possibility); 偶然性 contingency; 不可能性 impossibility, its characters split along the tangent, 不可 towards T and 能性 beyond S.",
+   "placement": "after \"The standpoint of the third system can be put in the form of a figure.\" (Ch. 3, s. 6)"
   },
   {
    "id": "fig-11",
@@ -131,7 +141,8 @@
    "region": "2450,497,528,615",
    "overlays": true,
    "caption": "Contingency as the apex of the triangle of possibility, on the line of impossibility (1948, p. 236).",
-   "key": "Labels: 必然性 necessity (on AB); 可能性 possibility; 不可能性 impossibility (on A′B′, split either side of the apex); 偶然性 contingency (at the apex). Horizontal labels are set right to left."
+   "key": "Labels: 必然性 necessity (on AB); 可能性 possibility; 不可能性 impossibility (on A′B′, split either side of the apex); 偶然性 contingency (at the apex). Horizontal labels are set right to left.",
+   "placement": "after \"The same state of affairs can also be expressed in the following figure.\" (Ch. 3, s. 6)"
   },
   {
    "id": "fig-12",
@@ -143,7 +154,8 @@
    "region": "757,502,525,560",
    "overlays": false,
    "caption": "(I) The first system of modality (1948, p. 239).",
-   "key": "Key: Letters and signs, no Japanese: R actuality; R′ non-actuality; N necessity; C contingency; P possibility; I impossibility; + reality = being; - nihility = nothingness."
+   "key": "Key: Letters and signs, no Japanese: R actuality; R′ non-actuality; N necessity; C contingency; P possibility; I impossibility; + reality = being; - nihility = nothingness.",
+   "placement": "in place of the table under \"**(I)**[^c3s7-4]\" (Ch. 3, s. 7)"
   },
   {
    "id": "fig-13",
@@ -155,7 +167,8 @@
    "region": "757,1064,525,499",
    "overlays": false,
    "caption": "(II) The second system of modality (1948, p. 239).",
-   "key": "Key: Letters and signs as in Figure 12."
+   "key": "Key: Letters and signs as in Figure 12.",
+   "placement": "in place of the table under \"**(II)**[^c3s7-5]\" (Ch. 3, s. 7)"
   },
   {
    "id": "fig-14",
@@ -167,7 +180,8 @@
    "region": "737,1595,550,500",
    "overlays": false,
    "caption": "(III) The third system of modality (1948, p. 239).",
-   "key": "Key: Letters and signs as in Figure 12."
+   "key": "Key: Letters and signs as in Figure 12.",
+   "placement": "in place of the table under \"**(III)**[^c3s7-6]\" (Ch. 3, s. 7)"
   },
   {
    "id": "fig-15",
@@ -179,7 +193,8 @@
    "region": "528,500,562,620",
    "overlays": true,
    "caption": "Contingency in the three systems of modality (1948, p. 241).",
-   "key": "Labels: 偶然 contingent; 必然(第一體系) necessary (first system); 可能(第二體系) possible (second system); 不可能(第三體系) impossible (third system); 現實性(矛盾) actuality (contradictory); 問題性(小反對) problematicity (subcontrary); 虛無性(大小) nihility (subalternation). Horizontal labels are set right to left."
+   "key": "Labels: 偶然 contingent; 必然(第一體系) necessary (first system); 可能(第二體系) possible (second system); 不可能(第三體系) impossible (third system); 現實性(矛盾) actuality (contradictory); 問題性(小反對) problematicity (subcontrary); 虛無性(大小) nihility (subalternation). Horizontal labels are set right to left.",
+   "placement": "after \"this relation of contingency takes the following form:\" (Ch. 3, s. 7)"
   },
   {
    "id": "fig-16",
@@ -191,7 +206,8 @@
    "region": "545,530,530,790",
    "overlays": false,
    "caption": "Probability between necessity (1) and impossibility (0), with the relations of opposition (1948, p. 249).",
-   "key": "Labels: 必然 necessary; 不可能 impossible; (可能) (possible); (偶然) (contingent); 矛盾 contradictory; 反對 contrary; 小反對 subcontrary; 大小 subalternation; (狹義の)蓋然 probable (in the narrow sense); 非蓋然 improbable; 蓋然 probable. Horizontal labels are set right to left."
+   "key": "Labels: 必然 necessary; 不可能 impossible; (可能) (possible); (偶然) (contingent); 矛盾 contradictory; 反對 contrary; 小反對 subcontrary; 大小 subalternation; (狹義の)蓋然 probable (in the narrow sense); 非蓋然 improbable; 蓋然 probable. Horizontal labels are set right to left.",
+   "placement": "after \"possibility facing towards 1 and contingency facing towards 0.\" (Ch. 3, s. 8)"
   },
   {
    "id": "fig-17",
@@ -203,7 +219,8 @@
    "region": "680,470,830,580",
    "overlays": true,
    "caption": "The temporal characters of the modalities: necessity in the past, possibility in the future, contingency in the present (1948, p. 269).",
-   "key": "Labels: 過去 past; 未來 future; 現在 present; 現實 actuality (現 above the axis, 實 below); 必然 necessity; 可能 possibility; 偶然(不可能) contingency (impossibility). Horizontal labels are set right to left."
+   "key": "Labels: 過去 past; 未來 future; 現在 present; 現實 actuality (現 above the axis, 實 below); 必然 necessity; 可能 possibility; 偶然(不可能) contingency (impossibility). Horizontal labels are set right to left.",
+   "placement": "after \"the temporal characters of the possible, the necessary and the contingent can be represented by the figure above.\" (Ch. 3, s. 9)"
   },
   {
    "id": "fig-18",
@@ -215,7 +232,8 @@
    "region": "535,480,875,800",
    "overlays": true,
    "caption": "The modalities and their affective equivalents (1948, p. 273).",
-   "key": "Labels: 必然 necessary; 可能 possible; 偶然 contingent; 不可能 impossible; 平穩 calm; 不安 anxiety; 驚異 wonder; 緊張 tension; 興奮 excitement; 弛緩 relaxation; 沈靜 subsidence; 靜的 static; 動的 dynamic. Horizontal labels are set right to left."
+   "key": "Labels: 必然 necessary; 可能 possible; 偶然 contingent; 不可能 impossible; 平穩 calm; 不安 anxiety; 驚異 wonder; 緊張 tension; 興奮 excitement; 弛緩 relaxation; 沈靜 subsidence; 靜的 static; 動的 dynamic. Horizontal labels are set right to left.",
+   "placement": "after \"the dotted part may be imagined as folded back upwards, so that the vertex \"impossible\" coincides with the vertex \"necessary\".\" (Ch. 3, s. 10)"
   },
   {
    "id": "fig-19",
@@ -227,7 +245,8 @@
    "region": "2290,480,625,735",
    "overlays": true,
    "caption": "The absolute and the finite: metaphysical and empirical necessity and contingency, and fate (1948, p. 312).",
-   "key": "Labels: 絕對者 the absolute; 有限者 the finite; 絕對的(形而上的)必然 absolute (metaphysical) necessity; 原始偶然 primal contingency; 形而上的偶然 metaphysical contingency; 經驗的(假說的)必然 empirical (hypothetical) necessity; 必然性 necessity; 偶然性 contingency; 運命 fate; 形而上的離接的見地 metaphysical-disjunctive standpoint; 經驗的假說的見地 empirical-hypothetical standpoint. Horizontal labels are set right to left."
+   "key": "Labels: 絕對者 the absolute; 有限者 the finite; 絕對的(形而上的)必然 absolute (metaphysical) necessity; 原始偶然 primal contingency; 形而上的偶然 metaphysical contingency; 經驗的(假說的)必然 empirical (hypothetical) necessity; 必然性 necessity; 偶然性 contingency; 運命 fate; 形而上的離接的見地 metaphysical-disjunctive standpoint; 經驗的假說的見地 empirical-hypothetical standpoint. Horizontal labels are set right to left.",
+   "placement": "after \"Let us represent the above considerations in the figure on the right.\" (Ch. 3, s. 13)"
   },
   {
    "id": "fig-20",
@@ -239,7 +258,8 @@
    "region": "665,500,790,300",
    "overlays": false,
    "caption": "Being and nothingness: the mountain of possibility and the valley of contingency between necessity and impossibility (1948, p. 315).",
-   "key": "Key: Letters and signs, no Japanese: N necessity; I impossibility; P possibility; C contingency; R actuality; R′ non-actuality; + domain of being; − domain of nothingness."
+   "key": "Key: Letters and signs, no Japanese: N necessity; I impossibility; P possibility; C contingency; R actuality; R′ non-actuality; + domain of being; − domain of nothingness.",
+   "placement": "after \"that dares the paradox of seizing impossibility from the core of nothingness and bringing it into contact with being.\" (Ch. 3, s. 14, end of paragraph)"
   },
   {
    "id": "fig-21",
@@ -251,7 +271,8 @@
    "region": "2322,510,678,570",
    "overlays": false,
    "caption": "The modalities on coordinate axes of actuality and non-actuality (1948, p. 316).",
-   "key": "Key: Letters and signs, no Japanese, as in Figure 20; O origin; (I) to (IV) quadrants; a, b points on the curve."
+   "key": "Key: Letters and signs, no Japanese, as in Figure 20; O origin; (I) to (IV) quadrants; a, b points on the curve.",
+   "placement": "after \"The same relation can also be illustrated by coordinate axes, as on the left.\" (Ch. 3, s. 14)"
   },
   {
    "id": "fig-22",
@@ -263,7 +284,8 @@
    "region": "795,490,645,605",
    "overlays": true,
    "caption": "Being and nothingness in the four modalities: the triangle of apodicticity, problematicity and assertoricity (1948, p. 317).",
-   "key": "Labels: 有 being; 無 nothingness; 必然 necessity; 可能 possibility; 偶然 contingency; 不可能 impossibility; 現實 actuality; 非現實 non-actuality; 確證性 apodicticity; 問題性 problematicity; 言明性 assertoricity. Horizontal labels are set right to left."
+   "key": "Labels: 有 being; 無 nothingness; 必然 necessity; 可能 possibility; 偶然 contingency; 不可能 impossibility; 現實 actuality; 非現實 non-actuality; 確證性 apodicticity; 問題性 problematicity; 言明性 assertoricity. Horizontal labels are set right to left.",
+   "placement": "after \"The same relation can also be illustrated, from a somewhat different standpoint, as on the left.\" (Ch. 3, s. 14)"
   }
  ]
 }

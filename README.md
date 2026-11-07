@@ -1,6 +1,6 @@
 # Kuki Research Bench
 
-**Version:** 0.1.23 (bench-kit 1.3.0)  
+**Version:** 0.1.24 (bench-kit 1.4.0)  
 **Live:** https://vector-humanities.github.io/kuki-bench/ (once published)
 
 A research bench for reading the vector translation of Kuki Shūzō's 偶然性の問題 (*The Problem of Contingency*, Iwanami Shoten, 1935) beside its source. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), from its translation template, and reads a translation made by the [vector translation method](https://github.com/vector-humanities/vector-translation).
@@ -26,7 +26,7 @@ The translation is a copy, under `translation/`, of the translation's working re
 | `translation/Kuki_Problem-of-Contingency_translation.md` | the translation, with the apparatus and the glossary |
 | `translation/working/` | the agents' briefs, the change lists of the terminology pass and the read-through, the editor's notes |
 | `translation/source/guzensei-ocr-raw.txt` | the National Diet Library's OCR, image by image (for search only) |
-| `figures/` | Kuki's 22 figures: the print files, the archival crops (`raw/`), `figures.json`, and the English labels (`overlays.json`), made by `tools/figures.js` |
+| `figures/` | Kuki's 22 figures: the print files, the archival crops (`raw/`), `figures.json`, and the English labels (`overlays.json`), made by `kit/tools/vt-figures.js` |
 | `img/pages/`, `img/spreads/`, `img/full/` | the bench's own copies of the 174 page images: each page at 560 and 900 pixels wide and at full resolution, each spread as a thumbnail and at full resolution, made by `tools/page-images.js` and `tools/ndl-copies.js`; `img/provenance.csv` gives each one's source |
 | `js/images.js` | the 174 images in the library's IIIF service (bench-kit's `tools/iiif-map.js`): their keys, labels and sizes |
 
