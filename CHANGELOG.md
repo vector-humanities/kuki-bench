@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.38 (2026-11-07)
+
+- bench-kit 1.8.3: group members can set a Library entry's relevance in its box.
+
 ## 0.1.37 (2026-11-07)
 
 - The Library and the annotations use the bench's own Hypothesis group by default.
