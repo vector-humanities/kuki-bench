@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.29 (2026-11-07)
+
+- bench-kit 1.5.0: the Library's Language filter gives names in place of codes.
+
 ## 0.1.28 (2026-11-07)
 
 - Two Library titles in full.
