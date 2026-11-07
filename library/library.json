@@ -959,8 +959,8 @@
    "publisher": "Librairie philosophique J. Vrin, Paris",
    "pages": "304 p.; 22 cm",
    "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I031371062",
-   "note": "Monograph on the whole Kuki corpus centred on contingency, from the 1932 dissertation and the 1935 book to the encounter, rhyme, and the political writings on community and nation.",
-   "verified": "Stevens's review in EJJP 7 (ISBN, Vrin, 2021, 304 pp.); NDL Search record (304 p., 22 cm, nouvelle série)",
+   "note": "Monograph on the whole Kuki corpus centred on contingency, from the 1932 dissertation and the 1935 book to the encounter, rhyme, and the political writings on community and nation. Book version of Ebersolt's doctoral thesis of the same title (Université Sorbonne Paris Cité, prepared at Inalco with Paris 1, defended 16 November 2017; directors Emmanuel Lozerand and Frédéric Fruteau de Laclos; theses.fr 2017USPCF027, https://theses.fr/2017USPCF027; DOI 10.70675/b6c06966z972dz444eza000z5257c09ed858).",
+   "verified": "Stevens's review in EJJP 7 (ISBN, Vrin, 2021, 304 pp.); NDL Search record (304 p., 22 cm, nouvelle série); for the thesis, search listings for theses.fr and the GIS Asie defence notice, Crossref record, HAL search API",
    "zotero": "5JK2F2N8",
    "thumb": "library/thumbs/EBERSOLT-2021.webp"
   },
@@ -1121,20 +1121,6 @@
    "note": "Reads Kuki's ethics of difference through his theory of contingency and time, against Watsuji and Heidegger.",
    "verified": "The thesis’s title and copyright pages",
    "zotero": "SXMNFFSK"
-  },
-  {
-   "id": "EBERSOLT-2017",
-   "title": "Contingence et communauté. Kuki Shûzô, philosophe japonais",
-   "author": "Simon Ebersolt",
-   "date": "2017 (defended 16 November 2017)",
-   "kind": "thesis",
-   "lang": "fr",
-   "in": "doctoral thesis, philosophie, Université Sorbonne Paris Cité (prepared at Inalco, with Paris 1); directors Emmanuel Lozerand and Frédéric Fruteau de Laclos",
-   "publisher": "Paris",
-   "doi": "10.70675/b6c06966z972dz444eza000z5257c09ed858",
-   "url": "https://theses.fr/2017USPCF027",
-   "note": "Thesis on Kuki's thought of contingency and its relation to his writings on community, ethnicity and war.",
-   "verified": "search listings for theses.fr and the GIS Asie defence notice; Crossref record (dissertation, Sorbonne Paris Cité); HAL search API"
   },
   {
    "id": "PORTODASILVA-2020",

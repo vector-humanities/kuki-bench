@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.25 (2026-11-07)
+
+- The Library lists Ebersolt's Contingence et communauté once: the thesis joins the book's record.
+
 ## 0.1.24 (2026-11-07)
 
 - bench-kit 1.4.0: the Library's filters stay when a narrow window is widened, and covers come in three sizes. The figures are made by the kit's tool.
