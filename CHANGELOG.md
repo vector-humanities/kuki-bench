@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.23 (2026-11-07)
+
+- bench-kit 1.3.0: the Library's facets, by kind, decade, author, language and tag.
+
 ## 0.1.22 (2026-11-06)
 
 - The Library's books have their covers; bench-kit 1.2.0.
