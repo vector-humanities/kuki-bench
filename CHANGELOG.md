@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.41 (2026-11-07)
+
+- bench-kit 1.8.5: new wording for an entry the Library holds no copy of.
+
 ## 0.1.40 (2026-11-07)
 
 - The group's ratings, Key work marks and tags are published each day for readers without a token.
