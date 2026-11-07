@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.33 (2026-11-07)
+
+- bench-kit 1.7.0: a book's real cover shows in its Library box.
+
 ## 0.1.32 (2026-11-07)
 
 - bench-kit 1.6.0: Share in a Library entry's box, and a preview card for the Library.

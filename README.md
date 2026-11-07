@@ -1,6 +1,6 @@
 # Kuki Research Bench
 
-**Version:** 0.1.32 (bench-kit 1.6.0)  
+**Version:** 0.1.33 (bench-kit 1.7.0)  
 **Live:** https://vector-humanities.github.io/kuki-bench/ (once published)
 
 A research bench for reading the vector translation of Kuki Shūzō's 偶然性の問題 (*The Problem of Contingency*, Iwanami Shoten, 1935) beside its source. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), from its translation template, and reads a translation made by the [vector translation method](https://github.com/vector-humanities/vector-translation).
