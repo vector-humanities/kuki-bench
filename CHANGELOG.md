@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.27 (2026-11-07)
+
+- Ten more Library articles, found by reading the J-STAGE results for what they say about Kuki and the book.
+
 ## 0.1.26 (2026-11-07)
 
 - The Library gains 51 articles on the book and on Kuki's contingency, including those of 現代思想 44(23) and 理想 698.
