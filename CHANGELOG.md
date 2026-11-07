@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.31 (2026-11-07)
+
+- bench-kit 1.5.1: the Library's Order menu offers Rating only where ratings can exist.
+
 ## 0.1.30 (2026-11-07)
 
 - The Library files Japanese, Chinese and Korean authors under their family names.
