@@ -16,7 +16,8 @@
    "url": "https://ci.nii.ac.jp/ncid/BA08614713",
    "note": "Complete French translation with a translator's introduction; the only complete published translation found.",
    "verified": "CiNii Books record BA08614713; NDL OpenSearch result (198 p., 訳・序 Omodaka Hisayuki)",
-   "zotero": "AYLQRE4I"
+   "zotero": "AYLQRE4I",
+   "key": 7
   },
   {
    "id": "AGALMA-2003",
@@ -31,7 +32,8 @@
    "pages": "not shown (issue is 128 pp.)",
    "url": "http://www.agalmarivista.org/articoli-uscite/shuzo-kuki-il-problema-della-contingenza/",
    "note": "Partial translation, three passages, the first from the Introduction and the second and third from the Conclusion, translated into Italian from Omodaka's French version, with editorial notes (N.d.C.) on Pure Land doctrine and the Milindapañha.",
-   "verified": "the agalmarivista.org article page and issue page; the Mimesis catalogue page (year 2003, ISBN, 128 pp.)"
+   "verified": "the agalmarivista.org article page and issue page; the Mimesis catalogue page (year 2003, ISBN, 128 pp.)",
+   "key": 9
   },
   {
    "id": "MORISATO-TR-2015",
@@ -46,7 +48,8 @@
    "pages": "corresponds to KSZ 2: 9–12",
    "url": "https://www.academia.edu/11286398/",
    "note": "Draft English translation of the opening of the Introduction (序説), the section on contingency and metaphysics, KSZ 2: 9–12. Posted by the translator on academia.edu, which could not be read automatically: the record rests on the site’s listing.",
-   "verified": "search-engine listing of the academia.edu page (title and date). The page itself returned HTTP 403 and was not read."
+   "verified": "search-engine listing of the academia.edu page (title and date). The page itself returned HTTP 403 and was not read.",
+   "key": 8
   },
   {
    "id": "KONAN-TESHUBON",
@@ -62,7 +65,8 @@
    "url": "https://archive.konan-u.ac.jp/il/meta_pub/G0000861konanu_L00400",
    "note": "Page images of Kuki's annotated copy, printed on one side and without a colophon, with his corrections and loose newspaper cuttings (L00401 notes six cuttings at pp. 37, 44, 99, 156).",
    "verified": "Konan University Library blog post 6692; archive item page L00401",
-   "thumb": "library/thumbs/KONAN-TESHUBON.webp"
+   "thumb": "library/thumbs/KONAN-TESHUBON.webp",
+   "key": 2
   },
   {
    "id": "KUKI-1935",
@@ -77,7 +81,8 @@
    "pages": "331 p.; 23 cm",
    "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000000743961",
    "note": "First edition.",
-   "verified": "NDL Search record R100000002-I000000743961"
+   "verified": "NDL Search record R100000002-I000000743961",
+   "key": 1
   },
   {
    "id": "KUKI-1948-NDL",
@@ -94,7 +99,8 @@
    "url": "https://dl.ndl.go.jp/pid/1037966",
    "note": "Page images of the whole book, 1948 printing of the 1935 text.",
    "verified": "IIIF manifest for pid 1037966 (label, creator, publisher, date 昭和23, PDM); NDL OpenSearch",
-   "thumb": "library/thumbs/KUKI-1948-NDL.webp"
+   "thumb": "library/thumbs/KUKI-1948-NDL.webp",
+   "key": 3
   },
   {
    "id": "KSZ-2",
@@ -111,7 +117,8 @@
    "note": "Standard critical text; base text the annotated copy of the first edition, according to CiNii's note on the 2012 Bunko (BB10768284); the volume also contains the 1932 dissertation 「偶然性」 and the Ōtani University lectures.",
    "verified": "Iwanami Shoten book page b476475 (dated 1980-11-19, editors, 品切れ); NDL OpenSearch records",
    "zotero": "F6U53DPD",
-   "thumb": "library/thumbs/KSZ-2.webp"
+   "thumb": "library/thumbs/KSZ-2.webp",
+   "key": 4
   },
   {
    "id": "SAKABE-2000",
@@ -125,7 +132,8 @@
    "publisher": "燈影舎 Tōeisha, Kyoto",
    "pages": "356 p. (2000); 360 p. (2006)",
    "note": "Reprints the book with literary essays and Sakabe's commentary.",
-   "verified": "NDL OpenSearch records; Maraldo 2008 references (Sakabe 2000 Kaisetsu)"
+   "verified": "NDL OpenSearch records; Maraldo 2008 references (Sakabe 2000 Kaisetsu)",
+   "key": 6
   },
   {
    "id": "KUKI-GUZEN-ODOROKI-2007",
@@ -156,7 +164,8 @@
    "url": "https://www.iwanami.co.jp/book/b246136.html",
    "note": "Annotated paperback; text follows Kuki Shūzō zenshū vol. 2, itself based on the author's annotated copy of the first edition; contents 序説, 定言的偶然, 仮説的偶然, 離接的偶然, 結論; chronology pp. 443–459.",
    "verified": "Iwanami book page; the base text from the note in CiNii Books BB10768284",
-   "thumb": "library/thumbs/BUNKO-2012.webp"
+   "thumb": "library/thumbs/BUNKO-2012.webp",
+   "key": 5
   },
   {
    "id": "TANAKA-ED-2020",

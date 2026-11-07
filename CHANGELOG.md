@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.1.35 (2026-11-07)
+
+- bench-kit 1.8.1: the book's editions and translations come first in the Library.
+
 ## 0.1.34 (2026-11-07)
 
 - bench-kit 1.8.0: the Library lists its works by relevance to the book, with a filter.
