@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.19 (2026-11-08)
+
+- bench-kit 1.8.24: a work with no notes opens in one column, with Add note; a smaller library card in Settings
+
 ## 0.2.18 (2026-11-08)
 
 - bench-kit 1.8.23: the Library's lists show each work's Key Work mark, level and the group's stars
