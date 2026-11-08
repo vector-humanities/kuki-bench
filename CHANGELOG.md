@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.21 (2026-11-08)
+
+- bench-kit 1.8.26: card backs use the card's own paper; the Renew menu is a light paper slip in every theme
+
 ## 0.2.20 (2026-11-08)
 
 - bench-kit 1.8.25: the To read shelf draws for older loans; Wipe my loan history; book cards turn over again
