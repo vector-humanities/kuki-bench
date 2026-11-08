@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.5 (2026-11-08)
+
+- bench-kit 1.8.11: Library and To read as tabs, and one Show menu.
+
 ## 0.2.4 (2026-11-08)
 
 - bench-kit 1.8.10: a card catalogue in the Library, and cards that turn over to show the group's notes.
