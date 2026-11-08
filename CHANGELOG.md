@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.13 (2026-11-08)
+
+- bench-kit 1.8.18: a library card and due-soon setting in Settings.
+
 ## 0.2.12 (2026-11-08)
 
 - bench-kit 1.8.17: editors and translators export family name first, and a work with no author is cited by its title.
