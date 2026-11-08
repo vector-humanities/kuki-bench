@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.17 (2026-11-08)
+
+- bench-kit 1.8.22: the Library draws 150 works at a time, and covers fade in.
+
 ## 0.2.16 (2026-11-08)
 
 - bench-kit 1.8.21: the Library's tabs and toolbar on one line where there is room.
