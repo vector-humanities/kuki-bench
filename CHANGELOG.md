@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.15 (2026-11-08)
+
+- bench-kit 1.8.20: the gallery's box lays out by the pane's width.
+
 ## 0.2.14 (2026-11-08)
 
 - bench-kit 1.8.19: a gallery view, filters that stay in view, and the library card's back.
