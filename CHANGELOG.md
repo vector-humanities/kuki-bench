@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.24 (2026-11-09)
+
+- The translation refreshed to kuki-guzensei ee712cd: Ground, Encounter and Modality capitalised for 根據, 邂逅 and 樣相性
+
 ## 0.2.23 (2026-11-09)
 
 - bench-kit 1.8.28: the Glossary's ⚠ says what it means on hover, focus and tap; the glossary sorts by Source, Reading and English
