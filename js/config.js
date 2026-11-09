@@ -23,7 +23,9 @@
       figures: { list: 'front-and-back-matter/figures/figures.csv' },   // the figure list (kit/tools/vt-figures.js)
       body: { from: '^## Author', until: '^#+ (Appendix|Glossary)' },   // Kuki's text: from his own preface; the translator's Preface and Note before it          // where the apparatus begins
       // Kuki's glossary is the table at the end of the translation (the literal keeps a copy)
-      glossary: { path: 'translation/Kuki_Problem-of-Contingency_translation.md', kind: 'md', heading: 'Glossary' },
+      // case kept: the translation keeps pairs of terms apart by a capital (根據 Ground, 理由 ground; 邂逅 Encounter,
+      // 遭遇 encounter; 樣相性 Modality, 樣相 modality)
+      glossary: { path: 'translation/Kuki_Problem-of-Contingency_translation.md', kind: 'md', heading: 'Glossary', caseSensitive: true },
       // the change lists of the first run (translation/SOURCE.json lists the files copied)
       changes: ['terms-pass/changes-1.md', 'terms-pass/changes-2a.md', 'terms-pass/changes-2b.md',
                 'readthrough/fixes-1.md', 'readthrough/fixes-2a.md', 'readthrough/fixes-2b.md', 'readthrough/fixes-2c.md',
