@@ -4,7 +4,7 @@ Changes to the Kuki Research Bench. The bench keeps its own version numbers, rai
 
 ## 0.2.24 (2026-11-09)
 
-- The translation refreshed to kuki-guzensei ee712cd: Ground, Encounter and Modality capitalised for 根據, 邂逅 and 樣相性
+- The translation refreshed to its working repository at ee712cd: Ground, Encounter and Modality capitalised for 根據, 邂逅 and 樣相性
 
 ## 0.2.23 (2026-11-09)
 
