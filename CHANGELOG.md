@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.26 (2026-11-09)
+
+- The translation refreshed to its working repository at bd03962: the Translator's Note and Appendix A §4 on 遭遇 and 邂逅 reworded
+
 ## 0.2.25 (2026-11-09)
 
 - The translation refreshed to its working repository at c4088de: the Translator's Note's sentence on the capitals reworded
