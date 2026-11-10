@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.28 (2026-11-10)
+
+- The translation refreshed to its working repository at b432dbe: both versions read again against the 1948 page images, with corrections on some 25 pages (pp. 6–313), a sentence added on p. 124 and on p. 152, two working notes removed, and a new paragraph in the Translator's Note
+
 ## 0.2.27 (2026-11-09)
 
 - bench-kit 1.9.0: the Glossary reads renderings with their case, so Ground (根據) and ground (理由), Encounter (邂逅) and encounter (遭遇), Modality (樣相性) and modality (樣相) are no longer marked ⚠ and are counted apart; the sort tips name their column
