@@ -37,7 +37,7 @@
    "region": "2330,426,545,548",
    "overlays": true,
    "caption": "The first system: the modalities on the horizons of actuality and non-actuality, with apodicticity, problematicity and assertoricity (1948, p. 198).",
-   "key": "Labels: 必然 necessary; 偶然 contingent; 可能 possible; 不可能 impossible; 現實 actuality; 非現實 non-actuality; 確證性 apodicticity; 問題性 problematicity; 言明性 assertoricity. Horizontal labels are set right to left.",
+   "key": "Labels: 必然 necessary; 偶然 contingent; 可能 possible; 不可能 impossible; 現實 actual; 非現實 non-actual; 確證性 apodicticity; 問題性 problematicity; 言明性 assertoricity. Horizontal labels are set right to left.",
    "placement": "after \"Represented as a figure, the foregoing appears as above.\" (Ch. 3, s. 2, end of paragraph)"
   },
   {
@@ -50,7 +50,7 @@
    "region": "895,461,570,560",
    "overlays": true,
    "caption": "The square of opposition of the four modalities (1948, p. 203).",
-   "key": "Labels: 必然 necessary; 不可能 impossible; 可能 possible; 偶然 contingent; 反對 contrary; 小反對 subcontrary; 大小 subalternation; 矛盾 contradictory; (現實) (actuality); (非現實) (non-actuality). Horizontal labels are set right to left.",
+   "key": "Labels: 必然 necessary; 不可能 impossible; 可能 possible; 偶然 contingent; 反對 contrary; 小反對 subcontrary; 大小 subalternation; 矛盾 contradictory; (現實) (actual); (非現實) (non-actual). Horizontal labels are set right to left.",
    "placement": "after \"Let us represent these relations in the figure on the left.\" (Ch. 3, s. 3)"
   },
   {
@@ -63,7 +63,7 @@
    "region": "505,445,700,790",
    "overlays": true,
    "caption": "The second system: the square of Figure 3 turned through forty-five degrees on the line of problematicity (1948, p. 207).",
-   "key": "Labels: 必然 necessary; 可能 possible; 偶然 contingent; 不可能 impossible; 現實 actuality; 確證性 apodicticity; 問題性 problematicity. Horizontal labels are set right to left.",
+   "key": "Labels: 必然 necessary; 可能 possible; 偶然 contingent; 不可能 impossible; 現實 actual; 確證性 apodicticity; 問題性 problematicity. Horizontal labels are set right to left.",
    "placement": "after \"the figure on p. 198 should probably be altered as shown on the left.\" (Ch. 3, s. 3; the quoted text is the end of the sentence \"From the standpoint that views actuality dynamically ... as shown on the left.\")"
   },
   {
@@ -76,7 +76,7 @@
    "region": "795,450,554,574",
    "overlays": true,
    "caption": "The increase and decrease of possibility and contingency between necessity and impossibility (1948, p. 213).",
-   "key": "Labels: 必然 necessity; 不可能 impossibility; 可能 possibility; 偶然 contingency.",
+   "key": "Labels: 必然 necessary; 不可能 impossible; 可能 possible; 偶然 contingent.",
    "placement": "after \"What has just been said can be represented by the following figure.\" (Ch. 3, s. 5)"
   },
   {
@@ -219,7 +219,7 @@
    "region": "680,470,830,580",
    "overlays": true,
    "caption": "The temporal characters of the modalities: necessity in the past, possibility in the future, contingency in the present (1948, p. 269).",
-   "key": "Labels: 過去 past; 未來 future; 現在 present; 現實 actuality (現 above the axis, 實 below); 必然 necessity; 可能 possibility; 偶然(不可能) contingency (impossibility). Horizontal labels are set right to left.",
+   "key": "Labels: 過去 past; 未來 future; 現在 present; 現實 actual (現 above the axis, 實 below); 必然 necessary; 可能 possible; 偶然(不可能) contingent (impossible). Horizontal labels are set right to left.",
    "placement": "after \"the temporal characters of the possible, the necessary and the contingent can be represented by the figure above.\" (Ch. 3, s. 9)"
   },
   {
@@ -284,7 +284,7 @@
    "region": "795,490,645,605",
    "overlays": true,
    "caption": "Being and nothingness in the four modalities: the triangle of apodicticity, problematicity and assertoricity (1948, p. 317).",
-   "key": "Labels: 有 being; 無 nothingness; 必然 necessity; 可能 possibility; 偶然 contingency; 不可能 impossibility; 現實 actuality; 非現實 non-actuality; 確證性 apodicticity; 問題性 problematicity; 言明性 assertoricity. Horizontal labels are set right to left.",
+   "key": "Labels: 有 being; 無 nothingness; 必然 necessary; 可能 possible; 偶然 contingent; 不可能 impossible; 現實 actual; 非現實 non-actual; 確證性 apodicticity; 問題性 problematicity; 言明性 assertoricity. Horizontal labels are set right to left.",
    "placement": "after \"The same relation can also be illustrated, from a somewhat different standpoint, as on the left.\" (Ch. 3, s. 14)"
   }
  ]

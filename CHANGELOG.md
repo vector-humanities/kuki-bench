@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.29 (2026-11-10)
+
+- The translation refreshed to its working repository at 5a43ef1: English words shared by more than one term separated across both versions (基礎づける found, 基く rest on; 瞬間 and 刹那 instant, 契機 moment; 限定 delimitation, 規定 determination; free-standing 偶然 the contingent or chance, 現實 the actual), the headings of §§18 and 20 and five glossary rows following; pp. 154 and 293 corrected against the page; the labels of Figures 3, 4, 5, 6, 17 and 22 and the caption of Figure 17 to match
+
 ## 0.2.28 (2026-11-10)
 
 - The translation refreshed to its working repository at b432dbe: both versions read again against the 1948 page images, with corrections on some 25 pages (pp. 6–313), a sentence added on p. 124 and on p. 152, two working notes removed, and a new paragraph in the Translator's Note

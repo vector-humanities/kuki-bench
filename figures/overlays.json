@@ -143,7 +143,7 @@
  "fig-03-p198.png": [
   {
    "jp": "現實",
-   "en": "actuality",
+   "en": "actual",
    "x": 0.367,
    "y": 0.0255,
    "align": "left"
@@ -178,7 +178,7 @@
   },
   {
    "jp": "非現實",
-   "en": "non-actuality",
+   "en": "non-actual",
    "x": 0.1835,
    "y": 0.8449,
    "align": "left"
@@ -278,14 +278,14 @@
   },
   {
    "jp": "(現實)",
-   "en": "(actuality)",
+   "en": "(actual)",
    "x": 0.2895,
    "y": 0.2679,
    "align": "left"
   },
   {
    "jp": "(非現實)",
-   "en": "(non-actuality)",
+   "en": "(non-actual)",
    "x": 0.693,
    "y": 0.2143,
    "align": "right"
@@ -322,7 +322,7 @@
   },
   {
    "jp": "現實",
-   "en": "actuality",
+   "en": "actual",
    "x": 0.6457,
    "y": 0.4304,
    "align": "left"
@@ -345,28 +345,28 @@
  "fig-06-p213.png": [
   {
    "jp": "可能",
-   "en": "possibility",
+   "en": "possible",
    "x": 0.4152,
    "y": 0.3659,
    "align": "left"
   },
   {
    "jp": "偶然",
-   "en": "contingency",
+   "en": "contingent",
    "x": 0.6444,
    "y": 0.5383,
    "align": "left"
   },
   {
    "jp": "必然",
-   "en": "necessity",
+   "en": "necessary",
    "x": 0.565,
    "y": 0.1707,
    "align": "right"
   },
   {
    "jp": "不可能",
-   "en": "impossibility",
+   "en": "impossible",
    "x": 0.4188,
    "y": 0.8171,
    "align": "left"
@@ -640,28 +640,28 @@
   },
   {
    "jp": "現實",
-   "en": "actuality",
+   "en": "actual",
    "x": 0.547,
    "y": 0.2759,
    "align": "left"
   },
   {
    "jp": "必然",
-   "en": "necessity",
+   "en": "necessary",
    "x": 0.2169,
    "y": 0.4448,
    "align": "left"
   },
   {
    "jp": "可能",
-   "en": "possibility",
+   "en": "possible",
    "x": 0.7458,
    "y": 0.2224,
    "align": "right"
   },
   {
    "jp": "偶然(不可能)",
-   "en": "contingency\n(impossibility)",
+   "en": "contingent\n(impossible)",
    "x": 0.7024,
    "y": 0.5586,
    "align": "left"
@@ -858,14 +858,14 @@
   },
   {
    "jp": "必然",
-   "en": "necessity",
+   "en": "necessary",
    "x": 0.1023,
    "y": 0.005,
    "align": "left"
   },
   {
    "jp": "可能",
-   "en": "possibility",
+   "en": "possible",
    "x": 0.9116,
    "y": 0.0215,
    "align": "right"
@@ -893,28 +893,28 @@
   },
   {
    "jp": "現實",
-   "en": "actuality",
+   "en": "actual",
    "x": 0.3721,
    "y": 0.3603,
    "align": "left"
   },
   {
    "jp": "非現實",
-   "en": "non-actuality",
+   "en": "non-actual",
    "x": 0.4915,
    "y": 0.3091,
    "align": "left"
   },
   {
    "jp": "不可能",
-   "en": "impossibility",
+   "en": "impossible",
    "x": 0.3907,
    "y": 0.7273,
    "align": "right"
   },
   {
    "jp": "偶然",
-   "en": "contingency",
+   "en": "contingent",
    "x": 0.6279,
    "y": 0.7107,
    "align": "left"
