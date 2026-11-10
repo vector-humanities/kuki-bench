@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.30 (2026-11-10)
+
+- The translation refreshed to its working repository at d698a0e: free-standing 必然, 可能, 不可能 now the necessary, the possible, the impossible in both versions (73 changes, mostly pp. 197–219; necessity, possibility, impossibility kept for the -性 forms); free-standing 偶然 on pp. 198, 200 and 209 the contingent; Figure 17's caption, Appendix A §2, the glossary and the Translator's Note to match
+
 ## 0.2.29 (2026-11-10)
 
 - The translation refreshed to its working repository at 5a43ef1: English words shared by more than one term separated across both versions (基礎づける found, 基く rest on; 瞬間 and 刹那 instant, 契機 moment; 限定 delimitation, 規定 determination; free-standing 偶然 the contingent or chance, 現實 the actual), the headings of §§18 and 20 and five glossary rows following; pp. 154 and 293 corrected against the page; the labels of Figures 3, 4, 5, 6, 17 and 22 and the caption of Figure 17 to match
