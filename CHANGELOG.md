@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.37 (2026-11-12)
+
+- bench-kit 1.9.5: a highlight link's place on the page is filled without a border, in Book and in Share highlight's picture; a sentence that runs over a page turn is marked by its own words, so the page image between its halves is no longer tinted
+
 ## 0.2.36 (2026-11-12)
 
 - Share highlight's citation in author-date form, with the page beside the edition it belongs to: Kuki Shūzō, The Problem of Contingency (1948 [1935]), p. N, trans. David M. Berry (2026)
