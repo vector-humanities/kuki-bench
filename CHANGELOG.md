@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.41 (2026-11-12)
+
+- README, the tour and About describe Edit's box, Share page and Share highlight (its picture, citation and four actions), and highlight links as they are now: filled without a border, lit on both pages where a sentence runs over a page turn
+
 ## 0.2.40 (2026-11-12)
 
 - bench-kit 1.9.8: Settings ▸ Book fits its pane without scrolling, the page picture smaller with the trim controls beside it and Highlight links on one row

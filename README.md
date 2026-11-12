@@ -1,6 +1,6 @@
 # Kuki Research Bench
 
-**Version:** 0.2.40 (bench-kit 1.9.8)  
+**Version:** 0.2.41 (bench-kit 1.9.8)  
 **Live:** https://vector-humanities.github.io/kuki-bench/
 
 A research bench for reading the vector translation of Kuki Shūzō's 偶然性の問題 (*The Problem of Contingency*, Iwanami Shoten, 1935) beside its source. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), from its translation template, and reads a translation made by the [vector translation method](https://github.com/vector-humanities/vector-translation).
@@ -9,7 +9,9 @@ The translation is preliminary (October–November 2026): the whole text is tran
 
 ## What is here
 
-- **Pages**: each page of the 1948 printing, from the bench's own copies of the National Diet Library's images, beside the translation; Compare sets the literal translation beside them, the texts held at the same page as either is scrolled. A click on the image opens it larger, to zoom. **Highlight links**: a sentence of the translation under the pointer lights its place on the page image, in indigo, and a place on the image lights its sentence; a click holds both. The places are estimated and drawn with a dashed edge (see *Highlight links* below). Settings ▸ Book ▸ Highlight links sets a colour of your own or turns them off.
+- **Pages**: each page of the 1948 printing, from the bench's own copies of the National Diet Library's images, beside the translation; Compare sets the literal translation beside them, the texts held at the same page as either is scrolled. A click on the image opens it larger, to zoom. **Highlight links**: a sentence of the translation under the pointer lights its place on the page image, filled in indigo, and a place on the image lights its sentence; a click holds both. A sentence that runs over a page turn is lit on both pages. The places are estimated: while the pointer is on the image they show a dashed edge (see *Highlight links* below). Settings ▸ Book ▸ Highlight links sets a colour of your own or turns them off.
+- **Share page** and **Share highlight**: Share page copies a link to Book at the page shown. Share highlight appears while a highlight link is held and opens a picture of the page with the place marked and the sentence beside it, cited as *Kuki Shūzō, The Problem of Contingency (1948 [1935]), p. N, trans. David M. Berry (2026)*, with Copy link (a link that reopens the page with the sentence held), Email… (the picture and the sentence to Mail; where the browser cannot pass the picture, it is copied for pasting into the message), Download PNG and Copy PNG.
+- **Edit**: the text as its file has it (Markdown), in a box of its own beside the page image: greyed while locked, white with an indigo edge once the padlock is opened. A save downloads a change list; File ▸ Open a folder… edits a working copy instead.
 - **Read**: each version line by line, with a search, annotations shared through a Hypothesis group, citations and export.
 - **Glossary**: each Japanese term, its renderings, and where each rendering falls in the translation, section by section; ⚠ marks an English word that renders more than one Japanese term (determination: 規定 and, in the causal sense, 決定). Renderings are read with their case, so Ground (根據) and ground (理由), Encounter (邂逅) and encounter (遭遇), Modality (樣相性) and modality (樣相) are counted apart.
 - **Changes**: the change lists of the terminology pass and the read-through, each change at its page, with the Japanese where the list gives it, and whether it is in the text now.
