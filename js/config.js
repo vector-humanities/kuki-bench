@@ -61,6 +61,8 @@
       },
       // each page trimmed to its paper: the scanner's white and the binding's black (tools/page-trim.js, js/page-trim.js);
       // Settings ▸ Book ▸ The pages' edges overrides it
+      regions: 'regions/{page}.json',                      // highlight links: where each sentence of the translation lies on its page (tools/regions.js), estimated
+      linkColor: '#165E83',                                // 藍 indigo, one of the colours of iki
       trim: function (pb) { var t = root.SWPageTrim; return t ? t[+pb.facs] || null : null; },
       imageCreditShort: '国立国会図書館 National Diet Library, JAPAN',
       imageCredit: '九鬼周造『偶然性の問題』岩波書店, 1948 printing. 国立国会図書館 National Diet Library, JAPAN, Digital Collections <a href="https://dl.ndl.go.jp/pid/1037966" target="_blank" rel="noopener">pid 1037966 ↗</a> (public domain). The bench holds its own copies of the 174 images; img/provenance.csv gives each one’s source.'
@@ -81,8 +83,8 @@
     about: {
       icon: '<img src="img/icon.svg" alt="" width="40" height="40">',
       author: 'David M. Berry', citeAuthor: 'Berry, D. M.',
-      purpose: 'A bench for reading the vector translation of Kuki Shūzō’s 偶然性の問題 (<i>The Problem of Contingency</i>, 1935) beside its source: each page of the 1948 printing beside the translation, with the literal translation one switch away, the glossary as a concordance, the change lists of the translation and where each change is now, and a source word looked for in the library’s OCR.',
-      inside: 'The translation and the literal translation (preliminary, October–November 2026), divided into lines and set as pages; the glossary; the change lists of the terminology pass and the read-through; the agents’ briefs and editor’s notes; Kuki’s 22 figures; the National Diet Library’s OCR of the 1948 printing, for search.',
+      purpose: 'A bench for reading the vector translation of Kuki Shūzō’s 偶然性の問題 (<i>The Problem of Contingency</i>, 1935) beside its source: each page of the 1948 printing beside the translation, each sentence of the translation linked to its place on the page, with the literal translation one switch away, the glossary as a concordance, the change lists of the translation and where each change is now, and a source word looked for in the library’s OCR.',
+      inside: 'The translation and the literal translation (preliminary, October–November 2026), divided into lines and set as pages; the glossary; the change lists of the terminology pass and the read-through; the agents’ briefs and editor’s notes; Kuki’s 22 figures; the place of each sentence of the translation on its page, estimated from macOS Vision’s reading of the page images; a Tesseract OCR of the 1948 printing, for search.',
       sources: 'Kuki Shūzō, 偶然性の問題, Iwanami Shoten, 1935; fourth printing 1948, National Diet Library Digital Collections pid 1037966 (public domain). The translation: CC BY 4.0. The text held is a copy of the translation’s working repository at the commit named in translation/SOURCE.json.',
       code: 'https://github.com/vector-humanities/kuki-bench',
       catalogue: { skip: [], held: 'held' }

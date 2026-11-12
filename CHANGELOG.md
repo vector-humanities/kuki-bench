@@ -2,6 +2,11 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.33 (2026-11-12)
+
+- bench-kit 1.9.2: highlight links. In Book, a sentence of the translation lights its place on the page image of the 1948 printing, and a place on the page lights its sentence; the places are estimated, from each sentence's share of its page's English, and drawn with a dashed edge (regions/, made by tools/regions.js from macOS Vision's reading of the pages, tools/page-ocr.swift). Highlight links are in indigo; Settings ▸ Book ▸ Highlight links sets a colour of your own or turns them off. Settings ▸ Book saves again on a trimmed page
+- README, the tour and About describe highlight links and how they are made. The README's Glossary example is the ⚠ shown now (determination: 規定 and 決定), and the OCR used by Search is named as Tesseract's, made in the working repository, not the library's.
+
 ## 0.2.32 (2026-11-12)
 
 - The translation refreshed to its working repository at 8d6307b: the glossary's 決定 row puts its causal sense in brackets, so determination is counted, with 規定
