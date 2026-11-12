@@ -64,7 +64,7 @@
       regions: 'regions/{page}.json',                      // highlight links: where each sentence of the translation lies on its page (tools/regions.js), estimated
       linkColor: '#165E83',                                // 藍 indigo, one of the colours of iki
       // the citation in Share highlight's picture and caption (highlight links are on the translation only)
-      shareCite: 'Kuki Shūzō, *The Problem of Contingency* (1935), trans. David M. Berry (2026), p. {page} of the 1948 printing.',
+      shareCite: 'Kuki Shūzō, *The Problem of Contingency* (1948 [1935]), p. {page}, trans. David M. Berry (2026).',   // the page is the 1948 printing's
       trim: function (pb) { var t = root.SWPageTrim; return t ? t[+pb.facs] || null : null; },
       imageCreditShort: '国立国会図書館 National Diet Library, JAPAN',
       imageCredit: '九鬼周造『偶然性の問題』岩波書店, 1948 printing. 国立国会図書館 National Diet Library, JAPAN, Digital Collections <a href="https://dl.ndl.go.jp/pid/1037966" target="_blank" rel="noopener">pid 1037966 ↗</a> (public domain). The bench holds its own copies of the 174 images; img/provenance.csv gives each one’s source.'

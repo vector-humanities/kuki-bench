@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.36 (2026-11-12)
+
+- Share highlight's citation in author-date form, with the page beside the edition it belongs to: Kuki Shūzō, The Problem of Contingency (1948 [1935]), p. N, trans. David M. Berry (2026)
+
 ## 0.2.35 (2026-11-12)
 
 - bench-kit 1.9.4: Share highlight's picture and caption cite the passage as Kuki Shūzō, The Problem of Contingency (1935), trans. David M. Berry (2026), p. N of the 1948 printing, in place of the bench's reference by file and line
