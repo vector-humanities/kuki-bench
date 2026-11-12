@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.32 (2026-11-12)
+
+- The translation refreshed to its working repository at 8d6307b: the glossary's 決定 row puts its causal sense in brackets, so determination is counted, with 規定
+
 ## 0.2.31 (2026-11-12)
 
 - bench-kit 1.9.1: the Glossary splits an English cell at commas as well as semicolons, so 基礎 is counted as basis and as foundation

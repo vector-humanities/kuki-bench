@@ -1884,7 +1884,7 @@ Wundt, Wilhelm, *Logik* (I, 4. Aufl.) : 245
 | 契機 | keiki | moment |
 | 瞬間 / 刹那 | shunkan / setsuna | instant |
 | 規定 / 限定 | kitei / gentei | determination / delimitation |
-| 決定 | kettei | decision; determination in the causal sense (決定論 determinism) |
+| 決定 | kettei | decision; determination (in the causal sense; 決定論 determinism) |
 | 全體 / 部分 | zentai / bubun | whole / part |
 | 離接肢 | risetsushi | disjunct |
 | 全稱判斷 | zenshō handan | universal judgement (Lotze's *universale Urteil*) |
