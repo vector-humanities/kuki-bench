@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.39 (2026-11-12)
+
+- bench-kit 1.9.7 (a change to Book's stage slider, which this bench does not use)
+
 ## 0.2.38 (2026-11-12)
 
 - bench-kit 1.9.6: a highlight link's fill runs a little past its place above and below, on the page image and in Share highlight's picture
