@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.31 (2026-11-12)
+
+- bench-kit 1.9.1: the Glossary splits an English cell at commas as well as semicolons, so 基礎 is counted as basis and as foundation
+
 ## 0.2.30 (2026-11-10)
 
 - The translation refreshed to its working repository at d698a0e: free-standing 必然, 可能, 不可能 now the necessary, the possible, the impossible in both versions (73 changes, mostly pp. 197–219; necessity, possibility, impossibility kept for the -性 forms); free-standing 偶然 on pp. 198, 200 and 209 the contingent; Figure 17's caption, Appendix A §2, the glossary and the Translator's Note to match
