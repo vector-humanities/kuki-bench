@@ -1,6 +1,6 @@
 # Kuki Research Bench
 
-**Version:** 0.2.33 (bench-kit 1.9.2)  
+**Version:** 0.2.34 (bench-kit 1.9.3)  
 **Live:** https://vector-humanities.github.io/kuki-bench/
 
 A research bench for reading the vector translation of Kuki Shūzō's 偶然性の問題 (*The Problem of Contingency*, Iwanami Shoten, 1935) beside its source. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), from its translation template, and reads a translation made by the [vector translation method](https://github.com/vector-humanities/vector-translation).
@@ -43,7 +43,7 @@ node tools/regions.js ocr                                # read the 331 pages in
 node tools/regions.js                                    # write regions/N.json
 ```
 
-Run `node tools/regions.js` again after each refresh of the translation: the reading of the pages does not change, and the places follow the text. `tools/page-iiif.js` writes the same reading as IIIF annotations on the library's own canvases (one AnnotationPage to a page, each column an annotation with its text and its place). The translation's working repository keeps the raw reading.
+Run `node tools/regions.js` again after each refresh of the translation: the reading of the pages does not change, and the places follow the text. `tools/page-iiif.js` writes the same reading as IIIF annotations on the library's own canvases (one AnnotationPage to a page, each column an annotation with its text and its place). The translation's working repository keeps the reading in both forms, Vision's own JSON and the IIIF annotations.
 
 ## Running it locally
 

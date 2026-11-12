@@ -118,7 +118,11 @@ function build(list) {
   const report = [];
   list.forEach((p) => {
     const J = japanese(p), span = E.pageAt[p];
-    if (!J || !span || !J.chars.length) { report.push(p + ': ' + (!J ? 'no OCR' : !span ? 'no [p. ' + p + ']' : 'no text read')); return; }
+    if (!J || !span || !J.chars.length) {
+      // a blank page (p. 12) still has its file, with no places, so that Book does not ask for it in vain
+      if (J) fs.writeFileSync(path.join(OUT, p + '.json'), JSON.stringify({ size: J.size, regions: [] }) + '\n');
+      report.push(p + ': ' + (!J ? 'no OCR' : !span ? 'no [p. ' + p + ']' : 'no text read')); return;
+    }
     const [e0, e1] = span;
     // the page cut at its headings, where both sides have the same number; else the page whole
     const eh = E.heads.filter((h) => h > e0 && h < e1), jh = J.heads.filter((h) => h > 0 && h < J.chars.length);

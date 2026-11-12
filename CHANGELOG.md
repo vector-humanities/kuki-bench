@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.34 (2026-11-12)
+
+- bench-kit 1.9.3: Edit sets the file's text in a box of its own, greyed while locked and white with an indigo edge once unlocked, so that it is not taken for Pages. Share page (the link to Book, as Share was) and Share highlight, shown while a highlight link is held: a picture of the page with the place drawn and the passage beside it, with Copy link, Email…, Download PNG and Copy PNG. The README says the working repository keeps the page reading as IIIF annotations too
+
 ## 0.2.33 (2026-11-12)
 
 - bench-kit 1.9.2: highlight links. In Book, a sentence of the translation lights its place on the page image of the 1948 printing, and a place on the page lights its sentence; the places are estimated, from each sentence's share of its page's English, and drawn with a dashed edge (regions/, made by tools/regions.js from macOS Vision's reading of the pages, tools/page-ocr.swift). Highlight links are in indigo; Settings ▸ Book ▸ Highlight links sets a colour of your own or turns them off. Settings ▸ Book saves again on a trimmed page
