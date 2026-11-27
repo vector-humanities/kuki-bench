@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.56 (2026-11-27)
+
+- The translation refreshed to its working repository at 5e3a176: ground no longer renders 地平 (p. 133, philosophical horizon), 所以 (p. 181, the reason) or 地盤 (p. 203, common footing); free-standing 偶然 in Chapter 3 §14 and the Conclusion now contingency or the contingent (13 places), so the Glossary marks contingency ⚠ for 偶然 and 偶然性; the literal's p. 284 corrected. Highlight links rebuilt for the eleven pages whose sentences changed
+
 ## 0.2.55 (2026-11-27)
 
 - README, the tour and About describe the translator's notes in Book: beside the text, numbered by chapter, a long note opened with more, a pop-up where there is no room, and the Notes eye to put them away
