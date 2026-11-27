@@ -1,6 +1,6 @@
 {
  "note": "The translation as of this commit of its working repository, which is the master. Corrections go there, as change lists, not into these copies.",
- "commit": "2ba51ba",
+ "commit": "ea5739c",
  "date": "2026-11-27",
  "copied": "2026-11-27",
  "files": [
@@ -25,5 +25,6 @@
   "working/readthrough/fixes-3b.md",
   "working/readthrough/fixes-3c.md",
   "working/readthrough/fixes-poems.md"
- ]
+ ],
+ "bookEdition": "Preliminary edition, version 1.1 (27 November 2026)"
 }

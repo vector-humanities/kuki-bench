@@ -105,3 +105,20 @@ if (PDFINFO && fs.existsSync(PDFINFO) && files.some((f) => /\.pdf$/i.test(f))) {
     while ((k = re.exec(t))) if (+k[1] !== pages) say.push(f + ' says ' + k[1] + ' pages'); });
   console.log(say.length ? 'the book has ' + pages + ' pages; ' + say.join('; ') + ': correct them' : 'the book: ' + pages + ' pages, as About and the README say');
 }
+
+// the book's edition, from the [imprint] of the working repository's book.toml at this commit, against what About and the README say
+let edition = null;
+try {
+  const toml = git('show', commit + ':book.toml'), m = /\[imprint\][^[]*?\nedition\s*=\s*"([^"]+)"/.exec(toml);
+  edition = m ? m[1] : null;
+} catch (e) { /* no book.toml at this commit */ }
+if (edition) {
+  const hit = scan('book.toml (edition)', edition);
+  if (hit.length) { console.error('the edition line names something private: ' + hit.join('; ')); process.exit(1); }
+  const meta = JSON.parse(fs.readFileSync(path.join(OUT, 'SOURCE.json'), 'utf8'));
+  meta.bookEdition = edition; fs.writeFileSync(path.join(OUT, 'SOURCE.json'), JSON.stringify(meta, null, 1) + '\n');
+  const off = [];
+  ['README.md', 'js/config.js'].forEach((f) => { const t = fs.readFileSync(path.join(__dirname, '..', f), 'utf8'), re = /Preliminary edition, version [^)]*\)|[A-Z][a-z]+ edition, version [^)]*\)/g; let k;
+    while ((k = re.exec(t))) if (k[0] !== edition) off.push(f + ' says "' + k[0] + '"'); });
+  console.log(off.length ? 'the book is "' + edition + '"; ' + off.join('; ') + ': correct them' : 'the book: ' + edition + ', as About and the README say');
+}
