@@ -1,0 +1,32 @@
+{
+ "id": "chronology",
+ "label": "Chronology",
+ "intro": "九鬼周造年譜, a chronology of Kuki’s life and publications from 1888 to 1976, in three pages reprinted by Konan University, which holds Kuki’s library. It gives the doctorate of 1932 as awarded for 「偶然性」, a mimeographed paper of 66 pages, and records that the gravestone at Hōnen-in carries Goethe’s poem in Nishida Kitarō’s translation and hand. Reduced copies; the scan in full is in Konan University’s repository.",
+ "credit": "「九鬼周造年譜」, 甲南大学 Konan University, from the chronology in 『をりにふれて』, by courtesy of 澤瀉久敬 Omodaka Hisayuki.",
+ "items": [
+  {
+   "key": "nenpu-1",
+   "n": 1,
+   "what": "1888–1935: birth to the chair at Kyoto",
+   "thumb": "img/chronology/thumbs/nenpu-1.webp",
+   "file": "img/chronology/nenpu-1.webp",
+   "record": "https://konan-u.repo.nii.ac.jp/records/3025"
+  },
+  {
+   "key": "nenpu-2",
+   "n": 2,
+   "what": "1935–1941: The Problem of Contingency to his death and burial at Hōnen-in",
+   "thumb": "img/chronology/thumbs/nenpu-2.webp",
+   "file": "img/chronology/nenpu-2.webp",
+   "record": "https://konan-u.repo.nii.ac.jp/records/3025"
+  },
+  {
+   "key": "nenpu-3",
+   "n": 3,
+   "what": "1942–1976: posthumous books; notes on the doctorate and the gravestone",
+   "thumb": "img/chronology/thumbs/nenpu-3.webp",
+   "file": "img/chronology/nenpu-3.webp",
+   "record": "https://konan-u.repo.nii.ac.jp/records/3025"
+  }
+ ]
+}

@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.46 (2026-11-27)
+
+- The typeset book: translation/book/Kuki_Problem-of-Contingency.pdf (248 pp.), copied with the text by tools/refresh.js, which scans a PDF through its text; linked from About and the README. Images: Konan University's chronology of Kuki (九鬼周造年譜, three pages, reduced copies, the scan linked at Konan's repository; tools/konan-chronology.js). The translation at 0dc7591 (book only)
+
 ## 0.2.45 (2026-11-27)
 
 - The translation refreshed to its working repository at 8ff21dd: a note on the Chronology's sources (the chronology in the supplementary volume of the Collected Works, 1982); Kuki's text unchanged, so the highlight links are too

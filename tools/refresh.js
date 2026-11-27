@@ -27,7 +27,8 @@ const FIXED = [
   'Kuki_Problem-of-Contingency_translation.md',
   'source/guzensei-ocr-raw.txt',
   'working/ch2-parts/BRIEF.md', 'working/ch3-parts/BRIEF.md', 'working/readthrough/BRIEF.md', 'working/terms-pass/BRIEF.md',
-  'working/ch2-parts/ch2-editor-notes.md', 'working/ch3-parts/ch3-editor-notes.md'
+  'working/ch2-parts/ch2-editor-notes.md', 'working/ch3-parts/ch3-editor-notes.md',
+  'book/Kuki_Problem-of-Contingency.pdf'   // the typeset book, linked from About and the README
 ];
 const LISTS = [['working/terms-pass', /^changes-.*\.md$/], ['working/readthrough', /^fixes-.*\.md$/]];
 const NEVER = [/^references\//, /\.bak\.md$/, /french-check/, /preface-facts/, /^corpus\/texts\//];
@@ -52,9 +53,11 @@ if (!fs.existsSync(DENY)) { console.error('no deny list at ' + DENY + ': the sca
 fs.readFileSync(DENY, 'utf8').split('\n').filter((l) => l.trim() && !/^#/.test(l)).forEach((l) => {
   const [re, what] = l.split('\t'); SCAN.push([new RegExp(re), what || 'a private name']);
 });
+// what a file may name by the translator's decision: the series in the typeset book's imprint (approved 27 November 2026)
+const ALLOW = { 'book/Kuki_Problem-of-Contingency.pdf': ['the series'] };
 function scan(rel, text) {
-  const hits = [];
-  text.split('\n').forEach((s, i) => SCAN.forEach(([re, what]) => { if (re.test(s)) hits.push(rel + ':' + (i + 1) + ': ' + what + ': ' + s.trim().slice(0, 100)); }));
+  const hits = [], ok = ALLOW[rel] || [];
+  text.split('\n').forEach((s, i) => SCAN.forEach(([re, what]) => { if (ok.indexOf(what) < 0 && re.test(s)) hits.push(rel + ':' + (i + 1) + ': ' + what + ': ' + s.trim().slice(0, 100)); }));
   return hits;
 }
 
@@ -62,7 +65,7 @@ if (CHECK) {
   const meta = JSON.parse(fs.readFileSync(path.join(OUT, 'SOURCE.json'), 'utf8'));
   let bad = 0;
   meta.files.forEach((f) => {
-    const there = execFileSync('git', ['-C', src, 'show', meta.commit + ':' + f]), here = fs.readFileSync(path.join(OUT, f));
+    const there = execFileSync('git', ['-C', src, 'show', meta.commit + ':' + f], { maxBuffer: 64 << 20 }), here = fs.readFileSync(path.join(OUT, f));
     if (!there.equals(here)) { bad++; console.log('differs: ' + f); }
   });
   console.log(bad ? bad + ' of ' + meta.files.length + ' files differ from ' + meta.commit : 'all ' + meta.files.length + ' files match ' + meta.commit);
@@ -75,7 +78,14 @@ if (dirty) { console.error('uncommitted changes in the working repository; commi
 const commit = git('rev-parse', '--short', 'HEAD').trim(), date = git('log', '-1', '--format=%cs').trim();
 
 let hits = [];
-files.forEach((f) => { hits = hits.concat(scan(f, fs.readFileSync(path.join(src, f), 'utf8'))); });
+// a PDF is scanned through the text pdftotext takes from it (its streams are compressed, so its bytes would hide a name)
+const PDFTEXT = ['/opt/homebrew/bin/pdftotext', '/usr/local/bin/pdftotext', '/usr/bin/pdftotext'].find((t) => fs.existsSync(t));
+function readable(f) {
+  if (!/\.pdf$/i.test(f)) return fs.readFileSync(path.join(src, f), 'utf8');
+  if (!PDFTEXT) { console.error('cannot scan ' + f + ': pdftotext (poppler) is needed'); process.exit(1); }
+  return execFileSync(PDFTEXT, ['-q', '-enc', 'UTF-8', path.join(src, f), '-'], { maxBuffer: 64 << 20 }).toString('utf8');
+}
+files.forEach((f) => { hits = hits.concat(scan(f, readable(f))); });
 if (hits.length) { console.error('not copied: the scan found\n' + hits.join('\n')); process.exit(1); }
 
 fs.rmSync(OUT, { recursive: true, force: true });
