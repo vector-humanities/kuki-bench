@@ -1,6 +1,6 @@
 # Kuki Research Bench
 
-**Version:** 0.2.66 (bench-kit 1.9.14)  
+**Version:** 0.2.67 (bench-kit 1.9.14)  
 **Live:** https://vector-humanities.github.io/kuki-bench/
 
 A research bench for reading the vector translation of Kuki Shūzō's 偶然性の問題 (*The Problem of Contingency*, Iwanami Shoten, 1935) beside its source. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), from its translation template, and reads a translation made by the [vector translation method](https://github.com/vector-humanities/vector-translation).
@@ -58,6 +58,10 @@ Run `node tools/regions.js` again after each refresh of the translation: the rea
 A character outside the fonts most systems carry shows on the web as an empty box. The translation has one, 𩨒 (U+29A12, a form of 肌 written with 骨), in the translator's note on Kuki's quotation from the *Liezi* (note 6 of Chapter 1, called on p. 31); the typeset book sets it in Hanazono Mincho. The bench holds that one character from Hanazono Mincho B as a font of 852 bytes, `fonts/hanamin-b-u29a12.woff2`, made from GlyphWiki's font, whose glyphs are free to use and redistribute. `css/bench.css` names it first in the bench's serif, sans and monospace fonts with `unicode-range: U+29A12`, so it is used for that character alone and fetched only where it is shown; the text itself is unchanged, so copying, search, annotations and highlight links read the character as it is.
 
 To add another such character: take it from a font that has it, with fontTools (`pyftsubset <font> --unicodes=U+XXXXX --flavor=woff2 --output-file=fonts/<name>.woff2`), and add a `@font-face` with its `unicode-range` in `css/bench.css`.
+
+## Link previews
+
+A link to the bench shared on LinkedIn, Bluesky, Mastodon, Slack and the like shows a card: the title "Kuki Research Bench: The Problem of Contingency", a line on what the bench holds, and `img/og.jpg`, a picture 1200 × 627 of Pages on p. 81 with a sentence of the translation and its columns on the page lit. The card comes from the Open Graph and Twitter tags in `index.html`, which the services read without running the page; the Library page's card uses the same picture. A service keeps the card it first made for an address for some days: LinkedIn's Post Inspector reads the address again, and an address it has not seen (such as `?v=translation&tab=book`) gets a fresh card.
 
 ## Running it locally
 
