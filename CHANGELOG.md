@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.43 (2026-11-27)
+
+- The translation refreshed to its working repository at 5f2b01c: a Chronology of Kuki Shūzō before the Author's Preface; glossary rows for 理由性 (groundedness) and 眞の存在 (true existence), and 根據 noting 根據づける, to ground; a sentence on 理由性 in Appendix A §5. Kuki's text is unchanged, so the highlight links are too
+
 ## 0.2.42 (2026-11-19)
 
 - README: a looping picture of highlight links in use on p. 81 (img/readme/highlight-links.gif)

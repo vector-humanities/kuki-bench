@@ -77,6 +77,40 @@ Conventions:
 
 <!-- /working -->
 
+## Chronology of Kuki Shūzō
+
+Dates follow the chronology in Hiroshi Nara, *The Structure of Detachment* (2004), which is based on the *Kuki Shūzō zenshū*, with Leslie Pincus, *Authenticating Culture in Imperial Japan* (1996), and John C. Maraldo (2008). Where the sources disagree, both are given. English titles are those of published translations where they exist; otherwise the English given in brackets is Pincus's or Nara's.
+
+| Year | |
+|---|---|
+| 1888 | 15 February: born in Tokyo, fourth son of Kuki Ryūichi, then Japan's representative in Washington, and his wife Hatsu. Okakura Tenshin (Kakuzō), a family friend, is a figure of his childhood. |
+| 1905 | Enters the First Higher School, Tokyo, to study German law; turns to philosophy. |
+| 1909 | Enters Tokyo Imperial University; studies philosophy under Raphael von Koeber. |
+| 1911 | Baptised a Catholic. |
+| 1912 | Graduates in philosophy, with a thesis on mind and matter; enters graduate school. |
+| 1918 | Marries Nuiko, widow of his elder brother Ichizō (d. 1917). |
+| 1921 | Sails for Europe with Nuiko, reaching France in November. |
+| 1922-1923 | Heidelberg: studies with Heinrich Rickert, reading Kant's first *Critique* with him, and with Eugen Herrigel as tutor. |
+| 1924 | Autumn: moves to Paris; enters the Faculty of Letters of the University of Paris in 1925. |
+| 1926 | December: completes in Paris the draft "Iki no honshitsu" (The Essence of Iki), the first version of *The Structure of Iki*. |
+| 1927 | Freiburg: studies phenomenology with Edmund Husserl and Oskar Becker; meets Martin Heidegger at Husserl's home. November: at Marburg, attends Heidegger's lectures on Kant and his seminar on Schelling. |
+| 1928 | Attends Heidegger's lectures on Leibniz's logic and his seminar on Aristotle's *Physics*. Returns to Paris and engages Jean-Paul Sartre as tutor in French (Nara dates this to 1926). August: gives two lectures at Pontigny, published as *Propos sur le temps* (in English as "Considerations on Time", in Stephen Light, 1987). Visits Henri Bergson. December: leaves for Japan by way of the United States, meeting Paul Claudel in Washington. |
+| 1929 | January: returns to Japan. April: begins teaching philosophy at Kyoto Imperial University, on the recommendation of Nishida Kitarō. Lectures on contingency at Ōtani University. |
+| 1930 | *Iki no kōzō* (*The Structure of Iki*, translated by John Clark, 1997, and by Hiroshi Nara, 2004), in *Shisō* in January and February, and as a book from Iwanami in November. Lectures on contingency at Kyoto. |
+| 1931 | Deaths of his father in August and his mother in November. |
+| 1932 | November: Kyoto Imperial University accepts his doctoral dissertation on contingency, with Tanabe Hajime as a reader. |
+| 1933 | Associate professor. An essay on Heidegger's philosophy of existence for an Iwanami series. |
+| 1935 | March: professor. December: *Gūzensei no mondai* (*The Problem of Contingency*), Iwanami Shoten. |
+| 1936 | Helps Karl Löwith, a refugee from Nazi Germany, to a post at Tōhoku Imperial University (Pincus dates Kuki's first help to 1933). |
+| 1937 | "Nihonteki seikaku" (Japanese Character), in *Shisō*; "Jikyoku no kansō" (Thoughts on the Current State of Affairs), in *Bungei shunjū*. |
+| 1939 | August: travels in Manchuria and China. September: *Ningen to jitsuzon* (Man and Existence), Iwanami. |
+| 1940 | Moves to Yamashina, outside Kyoto. |
+| 1941 | *Bungeiron* (A Discussion of the Literary Arts). 6 May: dies of peritonitis in Kyoto, aged 53. He is buried beside Hōnen-in, Kyoto (Maraldo 2008, 37); the epitaph on his grave was written by Nishida Kitarō. |
+| 1948 | Fourth printing of *Gūzensei no mondai*, the text translated here. |
+| 1957 | His Kyoto lectures on contemporary French philosophy are published. |
+| 1966 | French translation of *Gūzensei no mondai* by Omodaka Hisayuki, *Le problème de la contingence*. |
+| 1980-1982 | *Kuki Shūzō zenshū* (Collected Works), Iwanami Shoten. |
+
 ## Author's Preface (序) [コマ 3]
 
 I first set out my views on the subject of contingency at the autumn public lectures of Ōtani University in 1929,[^ap-1] and I took the same subject for my lectures at Kyoto Imperial University in the academic year 1930. My interest in the problem is therefore of some standing, but circumstances did not allow me to concentrate my thinking on this single point. It is, however, a problem that touches the core of *Existenz*, and it will give me no rest until at some point it has taken some ultimate form. For the time being I intend to make it public in roughly this form.
@@ -1537,7 +1571,7 @@ Kuki also proposes a sign for contingency, )(, two arcs touching at their midpoi
 
 ### 5. Ground, cause and purpose
 
-理由 is "ground", following the German *Grund*, and 根據, which Kuki also uses for *Grund*, is "Ground" (see the Translator's Note). 理由律 is "law of ground" and 充足理由律 "law of sufficient reason", to match "law of identity" (同一律) and "law of contradiction" (矛盾律); the translators first divided between "law" and "principle", and "law" was chosen throughout. 理由的偶然 is "contingency of ground", and 認識理由 and 實在理由 are "ground of knowledge" and "ground of reality". 基礎 is "basis" or "foundation", and the verbs 基礎づける and 基く are "to found" and "to rest on" or "to be based on", so that the verb "to ground" is not used for them.
+理由 is "ground", following the German *Grund*, and 根據, which Kuki also uses for *Grund*, is "Ground" (see the Translator's Note). 理由性 is "groundedness", the second of the three places where Kuki finds identity and so necessity (p. 7). The verb 根據づける, which occurs once, is "ground" in lower case with the Japanese given. 理由律 is "law of ground" and 充足理由律 "law of sufficient reason", to match "law of identity" (同一律) and "law of contradiction" (矛盾律); the translators first divided between "law" and "principle", and "law" was chosen throughout. 理由的偶然 is "contingency of ground", and 認識理由 and 實在理由 are "ground of knowledge" and "ground of reality". 基礎 is "basis" or "foundation", and the verbs 基礎づける and 基く are "to found" and "to rest on" or "to be based on", so that the verb "to ground" is not used for them.
 
 In Chapter 2, 因果的 is "causal" and 目的的 "teleological", with 因果性 "causality" and 目的性 "purposiveness". 目的 is "purpose", or "end" where the sense is telos. 無目的 is "purposelessness" and 反目的 "counter-purpose". 目的なき目的, Kuki's version of a Kantian formula, is "purpose without purpose". 故意 is "intention" and 意圖 "design", kept apart because Kuki distinguishes them in discussing Aristotle's *automaton* and *tychē*. 消極的 and 積極的 are "negative" and "positive".
 
@@ -2222,10 +2256,12 @@ Wundt, Wilhelm, *Logik* (I, 4. Aufl.) : 245
 | 存在 / 非存在 | sonzai / hisonzai | existence / non-existence (存在論 ontology) |
 | 有 / 無 | u / mu | being / nothingness |
 | 極限的存在 | kyokugenteki sonzai | limit-existence |
+| 眞の存在 | shin no sonzai | true existence (Plato's ὄντως ὄν) |
 | 接觸面 | sesshokumen | surface of contact |
-| 根據 | konkyo | Ground |
+| 根據 | konkyo | Ground (根據づける: to ground, with the Japanese given) |
 | 基礎 | kiso | basis, foundation (基礎づける to found; 基く to rest on) |
 | 理由 / 歸結 | riyū / kiketsu | ground / consequent |
+| 理由性 | riyūsei | groundedness |
 | 概念 / 徵表 | gainen / chōhyō | concept / mark (*Merkmal*) |
 | 契機 | keiki | moment |
 | 瞬間 / 刹那 | shunkan / setsuna | instant |
