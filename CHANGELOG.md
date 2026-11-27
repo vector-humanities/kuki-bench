@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.57 (2026-11-27)
+
+- The translation refreshed to its working repository at 2ba51ba: a translator's note on p. 203 on Kuki's rendering of Kant's categories of modality. tools/edit-crosscheck.js no longer doubles the text when it removes a paragraph near the end
+
 ## 0.2.56 (2026-11-27)
 
 - The translation refreshed to its working repository at 5e3a176: ground no longer renders 地平 (p. 133, philosophical horizon), 所以 (p. 181, the reason) or 地盤 (p. 203, common footing); free-standing 偶然 in Chapter 3 §14 and the Conclusion now contingency or the contingent (13 places), so the Glossary marks contingency ⚠ for 偶然 and 偶然性; the literal's p. 284 corrected. Highlight links rebuilt for the eleven pages whose sentences changed

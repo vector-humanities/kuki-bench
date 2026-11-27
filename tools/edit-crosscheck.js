@@ -22,7 +22,7 @@ function mutate(s) {
     case 3: { const c = s.indexOf(' contingency ', at); return c < 0 ? s : s.slice(0, c) + ' contingent thing ' + s.slice(c + 13); }
     case 4: return s.slice(0, a) + '\n\n' + s.slice(a);                                  // a paragraph split
     case 5: { const c = s.indexOf('\n\n', at); return c < 0 ? s : s.slice(0, c) + ' ' + s.slice(c + 2); }   // two joined
-    case 6: { const c = s.indexOf('\n\n', at), d = s.indexOf('\n\n', c + 2); return d < 0 ? s : s.slice(0, c) + s.slice(d); }   // a paragraph gone
+    case 6: { const c = s.indexOf('\n\n', at); if (c < 0) return s; const d = s.indexOf('\n\n', c + 2); return d < 0 ? s : s.slice(0, c) + s.slice(d); }   // a paragraph gone
     case 7: return s + 'A line at the end.\n';
     case 8: return 'A line at the top.\n' + s;
     case 9: return s.slice(0, a) + m[0] + m[0] + s.slice(b);                              // a word doubled: OLD inside NEW
