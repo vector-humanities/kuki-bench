@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.59 (2026-11-27)
+
+- README and the tour describe the notes as they are now set: in the text's typeface, a size smaller, with their own eye after Images
+
 ## 0.2.58 (2026-11-27)
 
 - bench-kit 1.9.12: the translator's notes in Book set in the text's own face, numbers and all, a step smaller; a rule between Images and Notes in the toolbar; Edit and Changes read a change that takes out a whole paragraph as applied once it is made

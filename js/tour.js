@@ -9,7 +9,7 @@
   B.tours = {
     welcome: { title: 'Welcome to the bench', stops: [
       { title: 'The pages', v: 'translation', tab: 'book', focus: '#tabs [data-tab="book"]',
-        text: 'Each page of the source beside the translation, with the translator’s notes in the margin beside it (the Notes eye puts them away); Compare sets the literal translation beside them, the texts held at the same page as either is scrolled. Point at a sentence to light its place on the page, or at the page to light its sentence: the places are estimated, to help find them. A click holds a sentence, and Share highlight sends the page with it marked, as a picture or a link.' },
+        text: 'Each page of the source beside the translation, with the translator’s notes in the margin beside it, in the text’s typeface a size smaller (the eye after Notes puts them away); Compare sets the literal translation beside them, the texts held at the same page as either is scrolled. Point at a sentence to light its place on the page, or at the page to light its sentence: the places are estimated, to help find them. A click holds a sentence, and Share highlight sends the page with it marked, as a picture or a link.' },
       { title: 'Editing', v: 'translation', tab: 'edit', focus: '#tabs [data-tab="edit"]',
         text: 'The text as the file has it, in a box beside the page’s image, locked until the padlock opens it. A save writes a change list, which vt_apply applies to the master.' },
       { title: 'The glossary', v: 'translation', tab: 'glossary', focus: '#tabs [data-tab="glossary"]',
