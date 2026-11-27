@@ -47,9 +47,11 @@
     // Book: the pages, the source's image to the left of the translation; the literal one switch away (Compare)
     doc: {
       versions: ['translation', 'literal'],
+      chips: ['translation'],                              // the literal only in Compare, unless it is the text open
       beside: [],
       besideMax: 2,
       imageSide: 'left',
+      noteRestart: 2,                                      // the translator's notes numbered from 1 in each chapter, as in the typeset book
       imagesFirst: true,                                   // the page's image once, beside the first text
       words: { page: 'page' },
       // a page's image from the bench's own copies (tools/page-images.js, tools/ndl-copies.js): the library's

@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.54 (2026-11-27)
+
+- bench-kit 1.9.11: the translator's notes in Book, each call a raised number and each note beside the text, level with its call (in a pop-up where there is no room), numbered from 1 in each chapter as in the typeset book; Notes with an eye in the toolbar puts them away. The literal translation is no longer a button beside the translation: Compare sets it beside, and a reader on the literal has both buttons to go back
+
 ## 0.2.53 (2026-11-27)
 
 - bench-kit 1.9.10: Cite this version in Harvard form, on each version's page: Kuki, S. (2026 [1935]) The Problem of Contingency. Translated by D. M. Berry. Brighton: Vector Humanities Press. Available at: (its address) (Accessed: the day); the literal translation likewise; the source as Kuki, S. (1948 [1935]) 偶然性の問題 [The Problem of Contingency]. 4th printing. Tokyo: Iwanami Shoten
