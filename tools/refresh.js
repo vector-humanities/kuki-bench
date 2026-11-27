@@ -95,3 +95,13 @@ fs.writeFileSync(path.join(OUT, 'SOURCE.json'), JSON.stringify({
   commit, date, copied: new Date().toISOString().slice(0, 10), files
 }, null, 1) + '\n');
 console.log('copied ' + files.length + ' files at ' + commit + ' (' + date + '); scan clean');
+
+// the book's length as About and the README give it ("a PDF of N pages"), against the copy's own
+const PDFINFO = PDFTEXT && PDFTEXT.replace(/pdftotext$/, 'pdfinfo');
+if (PDFINFO && fs.existsSync(PDFINFO) && files.some((f) => /\.pdf$/i.test(f))) {
+  const book = files.find((f) => /\.pdf$/i.test(f)), m = /Pages:\s+(\d+)/.exec(execFileSync(PDFINFO, [path.join(OUT, book)]).toString());
+  const pages = m ? +m[1] : null, say = [];
+  ['README.md', 'js/config.js'].forEach((f) => { const t = fs.readFileSync(path.join(__dirname, '..', f), 'utf8'), re = /a PDF of (\d+) pages/g; let k;
+    while ((k = re.exec(t))) if (+k[1] !== pages) say.push(f + ' says ' + k[1] + ' pages'); });
+  console.log(say.length ? 'the book has ' + pages + ' pages; ' + say.join('; ') + ': correct them' : 'the book: ' + pages + ' pages, as About and the README say');
+}

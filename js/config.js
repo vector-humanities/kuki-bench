@@ -127,6 +127,8 @@
       form: 'Form: [REF: TR, <file>:<lines>], e.g. [REF: TR, Kuki_Problem-of-Contingency_translation.md:93].',
       versions: { title: 'The texts', all: true }
     },
+    // the typeset book at the foot of Versions ▾ (copied by tools/refresh.js with the text)
+    menus: { links: { versions: [{ label: 'Download as book (PDF)', text: 'The translation as typeset', href: 'translation/book/Kuki_Problem-of-Contingency.pdf' }] } },
     sitemap: true
   };
 })(typeof window !== 'undefined' ? window : globalThis);
