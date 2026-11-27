@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.64 (2026-11-27)
+
+- bench-kit 1.9.14: Edit writes a page marker moved a few words on as one change, and reads a saved pair of such changes as applied
+
 ## 0.2.63 (2026-11-27)
 
 - README: Rare characters, on the one-character font for 𩨒 and how to add another
