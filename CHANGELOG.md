@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.66 (2026-11-27)
+
+- Link previews: Open Graph and Twitter card tags, a description of the bench, and a 1200 by 627 picture of Pages on p. 81 with a highlight link held (img/og.jpg), so a shared link shows a card with an image
+
 ## 0.2.65 (2026-11-27)
 
 - README and the tour describe Edit's change lists as they are now: a moved page marker is one change, a paragraph taken out shows as applied; and the crosscheck that tests Edit against vt_apply
