@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.55 (2026-11-27)
+
+- README, the tour and About describe the translator's notes in Book: beside the text, numbered by chapter, a long note opened with more, a pop-up where there is no room, and the Notes eye to put them away
+
 ## 0.2.54 (2026-11-27)
 
 - bench-kit 1.9.11: the translator's notes in Book, each call a raised number and each note beside the text, level with its call (in a pop-up where there is no room), numbered from 1 in each chapter as in the typeset book; Notes with an eye in the toolbar puts them away. The literal translation is no longer a button beside the translation: Compare sets it beside, and a reader on the literal has both buttons to go back
