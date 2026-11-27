@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.45 (2026-11-27)
+
+- The translation refreshed to its working repository at 8ff21dd: a note on the Chronology's sources (the chronology in the supplementary volume of the Collected Works, 1982); Kuki's text unchanged, so the highlight links are too
+
 ## 0.2.44 (2026-11-27)
 
 - The translation refreshed to its working repository at 311c526: the Translator's Preface so named, and the Chronology corrected from Konan University's chronology of Kuki (1929 lecturer; burial at Hōnen-in, 22 June 1941; the 1945 epitaph; both parents named); Kuki's text unchanged, so the highlight links are too. Versions and About name the OCR used by Search as a Tesseract OCR made in the working repository, not the library's

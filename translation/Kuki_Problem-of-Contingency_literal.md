@@ -74,7 +74,9 @@ Conventions:
 
 ## Chronology of Kuki Shūzō
 
-Dates follow the chronology in Hiroshi Nara, *The Structure of Detachment* (2004), which is based on the *Kuki Shūzō zenshū*, with Leslie Pincus, *Authenticating Culture in Imperial Japan* (1996), John C. Maraldo (2008), and Omodaka Hisayuki's chronology of Kuki as reprinted by Konan University, which holds Kuki's library. Where the sources disagree, both are given. English titles are those of published translations where they exist; otherwise the English given in brackets is Pincus's or Nara's.
+Dates follow the chronology in Hiroshi Nara, *The Structure of Detachment* (2004), which is based on the *Kuki Shūzō zenshū*,[^chron-1] with Leslie Pincus, *Authenticating Culture in Imperial Japan* (1996), John C. Maraldo (2008), and Omodaka Hisayuki's chronology of Kuki as reprinted by Konan University, which holds Kuki's library. Where the sources disagree, both are given. English titles are those of published translations where they exist; otherwise the English given in brackets is Pincus's or Nara's.
+
+[^chron-1]: Tr. Another chronology of Kuki is in the supplementary volume of the *Kuki Shūzō zenshū* (別巻, Iwanami Shoten, 1982), pp. 289-302. The National Diet Library's scan of that volume (DOI 10.11501/12230489) is marked 国立国会図書館内限定: it can be read only on terminals inside the library, in Japan.
 
 | Year | |
 |----------------|------------------------------------------------------------------------------------|
