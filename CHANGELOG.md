@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.52 (2026-11-27)
+
+- Share highlight cites in Harvard form: Kuki, S. (1948 [1935]) The Problem of Contingency, p. N. Translated by D. M. Berry (2026). Brighton: Vector Humanities Press
+
 ## 0.2.51 (2026-11-27)
 
 - Download the book (PDF) filled in the bench's accent colour
