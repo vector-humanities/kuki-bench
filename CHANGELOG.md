@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.61 (2026-11-27)
+
+- bench-kit 1.9.13: a Page box in Book's toolbar, before Bookmarks: type a page of the 1948 printing and Return to go to it; a link can name a page (page=81)
+
 ## 0.2.60 (2026-11-27)
 
 - The translation refreshed to its working repository at ea5739c, the book's version 1.1: all 481 notes checked against the page images and sources and 45 corrected (one removed); p. 70 Λ. 7. 1072b, p. 266 see p. 183, Chijimiya Shinsuke, 必然－偶然者 the necessary-contingent. The book's edition (Preliminary edition, version 1.1) shown beside each link to the PDF and checked by tools/refresh.js against the book's own imprint. Highlight links rebuilt for the six pages whose sentences changed
