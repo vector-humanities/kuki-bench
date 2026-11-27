@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.50 (2026-11-27)
+
+- The translation's page under Versions ▸ This version gives the book as a button, Download the book (PDF)
+
 ## 0.2.49 (2026-11-27)
 
 - Versions ▸ This version: the translation's page gives the book, Download as book (PDF), beside its files
