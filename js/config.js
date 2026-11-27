@@ -129,6 +129,13 @@
     },
     // Versions ▸ This version: the kit's rows (the files, how they are read), and on the translation's page the book
     version: {
+      // Cite this version, in Harvard form (the kit sets *…* in italics)
+      cite: function (v, o) {
+        var by = ' Translated by D. M. Berry. Brighton: Vector Humanities Press. Available at: ' + o.url + ' (Accessed: ' + new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }) + ').';
+        if (v.id === 'translation') return 'Kuki, S. (2026 [1935]) *The Problem of Contingency*.' + by;
+        if (v.id === 'literal') return 'Kuki, S. (2026 [1935]) *The Problem of Contingency* (literal translation).' + by;
+        if (v.id === 'ocr') return 'Kuki, S. (1948 [1935]) *偶然性の問題* [The Problem of Contingency]. 4th printing. Tokyo: Iwanami Shoten.';
+      },
       rows: function (b) {
         var S = root.SW, rows = [
           ['Files', b.parts.map(function (p, i) {
