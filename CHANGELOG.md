@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.58 (2026-11-27)
+
+- bench-kit 1.9.12: the translator's notes in Book set in the text's own face, numbers and all, a step smaller; a rule between Images and Notes in the toolbar; Edit and Changes read a change that takes out a whole paragraph as applied once it is made
+
 ## 0.2.57 (2026-11-27)
 
 - The translation refreshed to its working repository at 2ba51ba: a translator's note on p. 203 on Kuki's rendering of Kant's categories of modality. tools/edit-crosscheck.js no longer doubles the text when it removes a paragraph near the end
