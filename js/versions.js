@@ -24,9 +24,9 @@
       fork: 'translation', status: 'recovered', medium: 'Markdown',
       summary: 'The translation, made from the literal and revised by the terminology pass and the read-through; translator’s notes as footnotes beginning “Tr.”, insertions in 〔 〕. Preliminary.',
       build: files('translation/', ['Kuki_Problem-of-Contingency_translation.md']) },
-    { id: 'ocr', label: 'The source (NDL OCR)', date: '1948', sort: 19480001, authors: 'Kuki Shūzō',
+    { id: 'ocr', label: 'The source (OCR)', date: '1948', sort: 19480001, authors: 'Kuki Shūzō',
       fork: 'source', status: 'recovered', medium: 'OCR of the page images',
-      summary: 'The 1948 printing as the National Diet Library’s OCR reads it, image by image: unreliable (偶然 is read as 借然, 邂逅 never), for search only. The page images are the source.',
+      summary: 'The 1948 printing as a Tesseract OCR of the page images reads it, image by image (made in the translation’s working repository; it reads the vertical columns as horizontal lines): unreliable (偶然 is read as 借然, 邂逅 never), for search only. The page images are the source.',
       build: files('translation/source/', ['guzensei-ocr-raw.txt']) }
   ];
 

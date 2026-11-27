@@ -1,6 +1,6 @@
 # Kuki Shūzō, *The Problem of Contingency* (偶然性の問題)
 
-## Preface
+## Translator's Preface
 
 ### The book
 
@@ -79,23 +79,23 @@ Conventions:
 
 ## Chronology of Kuki Shūzō
 
-Dates follow the chronology in Hiroshi Nara, *The Structure of Detachment* (2004), which is based on the *Kuki Shūzō zenshū*, with Leslie Pincus, *Authenticating Culture in Imperial Japan* (1996), and John C. Maraldo (2008). Where the sources disagree, both are given. English titles are those of published translations where they exist; otherwise the English given in brackets is Pincus's or Nara's.
+Dates follow the chronology in Hiroshi Nara, *The Structure of Detachment* (2004), which is based on the *Kuki Shūzō zenshū*, with Leslie Pincus, *Authenticating Culture in Imperial Japan* (1996), John C. Maraldo (2008), and Omodaka Hisayuki's chronology of Kuki as reprinted by Konan University, which holds Kuki's library. Where the sources disagree, both are given. English titles are those of published translations where they exist; otherwise the English given in brackets is Pincus's or Nara's.
 
 | Year | |
-|---|---|
-| 1888 | 15 February: born in Tokyo, fourth son of Kuki Ryūichi, then Japan's representative in Washington, and his wife Hatsu. Okakura Tenshin (Kakuzō), a family friend, is a figure of his childhood. |
+|----------------|------------------------------------------------------------------------------------|
+| 1888 | 15 February: born in Tokyo, fourth son of Kuki Ryūichi (1852-1931), an official of the Ministry of Education responsible for the preservation of traditional art and at the time Japan's representative in Washington, made a baron in 1896; and of his second wife, Hatsu, said to have been a geisha in Kyoto. Okakura Tenshin (Kakuzō), his father's colleague at the ministry and a friend of the family, is a figure of his childhood. |
 | 1905 | Enters the First Higher School, Tokyo, to study German law; turns to philosophy. |
 | 1909 | Enters Tokyo Imperial University; studies philosophy under Raphael von Koeber. |
 | 1911 | Baptised a Catholic. |
 | 1912 | Graduates in philosophy, with a thesis on mind and matter; enters graduate school. |
-| 1918 | Marries Nuiko, widow of his elder brother Ichizō (d. 1917). |
+| 1918 | Marries Kuki Nuiko, widow of his elder brother Kuki Ichizō (d. 1917). |
 | 1921 | Sails for Europe with Nuiko, reaching France in November. |
 | 1922-1923 | Heidelberg: studies with Heinrich Rickert, reading Kant's first *Critique* with him, and with Eugen Herrigel as tutor. |
 | 1924 | Autumn: moves to Paris; enters the Faculty of Letters of the University of Paris in 1925. |
 | 1926 | December: completes in Paris the draft "Iki no honshitsu" (The Essence of Iki), the first version of *The Structure of Iki*. |
 | 1927 | Freiburg: studies phenomenology with Edmund Husserl and Oskar Becker; meets Martin Heidegger at Husserl's home. November: at Marburg, attends Heidegger's lectures on Kant and his seminar on Schelling. |
 | 1928 | Attends Heidegger's lectures on Leibniz's logic and his seminar on Aristotle's *Physics*. Returns to Paris and engages Jean-Paul Sartre as tutor in French (Nara dates this to 1926). August: gives two lectures at Pontigny, published as *Propos sur le temps* (in English as "Considerations on Time", in Stephen Light, 1987). Visits Henri Bergson. December: leaves for Japan by way of the United States, meeting Paul Claudel in Washington. |
-| 1929 | January: returns to Japan. April: begins teaching philosophy at Kyoto Imperial University, on the recommendation of Nishida Kitarō. Lectures on contingency at Ōtani University. |
+| 1929 | January: returns to Japan. April: lecturer in the Faculty of Letters, Kyoto Imperial University, on the recommendation of Nishida Kitarō. Lectures on contingency at Ōtani University. |
 | 1930 | *Iki no kōzō* (*The Structure of Iki*, translated by John Clark, 1997, and by Hiroshi Nara, 2004), in *Shisō* in January and February, and as a book from Iwanami in November. Lectures on contingency at Kyoto. |
 | 1931 | Deaths of his father in August and his mother in November. |
 | 1932 | November: Kyoto Imperial University accepts his doctoral dissertation on contingency, with Tanabe Hajime as a reader. |
@@ -105,7 +105,8 @@ Dates follow the chronology in Hiroshi Nara, *The Structure of Detachment* (2004
 | 1937 | "Nihonteki seikaku" (Japanese Character), in *Shisō*; "Jikyoku no kansō" (Thoughts on the Current State of Affairs), in *Bungei shunjū*. |
 | 1939 | August: travels in Manchuria and China. September: *Ningen to jitsuzon* (Man and Existence), Iwanami. |
 | 1940 | Moves to Yamashina, outside Kyoto. |
-| 1941 | *Bungeiron* (A Discussion of the Literary Arts). 6 May: dies of peritonitis in Kyoto, aged 53. He is buried beside Hōnen-in, Kyoto (Maraldo 2008, 37); the epitaph on his grave was written by Nishida Kitarō. |
+| 1941 | 6 May: dies of peritonitis in the hospital of Kyoto Prefectural Medical University, aged 53. 22 June: his ashes are buried in the grounds of Hōnen-in, Kyoto. September: *Bungeiron* (A Discussion of the Literary Arts), Iwanami. |
+| 1945 | The gravestone at Hōnen-in is completed. On its side is Goethe's "Wandrers Nachtlied" ("Über allen Gipfeln ist Ruh") in Nishida Kitarō's translation and in his hand: 「見はるかす / 山のいただき / 梢には / 風も動かず / 鳥も鳴かず / 待てしばし / やがて汝も休まん」 (The mountain summits seen from afar; in the treetops no wind stirs, no bird sings; wait a while, soon you too will rest). On its front is 「九鬼周造之墓」, the grave of Kuki Shūzō. |
 | 1948 | Fourth printing of *Gūzensei no mondai*, the text translated here. |
 | 1957 | His Kyoto lectures on contemporary French philosophy are published. |
 | 1966 | French translation of *Gūzensei no mondai* by Omodaka Hisayuki, *Le problème de la contingence*. |
