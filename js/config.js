@@ -127,6 +127,21 @@
       form: 'Form: [REF: TR, <file>:<lines>], e.g. [REF: TR, Kuki_Problem-of-Contingency_translation.md:93].',
       versions: { title: 'The texts', all: true }
     },
+    // Versions ▸ This version: the kit's rows (the files, how they are read), and on the translation's page the book
+    version: {
+      rows: function (b) {
+        var S = root.SW, rows = [
+          ['Files', b.parts.map(function (p, i) {
+            return '<a href="' + S.esc(S.sourceURL(p.src)) + '" target="_blank" rel="noopener">' + S.esc(p.src.split('/').pop()) + '</a>' +
+              (!S.mainPart(p) ? ' <span class="faint">(' + (p.role === 'doc' ? 'documentation' : 'support') + ')</span>' : '') +
+              ' <span class="faint">' + b.lines[i].length + ' lines</span>';
+          }).join('<br>') || 'none'],
+          ['Read as', b.v.build ? 'source text, divided into lines' : 'no copy is held']
+        ];
+        if (b.v.id === 'translation') rows.push(['The book', '<a href="translation/book/Kuki_Problem-of-Contingency.pdf" target="_blank" rel="noopener">Download as book (PDF)</a> <span class="faint">the translation as typeset, a PDF of 238 pages</span>']);
+        return rows;
+      }
+    },
     // the typeset book at the foot of Versions ▾ (copied by tools/refresh.js with the text)
     menus: { links: { versions: [{ label: 'Download as book (PDF)', text: 'The translation as typeset', href: 'translation/book/Kuki_Problem-of-Contingency.pdf' }] } },
     sitemap: true

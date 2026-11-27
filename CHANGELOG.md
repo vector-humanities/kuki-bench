@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.49 (2026-11-27)
+
+- Versions ▸ This version: the translation's page gives the book, Download as book (PDF), beside its files
+
 ## 0.2.48 (2026-11-27)
 
 - The translation refreshed to its working repository at d7d4fab: corrections in both versions (the Poincaré page on p. 98, the lesser digrams on p. 151 as Kuki prints them, turtle on p. 277, Henjō's line on p. 281), notes revised, the concordance appendix removed from the book (the index is now Appendix C); the book is now 238 pages. Highlight links rebuilt for the six pages whose sentences changed
