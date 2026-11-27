@@ -1,6 +1,6 @@
 # Kuki Research Bench
 
-**Version:** 0.2.62 (bench-kit 1.9.13)  
+**Version:** 0.2.63 (bench-kit 1.9.13)  
 **Live:** https://vector-humanities.github.io/kuki-bench/
 
 A research bench for reading the vector translation of Kuki Shūzō's 偶然性の問題 (*The Problem of Contingency*, Iwanami Shoten, 1935) beside its source. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), from its translation template, and reads a translation made by the [vector translation method](https://github.com/vector-humanities/vector-translation).
@@ -52,6 +52,12 @@ node tools/regions.js                                    # write regions/N.json
 ```
 
 Run `node tools/regions.js` again after each refresh of the translation: the reading of the pages does not change, and the places follow the text. `tools/page-iiif.js` writes the same reading as IIIF annotations on the library's own canvases (one AnnotationPage to a page, each column an annotation with its text and its place). The translation's working repository keeps the reading in both forms, Vision's own JSON and the IIIF annotations.
+
+## Rare characters
+
+A character outside the fonts most systems carry shows on the web as an empty box. The translation has one, 𩨒 (U+29A12, a form of 肌 written with 骨), in the translator's note on Kuki's quotation from the *Liezi* (note 6 of Chapter 1, called on p. 31); the typeset book sets it in Hanazono Mincho. The bench holds that one character from Hanazono Mincho B as a font of 852 bytes, `fonts/hanamin-b-u29a12.woff2`, made from GlyphWiki's font, whose glyphs are free to use and redistribute. `css/bench.css` names it first in the bench's serif, sans and monospace fonts with `unicode-range: U+29A12`, so it is used for that character alone and fetched only where it is shown; the text itself is unchanged, so copying, search, annotations and highlight links read the character as it is.
+
+To add another such character: take it from a font that has it, with fontTools (`pyftsubset <font> --unicodes=U+XXXXX --flavor=woff2 --output-file=fonts/<name>.woff2`), and add a `@font-face` with its `unicode-range` in `css/bench.css`.
 
 ## Running it locally
 
