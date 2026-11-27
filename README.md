@@ -1,6 +1,6 @@
 # Kuki Research Bench
 
-**Version:** 0.2.67 (bench-kit 1.9.14)  
+**Version:** 0.2.68 (bench-kit 1.9.15)  
 **Live:** https://vector-humanities.github.io/kuki-bench/
 
 A research bench for reading the vector translation of Kuki Shūzō's 偶然性の問題 (*The Problem of Contingency*, Iwanami Shoten, 1935) beside its source. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), from its translation template, and reads a translation made by the [vector translation method](https://github.com/vector-humanities/vector-translation).
@@ -61,7 +61,7 @@ To add another such character: take it from a font that has it, with fontTools (
 
 ## Link previews
 
-A link to the bench shared on LinkedIn, Bluesky, Mastodon, Slack and the like shows a card: the title "Kuki Research Bench: The Problem of Contingency", a line on what the bench holds, and `img/og.jpg`, a picture 1200 × 627 of Pages on p. 81 with a sentence of the translation and its columns on the page lit. The card comes from the Open Graph and Twitter tags in `index.html`, which the services read without running the page; the Library page's card uses the same picture. A service keeps the card it first made for an address for some days: LinkedIn's Post Inspector reads the address again, and an address it has not seen (such as `?v=translation&tab=book`) gets a fresh card.
+A link to the bench shared on LinkedIn, Bluesky, Mastodon, Slack and the like shows a card: the title "Kuki Research Bench: The Problem of Contingency", a line on what the bench holds, and `img/og.jpg`, a picture 1200 × 627 of Pages on p. 81 with a sentence of the translation and its columns on the page lit. The card comes from the Open Graph and Twitter tags in `index.html`, which the services read without running the page; `kit/tools/release.js` writes them at each release from `about.card` in `js/config.js`, and gives the picture's address a version taken from its bytes, so a new picture is fetched afresh; the Library page's card uses the same picture. A service keeps the card it first made for an address for some days: LinkedIn's Post Inspector reads the address again, and an address it has not seen (such as `?v=translation&tab=book`) gets a fresh card.
 
 ## Running it locally
 

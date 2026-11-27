@@ -85,6 +85,10 @@
     menusOff: ['topics', 'paratexts'],                     // EDIT: take 'topics' out once a model is made (kit/docs/topics-guide.md); 'paratexts' once the group has documents about the work
 
     about: {
+      // the link preview (Open Graph and Twitter tags in index.html, written by kit/tools/release.js)
+      card: { title: 'Kuki Research Bench: The Problem of Contingency', site: 'Vector Humanities', image: 'img/og.jpg',
+        description: 'Kuki Shūzō\'s The Problem of Contingency (偶然性の問題, 1935) in a vector translation, read beside the 1948 printing: each sentence linked to its place on the page, with notes and the typeset book.',
+        alt: 'The bench\'s Pages view: p. 81 of the 1948 printing beside the translation, a sentence of the translation and its columns on the page lit in indigo' },
       icon: '<img src="img/icon.svg" alt="" width="40" height="40">',
       author: 'David M. Berry', citeAuthor: 'Berry, D. M.',
       purpose: 'A bench for reading the vector translation of Kuki Shūzō’s 偶然性の問題 (<i>The Problem of Contingency</i>, 1935) beside its source: each page of the 1948 printing beside the translation, each sentence of the translation linked to its place on the page (and shared, with the page, as a picture or a link), with the literal translation one switch away, the glossary as a concordance, the change lists of the translation and where each change is now, and a source word looked for in a Tesseract OCR of the page images.',
