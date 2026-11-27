@@ -115,3 +115,14 @@ button.badge.err { cursor: pointer; font: inherit; }
 /* ---------- the language, beside the picker ---------- */
 .vlang { font: 10px var(--mono); letter-spacing: 0.5px; color: var(--text-faint); margin-left: 8px; white-space: nowrap; }
 @media (max-width: 900px) { .vlang { display: none; } }
+
+/* 𩨒 (U+29A12, in note c1s4-v1, Kuki's quotation from the Liezi) is outside the fonts most systems have.
+   fonts/hanamin-b-u29a12.woff2 holds that one character from Hanazono Mincho B (GlyphWiki, free to use
+   and redistribute), the face the typeset book uses for it; unicode-range keeps it to that character, so
+   the browser fetches it only where the character is shown. */
+@font-face { font-family: "Kuki Rare"; src: url("../fonts/hanamin-b-u29a12.woff2") format("woff2"); unicode-range: U+29A12; font-display: swap; }
+:root {
+  --serif: "Kuki Rare", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: "Kuki Rare", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --mono: "Kuki Rare", ui-monospace, "SF Mono", "JetBrains Mono", "Cascadia Code", Menlo, Consolas, monospace;
+}

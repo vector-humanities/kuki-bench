@@ -1,6 +1,6 @@
 # Kuki Research Bench
 
-**Version:** 0.2.61 (bench-kit 1.9.13)  
+**Version:** 0.2.62 (bench-kit 1.9.13)  
 **Live:** https://vector-humanities.github.io/kuki-bench/
 
 A research bench for reading the vector translation of Kuki Shūzō's 偶然性の問題 (*The Problem of Contingency*, Iwanami Shoten, 1935) beside its source. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), from its translation template, and reads a translation made by the [vector translation method](https://github.com/vector-humanities/vector-translation).
@@ -65,7 +65,7 @@ and open `http://localhost:8000/`. File ▾ ▸ Open a folder… reads a working
 
 ## Sources
 
-九鬼周造『偶然性の問題』岩波書店, first printing 15 December 1935; fourth printing 20 April 1948, from National Diet Library Digital Collections, [pid 1037966](https://dl.ndl.go.jp/pid/1037966). Kuki died in 1941; the text is in the public domain. Page images and figures: 国立国会図書館 National Diet Library, JAPAN.
+九鬼周造『偶然性の問題』岩波書店, first printing 15 December 1935; fourth printing 20 April 1948, from National Diet Library Digital Collections, [pid 1037966](https://dl.ndl.go.jp/pid/1037966). Kuki died in 1941; the text is in the public domain. Page images and figures: 国立国会図書館 National Diet Library, JAPAN. The one character 𩨒 (U+29A12), in a translator's note on p. 31, is set in a one-character subset of Hanazono Mincho B (`fonts/hanamin-b-u29a12.woff2`), from GlyphWiki (https://glyphwiki.org), whose glyphs are free to use and redistribute.
 
 ## Colours
 

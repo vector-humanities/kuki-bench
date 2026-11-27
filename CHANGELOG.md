@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.62 (2026-11-27)
+
+- 𩨒 (U+29A12), in the translator's note on Kuki's quotation from the Liezi (p. 31), now shows on any system: a one-character font from Hanazono Mincho B (GlyphWiki), fetched only where the character is shown; credited in About and the README
+
 ## 0.2.61 (2026-11-27)
 
 - bench-kit 1.9.13: a Page box in Book's toolbar, before Bookmarks: type a page of the 1948 printing and Return to go to it; a link can name a page (page=81)
