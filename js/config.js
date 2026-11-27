@@ -138,7 +138,7 @@
           }).join('<br>') || 'none'],
           ['Read as', b.v.build ? 'source text, divided into lines' : 'no copy is held']
         ];
-        if (b.v.id === 'translation') rows.push(['The book', '<a style="text-decoration:none" class="btn" href="translation/book/Kuki_Problem-of-Contingency.pdf" target="_blank" rel="noopener">⤓ Download the book (PDF)</a> <span class="faint">the translation as typeset, a PDF of 238 pages</span>']);
+        if (b.v.id === 'translation') rows.push(['The book', '<a style="text-decoration:none;background:var(--beam);border-color:var(--beam);color:var(--bg);font-weight:600;padding:4px 12px" class="btn" href="translation/book/Kuki_Problem-of-Contingency.pdf" target="_blank" rel="noopener">⤓ Download the book (PDF)</a> <span class="faint">the translation as typeset, a PDF of 238 pages</span>']);
         return rows;
       }
     },
