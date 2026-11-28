@@ -92,7 +92,7 @@
       icon: '<img src="img/icon.svg" alt="" width="40" height="40">',
       author: 'David M. Berry', citeAuthor: 'Berry, D. M.',
       purpose: 'A bench for reading the vector translation of Kuki Shūzō’s 偶然性の問題 (<i>The Problem of Contingency</i>, 1935) beside its source: each page of the 1948 printing beside the translation, each sentence of the translation linked to its place on the page (and shared, with the page, as a picture or a link), with the literal translation one switch away, the glossary as a concordance, the change lists of the translation and where each change is now, and a source word looked for in a Tesseract OCR of the page images.',
-      inside: 'The translation and the literal translation (preliminary, October–November 2026), divided into lines and set as pages; the translator’s notes, beside the text in Book; the glossary; the change lists of the terminology pass and the read-through; the agents’ briefs and editor’s notes; Kuki’s 22 figures; the place of each sentence of the translation on its page, estimated from macOS Vision’s reading of the page images; a Tesseract OCR of the 1948 printing, for search.; the translation typeset as a book, <a href="translation/book/Kuki_Problem-of-Contingency.pdf" target="_blank" rel="noopener">a PDF of 238 pages</a> (Preliminary edition, version 1.1 (27 November 2026))',
+      inside: 'The translation and the literal translation (preliminary, October–November 2026), divided into lines and set as pages; the translator’s notes, beside the text in Book; the glossary; the change lists of the terminology pass and the read-through; the agents’ briefs and editor’s notes; Kuki’s 22 figures; the place of each sentence of the translation on its page, estimated from macOS Vision’s reading of the page images; a Tesseract OCR of the 1948 printing, for search; the translation typeset as a book, <a href="translation/book/Kuki_Problem-of-Contingency.pdf" target="_blank" rel="noopener">a PDF of 238 pages</a> (Preliminary edition, version 1.1 (27 November 2026)), also on Zenodo, DOI <a href="https://doi.org/10.5281/zenodo.24631692" target="_blank" rel="noopener">10.5281/zenodo.24631692</a>',
       sources: 'Kuki Shūzō, 偶然性の問題, Iwanami Shoten, 1935; fourth printing 1948, National Diet Library Digital Collections pid 1037966 (public domain). The translation: CC BY 4.0. The text held is a copy of the translation’s working repository at the commit named in translation/SOURCE.json. The character 𩨒 is set in a one-character subset of Hanazono Mincho B, from GlyphWiki (glyphwiki.org).',
       code: 'https://github.com/vector-humanities/kuki-bench',
       catalogue: { skip: [], held: 'held' }
@@ -138,7 +138,7 @@
       // Cite this version, in Harvard form (the kit sets *…* in italics)
       cite: function (v, o) {
         var by = ' Translated by D. M. Berry. Brighton: Vector Humanities Press. Available at: ' + o.url + ' (Accessed: ' + new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }) + ').';
-        if (v.id === 'translation') return 'Kuki, S. (2026 [1935]) *The Problem of Contingency*.' + by;
+        if (v.id === 'translation') return 'Kuki, S. (2026 [1935]) *The Problem of Contingency*. Translated by D. M. Berry. Preliminary edition, version 1.1. Brighton: Vector Humanities Press. Available at: https://doi.org/10.5281/zenodo.24631692.';   // the typeset book, on Zenodo
         if (v.id === 'literal') return 'Kuki, S. (2026 [1935]) *The Problem of Contingency* (literal translation).' + by;
         if (v.id === 'ocr') return 'Kuki, S. (1948 [1935]) *偶然性の問題* [The Problem of Contingency]. 4th printing. Tokyo: Iwanami Shoten.';
       },
@@ -151,12 +151,12 @@
           }).join('<br>') || 'none'],
           ['Read as', b.v.build ? 'source text, divided into lines' : 'no copy is held']
         ];
-        if (b.v.id === 'translation') rows.push(['The book', '<a style="text-decoration:none;background:var(--beam);border-color:var(--beam);color:var(--bg);font-weight:600;padding:4px 12px" class="btn" href="translation/book/Kuki_Problem-of-Contingency.pdf" target="_blank" rel="noopener">⤓ Download the book (PDF)</a> <span class="faint">the translation as typeset, Preliminary edition, version 1.1 (27 November 2026), a PDF of 238 pages</span>']);
+        if (b.v.id === 'translation') rows.push(['The book', '<a style="text-decoration:none;background:var(--beam);border-color:var(--beam);color:var(--bg);font-weight:600;padding:4px 12px" class="btn" href="translation/book/Kuki_Problem-of-Contingency.pdf" target="_blank" rel="noopener">⤓ Download the book (PDF)</a> <span class="faint">the translation as typeset, Preliminary edition, version 1.1 (27 November 2026), a PDF of 238 pages, DOI <a href="https://doi.org/10.5281/zenodo.24631692" target="_blank" rel="noopener">10.5281/zenodo.24631692</a></span>']);
         return rows;
       }
     },
     // the typeset book at the foot of Versions ▾ (copied by tools/refresh.js with the text)
-    menus: { links: { versions: [{ label: 'Download as book (PDF)', text: 'The translation as typeset: Preliminary edition, version 1.1 (27 November 2026)', href: 'translation/book/Kuki_Problem-of-Contingency.pdf' }] } },
+    menus: { links: { versions: [{ label: 'Download as book (PDF)', text: 'The translation as typeset: Preliminary edition, version 1.1 (27 November 2026), DOI 10.5281/zenodo.24631692', href: 'translation/book/Kuki_Problem-of-Contingency.pdf' }] } },
     sitemap: true
   };
 })(typeof window !== 'undefined' ? window : globalThis);

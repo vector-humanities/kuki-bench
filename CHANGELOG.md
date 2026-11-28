@@ -2,6 +2,10 @@
 
 Changes to the Kuki Research Bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`).
 
+## 0.2.69 (2026-11-28)
+
+- The book on Zenodo: the PDF with its DOI; the DOI in Cite this version, the book row, Versions ▾ and About
+
 ## 0.2.68 (2026-11-27)
 
 - bench-kit 1.9.15: the link preview's tags written into index.html from about.card at each release (title, description, the p. 81 picture with its size, type and a version in its address, alt text, and the Twitter title and description); the Library page's card keeps its picture's size
